@@ -12,10 +12,12 @@ Contributions, pull requests are welcomed!
 
 * [discourse](https://github.com/discourse/discourse) - A platform for community discussion
 
-## Fundraising
+## Crowdfunding & Fundraising
 
-* [neighborly](https://github.com/neighborly/neighborly) - Open source fundraising toolkit for civic projects
 * [catarse](https://github.com/catarse/catarse) - The first open source crowdfunding platform for creative projects in the world
+* [neighborly](https://github.com/neighborly/neighborly) - Open source fundraising toolkit for civic projects
+* [selfstarter](https://github.com/lockitron/selfstarter) - Roll your own crowdfunding
+* [CrowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) - Open source crowdfunding platform
 
 ## Project Management
 
@@ -23,6 +25,7 @@ Contributions, pull requests are welcomed!
 * [kanban](https://github.com/somlor/kanban) - A Trello clone in Rails and Backbone.js
 * [teambox](https://github.com/teambox/teambox) - The award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter
 * [people](https://github.com/netguru/people) - Manage people within the projects
+* [openproject](https://github.com/opf/openproject) - A web based project management system built on Ruby on Rails
 
 ## Social Networking
 
@@ -39,7 +42,6 @@ Contributions, pull requests are welcomed!
 * [brimir](https://github.com/ivaldi/brimir) - Email helpdesk built using Ruby on Rails and Zurb Foundation
 * [RapidFTR](https://github.com/rapidftr/RapidFTR) - An Android-based mobile application that lets aid workers collect, sort and share information about children in emergency situations
 * [lobsters](https://github.com/jcs/lobsters) - Rails code running the lobste.rs link aggregation site
-* [selfstarter](https://github.com/lockitron/selfstarter) - Roll your own crowdfunding
 * [feedbin](https://github.com/feedbin/feedbin) - A simple, fast and nice looking RSS reader.
 * [bike_index](https://github.com/bikeindex/bike_index) - An online bike registry
 * [calagator](https://github.com/calagator/calagator) - An event aggregator based in Portland, OR
@@ -52,4 +54,10 @@ Contributions, pull requests are welcomed!
 * [hummingbird](https://github.com/hummingbird-me/hummingbird) - A modern anime discovery platform
 * [canvas-lms](https://github.com/instructure/canvas-lms) - A new, open-source learning management system by Instructure Inc
 * [loomio](https://github.com/loomio/loomio) - A collaborative decision-making tool that makes it easy for anyone
-* [CrowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) - Open source crowdfunding platform
+* [dgi-db](https://github.com/genome/dgi-db) - Rails frontend to The Genome Institute's drug gene interaction database
+* [sharetribe](https://github.com/sharetribe/sharetribe) - A platform for setting up your own peer-to-peer marketplace online
+* [onebody](https://github.com/churchio/onebody) - A private member portal for churches built with Ruby on Rails
+* [rletters](https://github.com/rletters/rletters) - Web application designed to perform digital humanities research tasks on a database of journal articles
+* [openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website) - Mirror of the Rails application powering http://www.openstreetmap.org
+* [scholarsphere](https://github.com/psu-stewardship/scholarsphere) - A web application for ingest, curation, search, and display of digital assets
+* [quant](https://github.com/getquant/quant) - Quant is a prototype/experiment of a personal health tracker
