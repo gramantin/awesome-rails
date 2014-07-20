@@ -34,30 +34,30 @@ Contributions, pull requests are welcomed!
 
 ## Miscellaneous (Not Categorised Yet)
 
-* [gitlabhq](https://github.com/gitlabhq/gitlabhq) - Open source software to collaborate on code
-* [rubygems.org](https://github.com/rubygems/rubygems.org) - The Ruby community's gem hosting service
-* [otwarchive](https://github.com/otwcode/otwarchive) - An open-source web application intended for hosting archives of fanworks, including fanfic, fanart, and fan vids
-* [peatio](https://github.com/peatio/peatio) - An open-source crypto currency exchange
-* [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) - A Ruby on Rails application that allows citizens to "adopt" civic infrastructure, such as fire hydrants
-* [brimir](https://github.com/ivaldi/brimir) - Email helpdesk built using Ruby on Rails and Zurb Foundation
-* [RapidFTR](https://github.com/rapidftr/RapidFTR) - An Android-based mobile application that lets aid workers collect, sort and share information about children in emergency situations
-* [lobsters](https://github.com/jcs/lobsters) - Rails code running the lobste.rs link aggregation site
-* [feedbin](https://github.com/feedbin/feedbin) - A simple, fast and nice looking RSS reader.
-* [bike_index](https://github.com/bikeindex/bike_index) - An online bike registry
-* [calagator](https://github.com/calagator/calagator) - An event aggregator based in Portland, OR
-* [opensit](https://github.com/danbartlett/opensit) - An open source meditation community
-* [WebsiteOne](https://github.com/AgileVentures/WebsiteOne) - A platform for online collaboration and crowdsourced project development
-* [sanataro](https://github.com/kaznum/sanataro) - Simple Web Household Account Book. built with Ruby on Rails
-* [danbooru](https://github.com/r888888888/danbooru) - A taggable image board written in Rails 3
-* [opencongress](https://github.com/sunlightlabs/opencongress) - An open website for opening Congress
-* [inaturalist](https://github.com/inaturalist/inaturalist) - Open source Rails app behind iNaturalist.org
-* [hummingbird](https://github.com/hummingbird-me/hummingbird) - A modern anime discovery platform
-* [canvas-lms](https://github.com/instructure/canvas-lms) - A new, open-source learning management system by Instructure Inc
-* [loomio](https://github.com/loomio/loomio) - A collaborative decision-making tool that makes it easy for anyone
-* [dgi-db](https://github.com/genome/dgi-db) - Rails frontend to The Genome Institute's drug gene interaction database
-* [sharetribe](https://github.com/sharetribe/sharetribe) - A platform for setting up your own peer-to-peer marketplace online
-* [onebody](https://github.com/churchio/onebody) - A private member portal for churches built with Ruby on Rails
-* [rletters](https://github.com/rletters/rletters) - Web application designed to perform digital humanities research tasks on a database of journal articles
-* [openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website) - Mirror of the Rails application powering http://www.openstreetmap.org
-* [scholarsphere](https://github.com/psu-stewardship/scholarsphere) - A web application for ingest, curation, search, and display of digital assets
-* [quant](https://github.com/getquant/quant) - Quant is a prototype/experiment of a personal health tracker
+* [gitlabhq](https://github.com/gitlabhq/gitlabhq) - :star: 10,000+ - Open source software to collaborate on code - https://gitlab.com/gitlab-org/gitlab-ce/
+* [rubygems.org](https://github.com/rubygems/rubygems.org) - :star: 500+ - The Ruby community's gem hosting service - https://rubygems.org/
+* [otwarchive](https://github.com/otwcode/otwarchive) - :star: 100+ - An open-source web application intended for hosting archives of fanworks, including fanfic, fanart, and fan vids - http://archiveofourown.org/
+* [peatio](https://github.com/peatio/peatio) - :star: 100+ - An open-source crypto currency exchange - https://peatio.com/
+* [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) - :star: 100+ - A Ruby on Rails application that allows citizens to "adopt" civic infrastructure, such as fire hydrants - http://adopt-a-hydrant.heroku.com/
+* [brimir](https://github.com/ivaldi/brimir) - :star: 500+ - Email helpdesk built using Ruby on Rails and Zurb Foundation - http://demo.getbrimir.com/
+* [RapidFTR](https://github.com/rapidftr/RapidFTR) - :star: 100+ - An Android-based mobile application that lets aid workers collect, sort and share information about children in emergency situations
+* [lobsters](https://github.com/jcs/lobsters) - :star: 500+ - Rails code running the lobste.rs link aggregation site
+* [feedbin](https://github.com/feedbin/feedbin) - :star: 1,000+ - A simple, fast and nice looking RSS reader.
+* [bike_index](https://github.com/bikeindex/bike_index) - :star: 50+ - An online bike registry
+* [calagator](https://github.com/calagator/calagator) - :star: 100+ - An event aggregator based in Portland, OR
+* [opensit](https://github.com/danbartlett/opensit) - :star: 10+ - An open source meditation community
+* [WebsiteOne](https://github.com/AgileVentures/WebsiteOne) - :star: 10+ - A platform for online collaboration and crowdsourced project development
+* [sanataro](https://github.com/kaznum/sanataro) - :star: 10+ - Simple Web Household Account Book. built with Ruby on Rails
+* [danbooru](https://github.com/r888888888/danbooru) - :star: 100+ - A taggable image board written in Rails 3
+* [opencongress](https://github.com/sunlightlabs/opencongress) - :star: 10+ - An open website for opening Congress
+* [inaturalist](https://github.com/inaturalist/inaturalist) - :star: 50+ - Open source Rails app behind iNaturalist.org
+* [hummingbird](https://github.com/hummingbird-me/hummingbird) - :star: 1,000+ - A modern anime discovery platform
+* [canvas-lms](https://github.com/instructure/canvas-lms) - :star: 1,000+ - A new, open-source learning management system by Instructure Inc
+* [loomio](https://github.com/loomio/loomio) - :star: 500+ - A collaborative decision-making tool that makes it easy for anyone
+* [dgi-db](https://github.com/genome/dgi-db) - :star: 10+ - Rails frontend to The Genome Institute's drug gene interaction database
+* [sharetribe](https://github.com/sharetribe/sharetribe) - :star: 50+ - A platform for setting up your own peer-to-peer marketplace online
+* [onebody](https://github.com/churchio/onebody) - :star: 100+ - A private member portal for churches built with Ruby on Rails
+* [rletters](https://github.com/rletters/rletters) - :star: 10+ - Web application designed to perform digital humanities research tasks on a database of journal articles
+* [openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website) - :star: 100+ - Mirror of the Rails application powering http://www.openstreetmap.org
+* [scholarsphere](https://github.com/psu-stewardship/scholarsphere) - :star: 10+ - A web application for ingest, curation, search, and display of digital assets
+* [quant](https://github.com/getquant/quant) - :star: 50+ - Quant is a prototype/experiment of a personal health tracker
