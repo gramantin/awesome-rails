@@ -5,8 +5,8 @@ Contributions, pull requests are welcomed!
 
 ## Blogging
 
-* [publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails
-* [obtvse2](https://github.com/natew/obtvse2) - A clean and simple markdown blogging platform on Rails
+* [publify](https://github.com/publify/publify) - :stars: 1,000+ - A self hosted Web publishing platform on Rails - [Demo](http://demo.publify.co/)
+* [obtvse2](https://github.com/natew/obtvse2) - :stars: 100+ - A clean and simple markdown blogging platform on Rails - [Demo](http://obtvse2.herokuapp.com/)
 
 ## Community Management
 
