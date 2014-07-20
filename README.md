@@ -1,6 +1,6 @@
 # AwesomeRails
 
-A collection of awesome projects, sites made with Rails. Inspired by other awesome-* stuffs like [below](#Notable-Awesome-Stuffs)
+A collection of awesome projects, sites made with Rails. Inspired by other awesome-* stuffs like [below](#notable-awesome-stuffs)
 Contributions, pull requests are welcomed!
 
 ## Blogging
