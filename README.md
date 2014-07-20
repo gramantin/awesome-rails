@@ -1,6 +1,7 @@
 # AwesomeRails
 
-A collection of awesome projects, sites made with Rails.
+A collection of awesome projects, sites made with Rails. Inspired by other awesome-* stuffs like [awesome-ruby](https://github.com/Sdogruyol/awesome-ruby), [awesome-go](https://github.com/avelino/awesome-go).
+Contributions, pull requests are welcomed!
 
 ## Blogging
 
@@ -21,6 +22,7 @@ A collection of awesome projects, sites made with Rails.
 * [redmine](https://github.com/edavis10/redmine) - A flexible project management web application written using Ruby on Rails
 * [kanban](https://github.com/somlor/kanban) - A Trello clone in Rails and Backbone.js
 * [teambox](https://github.com/teambox/teambox) - The award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter
+* [people](https://github.com/netguru/people) - Manage people within the projects
 
 ## Social Networking
 
@@ -39,6 +41,15 @@ A collection of awesome projects, sites made with Rails.
 * [lobsters](https://github.com/jcs/lobsters) - Rails code running the lobste.rs link aggregation site
 * [selfstarter](https://github.com/lockitron/selfstarter) - Roll your own crowdfunding
 * [feedbin](https://github.com/feedbin/feedbin) - A simple, fast and nice looking RSS reader.
-
-
-Contributions, pull requests are welcome!
+* [bike_index](https://github.com/bikeindex/bike_index) - An online bike registry
+* [calagator](https://github.com/calagator/calagator) - An event aggregator based in Portland, OR
+* [opensit](https://github.com/danbartlett/opensit) - An open source meditation community
+* [WebsiteOne](https://github.com/AgileVentures/WebsiteOne) - A platform for online collaboration and crowdsourced project development
+* [sanataro](https://github.com/kaznum/sanataro) - Simple Web Household Account Book. built with Ruby on Rails
+* [danbooru](https://github.com/r888888888/danbooru) - A taggable image board written in Rails 3
+* [opencongress](https://github.com/sunlightlabs/opencongress) - An open website for opening Congress
+* [inaturalist](https://github.com/inaturalist/inaturalist) - Open source Rails app behind iNaturalist.org
+* [hummingbird](https://github.com/hummingbird-me/hummingbird) - A modern anime discovery platform
+* [canvas-lms](https://github.com/instructure/canvas-lms) - A new, open-source learning management system by Instructure Inc
+* [loomio](https://github.com/loomio/loomio) - A collaborative decision-making tool that makes it easy for anyone
+* [CrowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) - Open source crowdfunding platform
