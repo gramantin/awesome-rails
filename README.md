@@ -5,19 +5,19 @@ Contributions, pull requests are welcomed!
 
 ## Blogging
 
-* [publify](https://github.com/publify/publify) - :stars: 1,000+ - A self hosted Web publishing platform on Rails - [Demo](http://demo.publify.co/)
-* [obtvse2](https://github.com/natew/obtvse2) - :stars: 100+ - A clean and simple markdown blogging platform on Rails - [Demo](http://obtvse2.herokuapp.com/)
+* [publify](https://github.com/publify/publify) - :star: 1,000+ - A self hosted Web publishing platform on Rails - [Demo](http://demo.publify.co/)
+* [obtvse2](https://github.com/natew/obtvse2) - :star: 100+ - A clean and simple markdown blogging platform on Rails - [Demo](http://obtvse2.herokuapp.com/)
 
 ## Community Management
 
-* [discourse](https://github.com/discourse/discourse) - A platform for community discussion
+* [discourse](https://github.com/discourse/discourse) - :star: 10,000+ - A platform for community discussion - http://try.discourse.org/
 
 ## Crowdfunding & Fundraising
 
-* [catarse](https://github.com/catarse/catarse) - The first open source crowdfunding platform for creative projects in the world
-* [neighborly](https://github.com/neighborly/neighborly) - Open source fundraising toolkit for civic projects
-* [selfstarter](https://github.com/lockitron/selfstarter) - Roll your own crowdfunding
-* [CrowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) - Open source crowdfunding platform
+* [catarse](https://github.com/catarse/catarse) - :star: 500+ - The first open source crowdfunding platform for creative projects in the world - http://catarse.me/
+* [neighborly](https://github.com/neighborly/neighborly) - :star: 10+ - Open source fundraising toolkit for civic projects - http://neighbor.ly/
+* [selfstarter](https://github.com/lockitron/selfstarter) - :star: 1,000+ - Roll your own crowdfunding - http://selfstarter.us/
+* [CrowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) - :star: 100+ - Open source crowdfunding platform - http://open.crowdtilt.com/
 
 ## Project Management
 
