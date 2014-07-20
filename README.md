@@ -43,6 +43,7 @@ Contributions, pull requests are welcomed!
 * [rubygems.org](https://github.com/rubygems/rubygems.org) - :star: 500+ - The Ruby community's gem hosting service - [Live](https://rubygems.org/)
 * [brimir](https://github.com/ivaldi/brimir) - :star: 500+ - Email helpdesk built using Ruby on Rails and Zurb Foundation - [Live](http://demo.getbrimir.com/)
 * [lobsters](https://github.com/jcs/lobsters) - :star: 500+ - Rails code running the lobste.rs link aggregation site
+* [juvia](https://github.com/phusion/juvia) - :star: 500+ - A commenting server similar to Disqus and IntenseDebate - [Live](http://juvia-demo.phusion.nl/)
 * [otwarchive](https://github.com/otwcode/otwarchive) - :star: 100+ - An open-source web application intended for hosting archives of fanworks, including fanfic, fanart, and fan vids - [Live](http://archiveofourown.org/)
 * [peatio](https://github.com/peatio/peatio) - :star: 100+ - An open-source crypto currency exchange - [Live](https://peatio.com/)
 * [openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website) - :star: 100+ - Mirror of the Rails application powering [Live](http://www.openstreetmap.org)
@@ -55,6 +56,7 @@ Contributions, pull requests are welcomed!
 * [sharetribe](https://github.com/sharetribe/sharetribe) - :star: 50+ - A platform for setting up your own peer-to-peer marketplace online
 * [quant](https://github.com/getquant/quant) - :star: 50+ - Quant is a prototype/experiment of a personal health tracker
 * [bike_index](https://github.com/bikeindex/bike_index) - :star: 50+ - An online bike registry
+* [follow-all](https://github.com/codeforamerica/follow-all) - :star: 50+ - Follow all the members of a Twitter list with a single click - [Live](http://follow-all.herokuapp.com/)
 * [WebsiteOne](https://github.com/AgileVentures/WebsiteOne) - :star: 10+ - A platform for online collaboration and crowdsourced project development
 * [sanataro](https://github.com/kaznum/sanataro) - :star: 10+ - Simple Web Household Account Book. built with Ruby on Rails
 * [opencongress](https://github.com/sunlightlabs/opencongress) - :star: 10+ - An open website for opening Congress
@@ -62,6 +64,7 @@ Contributions, pull requests are welcomed!
 * [scholarsphere](https://github.com/psu-stewardship/scholarsphere) - :star: 10+ - A web application for ingest, curation, search, and display of digital assets
 * [opensit](https://github.com/danbartlett/opensit) - :star: 10+ - An open source meditation community
 * [dgi-db](https://github.com/genome/dgi-db) - :star: 10+ - Rails frontend to The Genome Institute's drug gene interaction database
+* [Beatstream](https://github.com/Darep/Beatstream) - :star: 10+ - App for streaming music from any computer running Ruby on Rails to anywhere
 
 # Notable Awesome Stuffs
 
