@@ -11,6 +11,7 @@ Contributions, pull requests are welcomed!
 ## Community Management
 
 * [discourse](https://github.com/discourse/discourse) - :star: 10,000+ - A platform for community discussion - [Live](http://try.discourse.org/)
+* [campo](https://github.com/chloerei/campo) - :star: 100+ - A lightweight forum application, base on Ruby on Rails - [Live](http://codecampo.com/)
 
 ## Crowdfunding & Fundraising
 
