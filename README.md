@@ -5,32 +5,32 @@ Contributions, pull requests are welcomed!
 
 ## Blogging
 
-* [publify](https://github.com/publify/publify) - :star: 1,000+ - A self hosted Web publishing platform on Rails - [Demo](http://demo.publify.co/)
-* [obtvse2](https://github.com/natew/obtvse2) - :star: 100+ - A clean and simple markdown blogging platform on Rails - [Demo](http://obtvse2.herokuapp.com/)
+* [publify](https://github.com/publify/publify) - :star: 1,000+ - A self hosted Web publishing platform on Rails - [Live](http://demo.publify.co/)
+* [obtvse2](https://github.com/natew/obtvse2) - :star: 100+ - A clean and simple markdown blogging platform on Rails - [Live](http://obtvse2.herokuapp.com/)
 
 ## Community Management
 
-* [discourse](https://github.com/discourse/discourse) - :star: 10,000+ - A platform for community discussion - http://try.discourse.org/
+* [discourse](https://github.com/discourse/discourse) - :star: 10,000+ - A platform for community discussion - [Live](http://try.discourse.org/)
 
 ## Crowdfunding & Fundraising
 
-* [catarse](https://github.com/catarse/catarse) - :star: 500+ - The first open source crowdfunding platform for creative projects in the world - http://catarse.me/
-* [neighborly](https://github.com/neighborly/neighborly) - :star: 10+ - Open source fundraising toolkit for civic projects - http://neighbor.ly/
-* [selfstarter](https://github.com/lockitron/selfstarter) - :star: 1,000+ - Roll your own crowdfunding - http://selfstarter.us/
-* [CrowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) - :star: 100+ - Open source crowdfunding platform - http://open.crowdtilt.com/
+* [catarse](https://github.com/catarse/catarse) - :star: 500+ - The first open source crowdfunding platform for creative projects in the world - [Live](http://catarse.me/)
+* [neighborly](https://github.com/neighborly/neighborly) - :star: 10+ - Open source fundraising toolkit for civic projects - [Live](http://neighbor.ly/)
+* [selfstarter](https://github.com/lockitron/selfstarter) - :star: 1,000+ - Roll your own crowdfunding - [Live](http://selfstarter.us/)
+* [CrowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) - :star: 100+ - Open source crowdfunding platform - [Live](http://open.crowdtilt.com/)
 
 ## Project Management
 
-* [redmine](https://github.com/edavis10/redmine) - A flexible project management web application written using Ruby on Rails
-* [kanban](https://github.com/somlor/kanban) - A Trello clone in Rails and Backbone.js
-* [teambox](https://github.com/teambox/teambox) - The award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter
-* [people](https://github.com/netguru/people) - Manage people within the projects
-* [openproject](https://github.com/opf/openproject) - A web based project management system built on Ruby on Rails
+* [redmine](https://github.com/edavis10/redmine) - :star: 1,000+ - A flexible project management web application written using Ruby on Rails - [Live](http://demo.redmine.org/)
+* [kanban](https://github.com/somlor/kanban) - :star: 100+ - A Trello clone in Rails and Backbone.js - [Live](http://kanban.seanomlor.com/)
+* [teambox](https://github.com/teambox/teambox) - :star: 1,000+ - The award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter - [Live](http://teambox.com/)
+* [people](https://github.com/netguru/people) - :star: 10+ - Manage people within the projects
+* [openproject](https://github.com/opf/openproject) - :star: 100+ - A web based project management system built on Ruby on Rails - [Live](https://openproject-demo.org/)
 
 ## Social Networking
 
-* [diaspora](https://github.com/diaspora/diaspora) - Distributed and contextual social networking
-* [coderwall](https://github.com/assemblymade/coderwall) - Professional network for software engineers
+* [diaspora](https://github.com/diaspora/diaspora) - :star: 5,000+ - Distributed and contextual social networking
+* [coderwall](https://github.com/assemblymade/coderwall) - :star: 100+ - Professional network for software engineers - [Live](https://coderwall.com/)
 
 ## Miscellaneous (Not Categorised Yet)
 
