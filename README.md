@@ -57,6 +57,9 @@ Contributions, pull requests are welcomed!
 * [quant](https://github.com/getquant/quant) - :star: 50+ - Quant is a prototype/experiment of a personal health tracker
 * [bike_index](https://github.com/bikeindex/bike_index) - :star: 50+ - An online bike registry
 * [follow-all](https://github.com/codeforamerica/follow-all) - :star: 50+ - Follow all the members of a Twitter list with a single click - [Live](http://follow-all.herokuapp.com/)
+* [growstuff](https://github.com/Growstuff/growstuff) - :star: 50+ - An open source/open data project to create a website for food gardeners - [Live](http://growstuff.org/)
+* [AsakusaSatellite](https://github.com/codefirst/AsakusaSatellite) - :star: 50+ - A realtime chat application for developers
+* [theodinproject](https://github.com/TheOdinProject/theodinproject) - :star: 50+ - A project that aims to teach web development for free - [Live](http://www.theodinproject.com/)
 * [WebsiteOne](https://github.com/AgileVentures/WebsiteOne) - :star: 10+ - A platform for online collaboration and crowdsourced project development
 * [sanataro](https://github.com/kaznum/sanataro) - :star: 10+ - Simple Web Household Account Book. built with Ruby on Rails
 * [opencongress](https://github.com/sunlightlabs/opencongress) - :star: 10+ - An open website for opening Congress
@@ -65,6 +68,9 @@ Contributions, pull requests are welcomed!
 * [opensit](https://github.com/danbartlett/opensit) - :star: 10+ - An open source meditation community
 * [dgi-db](https://github.com/genome/dgi-db) - :star: 10+ - Rails frontend to The Genome Institute's drug gene interaction database
 * [Beatstream](https://github.com/Darep/Beatstream) - :star: 10+ - App for streaming music from any computer running Ruby on Rails to anywhere
+* [fromthepage](https://github.com/benwbrum/fromthepage) - :star: 10+ - A wiki-like application for crowdsourcing transcription of handwritten documents - [Live](http://beta.fromthepage.com/)
+* [graff_mags](https://github.com/dankleiman/graff_mags) - :star: 10+ - Upload and display collection of 2000+ graffiti magazines - [Live](http://graffmags.herokuapp.com/)
+* [listenup](https://github.com/ooofinooo/listenup) - :star: 10+ - An application that allows users to search for songs and add them to friends playlist [Live](http://listenup-songshare.herokuapp.com/)
 
 # Notable Awesome Stuffs
 
