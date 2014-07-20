@@ -1,6 +1,6 @@
 # AwesomeRails
 
-A collection of awesome projects, sites made with Rails. Inspired by other awesome-* stuffs like [below](#notable-awesome-stuffs)
+A collection of awesome projects, sites made with Rails. Inspired by other awesome-* stuffs. (see "Notable Awesome Stuffs" part below)
 Contributions, pull requests are welcomed!
 
 ## Blogging
@@ -62,7 +62,7 @@ Contributions, pull requests are welcomed!
 * [opensit](https://github.com/danbartlett/opensit) - :star: 10+ - An open source meditation community
 * [dgi-db](https://github.com/genome/dgi-db) - :star: 10+ - Rails frontend to The Genome Institute's drug gene interaction database
 
-## Notable Awesome Stuffs
+# Notable Awesome Stuffs
 
 * [lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub
 * [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
