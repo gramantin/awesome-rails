@@ -71,6 +71,7 @@ Contributions, pull requests are welcomed!
 * [fromthepage](https://github.com/benwbrum/fromthepage) - :star: 10+ - A wiki-like application for crowdsourcing transcription of handwritten documents - [Live](http://beta.fromthepage.com/)
 * [graff_mags](https://github.com/dankleiman/graff_mags) - :star: 10+ - Upload and display collection of 2000+ graffiti magazines - [Live](http://graffmags.herokuapp.com/)
 * [listenup](https://github.com/ooofinooo/listenup) - :star: 10+ - An application that allows users to search for songs and add them to friends playlist [Live](http://listenup-songshare.herokuapp.com/)
+* [hummingbird](https://github.com/hummingbird-me/hummingbird) - :star: 1000+ - A modern anime discovery platform that helps you track the anime you're watching, discover new anime and socialize with other fans - [Live](http://hummingbird.me/)
 
 # Notable Awesome Stuffs
 
