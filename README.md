@@ -1,7 +1,9 @@
 # AwesomeRails
 
 A collection of awesome projects, sites made with Rails. Inspired by other awesome-* stuffs. (see "Notable Awesome Stuffs" part below)
-Contributions, pull requests are welcomed!
+Contributions, pull requests are welcomed! 
+
+You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/edit/master/README.md)
 
 ## Blogging
 
