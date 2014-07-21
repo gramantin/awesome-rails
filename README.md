@@ -13,6 +13,10 @@ Contributions, pull requests are welcomed!
 * [discourse](https://github.com/discourse/discourse) - :star: 10,000+ - A platform for community discussion - [Live](http://try.discourse.org/)
 * [campo](https://github.com/chloerei/campo) - :star: 100+ - A lightweight forum application, base on Ruby on Rails - [Live](http://codecampo.com/)
 
+## Content Management Systems
+
+* [refinerycms](https://github.com/refinery/refinerycms)* - :star: 1,000+ - An extendable Ruby on Rails CMS - [Live](http://demo.refinerycms.com/refinery)
+
 ## Crowdfunding & Fundraising
 
 * [selfstarter](https://github.com/lockitron/selfstarter) - :star: 1,000+ - Roll your own crowdfunding - [Live](http://selfstarter.us/)
@@ -36,7 +40,6 @@ Contributions, pull requests are welcomed!
 ## Miscellaneous (Not Categorised Yet)
 
 * [gitlabhq](https://github.com/gitlabhq/gitlabhq) - :star: 10,000+ - Open source software to collaborate on code - [Live](https://gitlab.com/gitlab-org/gitlab-ce/)
-* [refinerycms](https://github.com/refinery/refinerycms) - :star: 2000+ - An extendable Ruby on Rails CMS - [Live](http://refinerycms.com)
 * [feedbin](https://github.com/feedbin/feedbin) - :star: 1,000+ - A simple, fast and nice looking RSS reader.
 * [hummingbird](https://github.com/hummingbird-me/hummingbird) - :star: 1,000+ - A modern anime discovery platform that helps you track the anime you're watching, discover new anime and socialize with other fans - [Live](http://hummingbird.me/)
 * [canvas-lms](https://github.com/instructure/canvas-lms) - :star: 1,000+ - A new, open-source learning management system by Instructure Inc
@@ -45,8 +48,7 @@ Contributions, pull requests are welcomed!
 * [brimir](https://github.com/ivaldi/brimir) - :star: 500+ - Email helpdesk built using Ruby on Rails and Zurb Foundation - [Live](http://demo.getbrimir.com/)
 * [lobsters](https://github.com/jcs/lobsters) - :star: 500+ - Rails code running the lobste.rs link aggregation site
 * [juvia](https://github.com/phusion/juvia) - :star: 500+ - A commenting server similar to Disqus and IntenseDebate - [Live](http://juvia-demo.phusion.nl/)
-* [tracks](https://github.com/TracksApp/tracks) - :star: 500+ - A "Getting Things Done" application - [Live]( 
-http://getontracks.org)
+* [tracks](https://github.com/TracksApp/tracks) - :star: 500+ - A "Getting Things Done" application - [Live](http://getontracks.org)
 * [otwarchive](https://github.com/otwcode/otwarchive) - :star: 100+ - An open-source web application intended for hosting archives of fanworks, including fanfic, fanart, and fan vids - [Live](http://archiveofourown.org/)
 * [peatio](https://github.com/peatio/peatio) - :star: 100+ - An open-source crypto currency exchange - [Live](https://peatio.com/)
 * [openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website) - :star: 100+ - Mirror of the Rails application powering [Live](http://www.openstreetmap.org)
