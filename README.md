@@ -1,7 +1,9 @@
 # AwesomeRails
 
 A collection of awesome projects, sites made with Rails. Inspired by other awesome-* stuffs. (see "Notable Awesome Stuffs" part below)
-Contributions, pull requests are welcomed! 
+Contributions, pull requests are welcomed!
+
+IMPORTANT: Here I listed below sites, projects that is on-air now or ready for production (with some minor changes). For packages or gems, I suggest you to check other awesome stuffs. E.g. for Content Management Systems or CMS; I suggest to check out [this list](https://github.com/Sdogruyol/awesome-ruby#cms).  
 
 You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/edit/master/README.md)
 
@@ -15,10 +17,6 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 * [discourse](https://github.com/discourse/discourse) - :star: 10,000+ - A platform for community discussion - [Live](http://try.discourse.org/)
 * [loomio](https://github.com/loomio/loomio) - :star: 500+ - A collaborative decision-making tool that makes it easy for anyone
 * [campo](https://github.com/chloerei/campo) - :star: 100+ - A lightweight forum application, base on Ruby on Rails - [Live](http://codecampo.com/)
-
-## Content Management Systems
-
-* [refinerycms](https://github.com/refinery/refinerycms)* - :star: 1,000+ - An extendable Ruby on Rails CMS - [Live](http://demo.refinerycms.com/refinery)
 
 ## Crowdfunding & Fundraising
 
@@ -42,6 +40,11 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 * [hummingbird](https://github.com/hummingbird-me/hummingbird) - :star: 1,000+ - A modern anime discovery platform that helps you track the anime you're watching, discover new anime and socialize with other fans - [Live](http://hummingbird.me/)
 * [inaturalist](https://github.com/inaturalist/inaturalist) - :star: 50+ - Open source Rails app behind iNaturalist.org
 
+## Politics
+
+* [whitehall](https://github.com/alphagov/whitehall) - :star: 100+ - Inside Government: how the UK Government works, what it's doing, and how you can get involved
+* [askaway](https://github.com/askaway/askaway) - :star: 10+ - Ask New Zealand's political parties your questions this election [Live](http://www.askaway.org.nz)
+
 ## Personal Management
 
 * [tracks](https://github.com/TracksApp/tracks) - :star: 500+ - A "Getting Things Done" application - [Live](http://getontracks.org)
@@ -63,6 +66,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 ## Social Responsibility
 
 * [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) - :star: 100+ - A Ruby on Rails application that allows citizens to "adopt" civic infrastructure, such as fire hydrants - [Live](http://adopt-a-hydrant.heroku.com/)
+* [planningalerts-app](https://github.com/openaustralia/planningalerts-app) - :star: 10+ - Find out and have your say about what's being built and knocked down in your area - [Live](http://www.planningalerts.org.au/application)
 
 ## Miscellaneous (Not Categorised Yet)
 
@@ -93,6 +97,8 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 * [dgi-db](https://github.com/genome/dgi-db) - :star: 10+ - Rails frontend to The Genome Institute's drug gene interaction database
 * [fromthepage](https://github.com/benwbrum/fromthepage) - :star: 10+ - A wiki-like application for crowdsourcing transcription of handwritten documents - [Live](http://beta.fromthepage.com/)
 * [graff_mags](https://github.com/dankleiman/graff_mags) - :star: 10+ - Upload and display collection of 2000+ graffiti magazines - [Live](http://graffmags.herokuapp.com/)
+* [trado](https://github.com/Jellyfishboy/trado) - :star: 5+ -  lightweight, easy to use e-commerce platform designed for sole traders and SME businesses
+* [CoRM](https://github.com/SIGIRE/CoRM) - :star: 5+ - Easier than a CRM
 
 # Notable Awesome Stuffs
 
