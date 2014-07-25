@@ -3,7 +3,8 @@
 A collection of awesome projects, sites made with Rails. Inspired by other awesome-* stuffs. (see "Notable Awesome Stuffs" part below)
 Contributions, pull requests are welcomed!
 
-IMPORTANT: Here I listed below sites, projects that is on-air now or ready for production (with some minor changes). For packages or gems, I suggest you to check other awesome stuffs. E.g. for Content Management Systems or CMS; I suggest to check out [this list](https://github.com/Sdogruyol/awesome-ruby#cms).  
+IMPORTANT: Here I listed below sites, projects that is on-air now or ready for production (with some minor changes). For packages or gems, I suggest you to check other awesome stuffs. E.g. for Content Management Systems or CMS; I suggest to check out [this list](https://github.com/Sdogruyol/awesome-ruby#cms).
+
 For projects with stars in Github, you can check out [STARRED](https://github.com/ekremkaraca/awesome-rails/blob/master/STARRED.md).
 
 You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/edit/master/README.md)
@@ -58,6 +59,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 * [openproject](https://github.com/opf/openproject)  A web based project management system built on Ruby on Rails - [Live](https://openproject-demo.org/)
 * [people](https://github.com/netguru/people)  Manage people within the projects
 * [WebsiteOne](https://github.com/AgileVentures/WebsiteOne)  A platform for online collaboration and crowdsourced project development
+* [houston](https://github.com/houstonmc/houston) Mission control for your projects and teammates 
 
 ## Social Networking
 
@@ -100,6 +102,9 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 * [graff_mags](https://github.com/dankleiman/graff_mags)  Upload and display collection of 2000+ graffiti magazines - [Live](http://graffmags.herokuapp.com/)
 * [trado](https://github.com/Jellyfishboy/trado)   lightweight, easy to use e-commerce platform designed for sole traders and SME businesses
 * [CoRM](https://github.com/SIGIRE/CoRM)  Easier than a CRM
+* [popHealth](https://github.com/pophealth/popHealth) An Open Source Population Health Reporting Prototype - [Live](http://projectpophealth.org/)
+* [leihs](https://github.com/zhdk/leihs) An easy inventory handling system
+* [fairnopoly](https://github.com/fairnopoly/fairnopoly) A free market place in the hand of the users - [Live](https://www.fairnopoly.de/)
 
 # Notable Awesome Stuffs
 
