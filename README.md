@@ -12,9 +12,8 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 ## Blogging
 
 | [publify](https://github.com/publify/publify) |  A self hosted Web publishing platform on Rails | [Live](http://demo.publify.co/) |
-|---------------------------------------------|-------------------------------------------------------------------------------------|
+|-----------------------------------------------|-----------------------------------------------------------------------------------|
 | [obtvse2](https://github.com/natew/obtvse2) | A clean and simple markdown blogging platform on Rails | [Live](http://obtvse2.herokuapp.com/) |
-
 
 ## Community Management
 
