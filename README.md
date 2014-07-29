@@ -11,14 +11,14 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 
 ## Blogging
 
-| [publify](https://github.com/publify/publify) |  A self hosted Web publishing platform on Rails | [Live](http://demo.publify.co/) |
-|-----------------------------------------------|-----------------------------------------------------------------------------------|
+| [publify](https://github.com/publify/publify) | A self hosted Web publishing platform on Rails | [Live](http://demo.publify.co/) |
+|-----------------------------------------------|------------------------------------------------|---------------------------------|
 | [obtvse2](https://github.com/natew/obtvse2) | A clean and simple markdown blogging platform on Rails | [Live](http://obtvse2.herokuapp.com/) |
 
 ## Community Management
 
-| [discourse](https://github.com/discourse/discourse) | A platform for community discussion | [Live](http://try.discourse.org/)
-|--------------------------------------------|-------------------------------------------------------------------------------------|
+| [discourse](https://github.com/discourse/discourse) | A platform for community discussion | [Live](http://try.discourse.org/) |
+|-----------------------------------------------------|-------------------------------------|-----------------------------------|
 | [loomio](https://github.com/loomio/loomio) | A collaborative decision-making tool that makes it easy for anyone |
 | [campo](https://github.com/chloerei/campo) | A lightweight forum application, base on Ruby on Rails | [Live](http://codecampo.com/) |
 
