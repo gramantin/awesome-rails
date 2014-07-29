@@ -7,6 +7,25 @@ This file contains projects with stars (not exact stars, but their star ranges).
 
 You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/edit/master/STARRED.md)
 
+<!-- MarkdownTOC depth=2 -->
+
+- [Blogging](#blogging)
+	- [Community Management](#community-management)
+	- [Crowdfunding & Fundraising](#crowdfunding--fundraising)
+	- [Learning](#learning)
+	- [Music](#music)
+	- [Nature](#nature)
+	- [Politics](#politics)
+	- [Personal Management](#personal-management)
+	- [Project Management](#project-management)
+	- [Social Networking](#social-networking)
+	- [Social Responsibility](#social-responsibility)
+	- [Miscellaneous - Not Categorised Yet](#miscellaneous-not-categorised-yet)
+- [Notable Awesome Stuffs](#notable-awesome-stuffs)
+
+<!-- /MarkdownTOC -->
+
+
 ## Blogging
 
 * [publify](https://github.com/publify/publify) - :star: 1,000+ - A self hosted Web publishing platform on Rails - [Live](http://demo.publify.co/)
