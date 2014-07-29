@@ -78,6 +78,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [people](https://github.com/netguru/people) | Manage people within the projects | |
 | [WebsiteOne](https://github.com/AgileVentures/WebsiteOne) | A platform for online collaboration and crowdsourced project development | |
 | [houston](https://github.com/houstonmc/houston) | Mission control for your projects and teammates | |
+| [taskboard](https://github.com/agilar/taskboard) | An app that improves your distributed team's ability to follow best practices in visual management | [Live](http://taskboard.agilar.org/login) |
 
 ## Social Networking
 
@@ -129,6 +130,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [popHealth](https://github.com/pophealth/popHealth) | An Open Source Population Health Reporting Prototype | [Live](http://projectpophealth.org/) |
 | [leihs](https://github.com/zhdk/leihs) | An easy inventory handling system | |
 | [fairnopoly](https://github.com/fairnopoly/fairnopoly) | A free market place in the hand of the users | [Live](https://www.fairnopoly.de/) |
+| [AirCasting](https://github.com/HabitatMap/AirCasting) | A platform for recording, mapping, and sharing health and environmental data using your smartphone | |
 
 # Notable Awesome Stuffs
 
