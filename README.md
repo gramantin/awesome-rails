@@ -11,19 +11,19 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 
 <!-- MarkdownTOC depth=2 -->
 
-- Blogging
-	- Community Management
-	- Crowdfunding & Fundraising
-	- Learning
-	- Music
-	- Nature
-	- Politics
-	- Personal Management
-	- Project Management
-	- Social Networking
-	- Social Responsibility
-	- Miscellaneous (Not Categorised Yet)
-- Notable Awesome Stuffs
+- [Blogging](#blogging)
+	- [Community Management](#community-management)
+	- [Crowdfunding & Fundraising](#crowdfunding--fundraising)
+	- [Learning](#learning)
+	- [Music](#music)
+	- [Nature](#nature)
+	- [Personal Management](#personal-management)
+	- [Politics](#politics)
+	- [Project Management](#project-management)
+	- [Social Networking](#social-networking)
+	- [Social Responsibility](#social-responsibility)
+	- [Miscellaneous (Not Categorised Yet)](#miscellaneous-not-categorised-yet)
+- [Notable Awesome Stuffs](#notable-awesome-stuffs)
 
 <!-- /MarkdownTOC -->
 
