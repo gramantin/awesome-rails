@@ -11,7 +11,8 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 
 <!-- MarkdownTOC depth=2 -->
 
-- [Blogging](#blogging)
+- [Projects](#projects)
+  - [Blogging](#blogging)
 	- [Community Management](#community-management)
 	- [Crowdfunding & Fundraising](#crowdfunding--fundraising)
 	- [Learning](#learning)
@@ -27,6 +28,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 
 <!-- /MarkdownTOC -->
 
+# Projects
 
 ## Blogging
 
@@ -73,18 +75,18 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [hummingbird](https://github.com/hummingbird-me/hummingbird) | A modern anime discovery platform that helps you track the anime you're watching, discover new anime and socialize with other fans | [Live](http://hummingbird.me/) |
 | [inaturalist](https://github.com/inaturalist/inaturalist) | Open source Rails app behind iNaturalist.org | |
 
+## Personal Management
+
+| Name | Description | Link |
+|------|-------------|------|
+| [tracks](https://github.com/TracksApp/tracks) | A "Getting Things Done" application | [Live](http://getontracks.org) |
+
 ## Politics
 
 | Name | Description | Link |
 |------|-------------|------|
 | [whitehall](https://github.com/alphagov/whitehall) | Inside Government: how the UK Government works, what it's doing, and how you can get involved | |
 | [askaway](https://github.com/askaway/askaway) | Ask New Zealand's political parties your questions this election | [Live](http://www.askaway.org.nz) |
-
-## Personal Management
-
-| Name | Description | Link |
-|------|-------------|------|
-| [tracks](https://github.com/TracksApp/tracks) | A "Getting Things Done" application | [Live](http://getontracks.org) |
 
 ## Project Management
 
