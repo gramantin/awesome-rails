@@ -150,9 +150,11 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [leihs](https://github.com/zhdk/leihs) | An easy inventory handling system | |
 | [fairnopoly](https://github.com/fairnopoly/fairnopoly) | A free market place in the hand of the users | [Live](https://www.fairnopoly.de/) |
 | [AirCasting](https://github.com/HabitatMap/AirCasting) | A platform for recording, mapping, and sharing health and environmental data using your smartphone | |
+| [reservations](https://github.com/YaleSTC/reservations) | Manages reservations for equipment (allows student reservations) | |
+| [ekylibre](https://github.com/ekylibre/ekylibre) | Simple agricultural ERP | |
+| [calcentral](https://github.com/ets-berkeley-edu/calcentral) | An online portal that provides a unified and personalized one-stop way to access email, calendars, shared documents and class collaboration spaces | |
 
 # Notable Awesome Stuffs
 
 - [lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub
-- [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
 - [awesome-ruby](https://github.com/Sdogruyol/awesome-ruby) - A curated list of awesome Ruby frameworks, libraries and resources
