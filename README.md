@@ -9,8 +9,6 @@ For projects with stars in Github, you can check out [STARRED](https://github.co
 
 You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/edit/master/README.md)
 
-<!-- MarkdownTOC depth=2 -->
-
 - [Projects](#projects)
   - [Blogging](#blogging)
 	- [Community Management](#community-management)
@@ -25,8 +23,6 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 	- [Social Responsibility](#social-responsibility)
 	- [Miscellaneous (Not Categorised Yet)](#miscellaneous-not-categorised-yet)
 - [Notable Awesome Stuffs](#notable-awesome-stuffs)
-
-<!-- /MarkdownTOC -->
 
 # Projects
 
