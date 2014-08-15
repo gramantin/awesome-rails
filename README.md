@@ -152,7 +152,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [reservations](https://github.com/YaleSTC/reservations) | Manages reservations for equipment (allows student reservations) | |
 | [ekylibre](https://github.com/ekylibre/ekylibre) | Simple agricultural ERP | |
 | [calcentral](https://github.com/ets-berkeley-edu/calcentral) | An online portal that provides a unified and personalized one-stop way to access email, calendars, shared documents and class collaboration spaces | |
-| [encrypt.to](https://github.com/encrypt-to/encrypt.to) | Send encrypted messages by one click | [Live](encrypt.to)
+| [encrypt.to](https://github.com/encrypt-to/encrypt.to) | Send encrypted messages by one click | [Live](https://encrypt.to/)
 
 # Notable Awesome Stuffs
 
