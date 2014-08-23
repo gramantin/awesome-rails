@@ -111,7 +111,8 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 |------|-------------|------|
 | [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) | A Ruby on Rails application that allows citizens to "adopt" civic infrastructure, such as fire hydrants | [Live](http://adopt-a-hydrant.heroku.com/) |
 | [planningalerts-app](https://github.com/openaustralia/planningalerts-app) | Find out and have your say about what's being built and knocked down in your area | [Live](http://www.planningalerts.org.au/application) |
-
+| [spokenvote](https://github.com/Spokenvote/spokenvote) | A social voting app for reaching consensus in a group of any size | [Live](http://www.spokenvote.org) |
+ 
 ## Miscellaneous (Not Categorised Yet)
 
 | Name | Description | Link |
