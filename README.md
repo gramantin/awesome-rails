@@ -9,7 +9,7 @@ For projects with stars in Github, you can check out [STARRED](https://github.co
 
 You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/edit/master/README.md)
 
-- [Projects](#projects)
+- [AwesomeRails](#AwesomeRails)
   - [Blogging](#blogging)
 	- [Community Management](#community-management)
 	- [Crowdfunding & Fundraising](#crowdfunding--fundraising)
@@ -23,8 +23,6 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 	- [Social Responsibility](#social-responsibility)
 	- [Miscellaneous (Not Categorised Yet)](#miscellaneous-not-categorised-yet)
 - [Notable Awesome Stuffs](#notable-awesome-stuffs)
-
-# Projects
 
 ## Blogging
 
@@ -112,7 +110,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) | A Ruby on Rails application that allows citizens to "adopt" civic infrastructure, such as fire hydrants | [Live](http://adopt-a-hydrant.heroku.com/) |
 | [planningalerts-app](https://github.com/openaustralia/planningalerts-app) | Find out and have your say about what's being built and knocked down in your area | [Live](http://www.planningalerts.org.au/application) |
 | [spokenvote](https://github.com/Spokenvote/spokenvote) | A social voting app for reaching consensus in a group of any size | [Live](http://www.spokenvote.org) |
- 
+
 ## Miscellaneous (Not Categorised Yet)
 
 | Name | Description | Link |
@@ -154,6 +152,8 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [ekylibre](https://github.com/ekylibre/ekylibre) | Simple agricultural ERP | |
 | [calcentral](https://github.com/ets-berkeley-edu/calcentral) | An online portal that provides a unified and personalized one-stop way to access email, calendars, shared documents and class collaboration spaces | |
 | [encrypt.to](https://github.com/encrypt-to/encrypt.to) | Send encrypted messages by one click | [Live](https://encrypt.to/)
+| [eol](https://github.com/EOL/eol) | Encyclopedia of Life | [Live](http://eol.org/) |
+| [crabgrass-core](https://github.com/riseuplabs/crabgrass-core) | A web application designed for activist groups to be better able to collaborate online | |
 
 # Notable Awesome Stuffs
 
