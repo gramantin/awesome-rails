@@ -95,6 +95,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [WebsiteOne](https://github.com/AgileVentures/WebsiteOne) | A platform for online collaboration and crowdsourced project development | |
 | [houston](https://github.com/houstonmc/houston) | Mission control for your projects and teammates | |
 | [taskboard](https://github.com/agilar/taskboard) | An app that improves your distributed team's ability to follow best practices in visual management | [Live](http://taskboard.agilar.org/login) |
+| [hours](https://github.com/defactosoftware/hours) | A complete time registration app for teams |
 
 ## Social Networking
 
