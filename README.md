@@ -20,8 +20,8 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 	- [Social Networking](#social-networking)
 	- [Social Responsibility](#social-responsibility)
 	- [Miscellaneous (Not Categorised Yet)](#miscellaneous-not-categorised-yet)
-- [Notable Awesome Stuffs](#notable-awesome-stuffs)
 - [Notes](#notes)
+- [Notable Awesome Stuffs](#notable-awesome-stuffs)
 
 ## Blogging
 
