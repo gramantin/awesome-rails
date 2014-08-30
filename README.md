@@ -153,7 +153,9 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [calcentral](https://github.com/ets-berkeley-edu/calcentral) | An online portal that provides a unified and personalized one-stop way to access email, calendars, shared documents and class collaboration spaces | |
 | [encrypt.to](https://github.com/encrypt-to/encrypt.to) | Send encrypted messages by one click | [Live](https://encrypt.to/)
 | [eol](https://github.com/EOL/eol) | Encyclopedia of Life | [Live](http://eol.org/) |
-| [crabgrass-core](https://github.com/riseuplabs/crabgrass-core) | A web application designed for activist groups to be better able to collaborate online | |
+| [crabgrass-core](https://github.com/riseuplabs/eol) | A web application designed for activist groups to be better able to collaborate online | |
+| [alaveteli](https://github.com/mysociety/alaveteli) | Provide a Freedom of Information request system for your jurisdiction |
+[Live](http://alaveteli.org) |
 
 # Notable Awesome Stuffs
 
