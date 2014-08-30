@@ -5,8 +5,6 @@ Contributions, pull requests are welcomed!
 
 IMPORTANT: Here I listed below sites, projects that is on-air now or ready for production (with some minor changes). For packages or gems, I suggest you to check other awesome stuffs. E.g. for Content Management Systems or CMS; I suggest to check out [this list](https://github.com/Sdogruyol/awesome-ruby#cms).
 
-For projects with stars in Github, you can check out [STARRED](https://github.com/ekremkaraca/awesome-rails/blob/master/STARRED.md).
-
 You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/edit/master/README.md)
 
 - [AwesomeRails](#AwesomeRails)
@@ -155,8 +153,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [encrypt.to](https://github.com/encrypt-to/encrypt.to) | Send encrypted messages by one click | [Live](https://encrypt.to/)
 | [eol](https://github.com/EOL/eol) | Encyclopedia of Life | [Live](http://eol.org/) |
 | [crabgrass-core](https://github.com/riseuplabs/eol) | A web application designed for activist groups to be better able to collaborate online | |
-| [alaveteli](https://github.com/mysociety/alaveteli) | Provide a Freedom of Information request system for your jurisdiction |
-[Live](http://alaveteli.org) |
+| [alaveteli](https://github.com/mysociety/alaveteli) | Provide a Freedom of Information request system for your jurisdiction | [Live](http://alaveteli.org) |
 
 # Notable Awesome Stuffs
 
