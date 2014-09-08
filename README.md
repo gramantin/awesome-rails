@@ -1,7 +1,6 @@
-# AwesomeRails
+## AwesomeRails
 
 A collection of awesome projects, sites made with Rails. Inspired by other awesome-* stuffs. (see "Notable Awesome Stuffs" part below)
-
 
 You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/edit/master/README.md)
 
@@ -19,18 +18,19 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
   - [Project Management](#project-management)
   - [Social Networking](#social-networking)
   - [Social Responsibility](#social-responsibility)
+  - [Sports](#sports)
   - [Miscellaneous (Not Categorised Yet)](#miscellaneous-not-categorised-yet)
 - [Notes](#notes)
 - [Notable Awesome Stuffs](#notable-awesome-stuffs)
 
-## Blogging
+### Blogging
 
 | Name | Description | Link |
 |------|-------------|------|
 | [publify](https://github.com/publify/publify) | A self hosted Web publishing platform on Rails | [Live](http://demo.publify.co/) |
 | [obtvse2](https://github.com/natew/obtvse2) | A clean and simple markdown blogging platform on Rails | [Live](http://obtvse2.herokuapp.com/) |
 
-## Community Management
+### Community Management
 
 | Name | Description | Link |
 |------|-------------|------|
@@ -40,7 +40,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [onebody](https://github.com/churchio/onebody) | A private member portal for churches built with Ruby on Rails | |
 | [calagator](https://github.com/calagator/calagator) | An event aggregator based in Portland, OR | |
 
-## Crowdfunding & Fundraising
+### Crowdfunding & Fundraising
 
 | Name | Description | Link |
 |------|-------------|------|
@@ -49,14 +49,14 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [CrowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) | Open source crowdfunding platform | [Live](http://open.crowdtilt.com/) |
 | [neighborly](https://github.com/neighborly/neighborly) | Open source fundraising toolkit for civic projects | [Live](http://neighbor.ly/) |
 
-## Developer Tools
+### Developer Tools
 
 | Name | Description | Link |
 |------|-------------|------|
 | [gitlabhq](https://github.com/gitlabhq/gitlabhq) | Open source software to collaborate on code | [Live](https://gitlab.com/gitlab-org/gitlab-ce/) |
 | [rubygems.org](https://github.com/rubygems/rubygems.org) | The Ruby community's gem hosting service | [Live](https://rubygems.org/) |
 
-## Health
+### Health
 
 | Name | Description | Link |
 |------|-------------|------|
@@ -64,7 +64,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [dgi-db](https://github.com/genome/dgi-db) | Rails frontend to The Genome Institute's drug gene interaction database | |
 | [popHealth](https://github.com/pophealth/popHealth) | An Open Source Population Health Reporting Prototype | [Live](http://projectpophealth.org/) |
 
-## Learning
+### Learning
 
 | Name | Description | Link |
 |------|-------------|------|
@@ -72,34 +72,34 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [theodinproject](https://github.com/TheOdinProject/theodinproject) | A project that aims to teach web development for free | [Live](http://www.theodinproject.com/)
 | [cyberdojo](https://github.com/JonJagger/cyberdojo) | Free in-browser coding-dojo | |
 
-## Music
+### Music
 
 | Name | Description | Link |
 |------|-------------|------|
 | [Beatstream](https://github.com/Darep/Beatstream) | App for streaming music from any computer running Ruby on Rails to anywhere | |
 | [listenup](https://github.com/ooofinooo/listenup) | An application that allows users to search for songs and add them to friends playlist | [Live](http://listenup-songshare.herokuapp.com/) |
 
-## Nature
+### Nature
 
 | Name | Description | Link |
 |------|-------------|------|
 | [hummingbird](https://github.com/hummingbird-me/hummingbird) | A modern anime discovery platform that helps you track the anime you're watching, discover new anime and socialize with other fans | [Live](http://hummingbird.me/) |
 | [inaturalist](https://github.com/inaturalist/inaturalist) | Open source Rails app behind iNaturalist.org | |
 
-## Personal Management
+### Personal Management
 
 | Name | Description | Link |
 |------|-------------|------|
 | [tracks](https://github.com/TracksApp/tracks) | A "Getting Things Done" application | [Live](http://getontracks.org) |
 
-## Politics
+### Politics
 
 | Name | Description | Link |
 |------|-------------|------|
 | [whitehall](https://github.com/alphagov/whitehall) | Inside Government: how the UK Government works, what it's doing, and how you can get involved | |
 | [askaway](https://github.com/askaway/askaway) | Ask New Zealand's political parties your questions this election | [Live](http://www.askaway.org.nz) |
 
-## Project Management
+### Project Management
 
 | Name | Description | Link |
 |------|-------------|------|
@@ -113,14 +113,14 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [taskboard](https://github.com/agilar/taskboard) | An app that improves your distributed team's ability to follow best practices in visual management | [Live](http://taskboard.agilar.org/login) |
 | [hours](https://github.com/defactosoftware/hours) | A complete time registration app for teams |
 
-## Social Networking
+### Social Networking
 
 | Name | Description | Link |
 |------|-------------|------|
 | [diaspora](https://github.com/diaspora/diaspora) | Distributed and contextual social networking | |
 | [coderwall](https://github.com/assemblymade/coderwall) | Professional network for software engineers | [Live](https://coderwall.com/) |
 
-## Social Responsibility
+### Social Responsibility
 
 | Name | Description | Link |
 |------|-------------|------|
@@ -128,7 +128,14 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [planningalerts-app](https://github.com/openaustralia/planningalerts-app) | Find out and have your say about what's being built and knocked down in your area | [Live](http://www.planningalerts.org.au/application) |
 | [spokenvote](https://github.com/Spokenvote/spokenvote) | A social voting app for reaching consensus in a group of any size | [Live](http://www.spokenvote.org) |
 
-## Miscellaneous (Not Categorised Yet)
+### Sports
+
+| Name | Description | Link |
+|------|-------------|------|
+| [bike_index](https://github.com/bikeindex/bike_index) | An online bike registry | |
+| [racing_on_rails](https://github.com/scottwillson/racing_on_rails) | Manage a bike racing association: riders, teams, calendars, competitions, and results | |
+
+### Miscellaneous (Not Categorised Yet)
 
 | Name | Description | Link |
 |------|-------------|------|
@@ -142,7 +149,6 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [RapidFTR](https://github.com/rapidftr/RapidFTR) | An Android-based mobile application that lets aid workers collect, sort and share information about children in emergency situations | |
 | [danbooru](https://github.com/r888888888/danbooru) | A taggable image board written in Rails 3 | |
 | [sharetribe](https://github.com/sharetribe/sharetribe) | A platform for setting up your own peer-to-peer marketplace online | |
-| [bike_index](https://github.com/bikeindex/bike_index) | An online bike registry | |
 | [follow-all](https://github.com/codeforamerica/follow-all) | Follow all the members of a Twitter list with a single click | [Live](http://follow-all.herokuapp.com/) |
 | [growstuff](https://github.com/Growstuff/growstuff) | An open source/open data project to create a website for food gardeners | [Live](http://growstuff.org/) |
 | [AsakusaSatellite](https://github.com/codefirst/AsakusaSatellite) | A realtime chat application for developers | |
@@ -165,15 +171,17 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [eol](https://github.com/EOL/eol) | Encyclopedia of Life | [Live](http://eol.org/) |
 | [crabgrass-core](https://github.com/riseuplabs/eol) | A web application designed for activist groups to be better able to collaborate online | |
 | [alaveteli](https://github.com/mysociety/alaveteli) | Provide a Freedom of Information request system for your jurisdiction | [Live](http://alaveteli.org) |
+| [PasswordPusher](https://github.com/pglombardo/PasswordPusher) | A Ruby on Rails application to communicate passwords over the web | [Live](https://pwpush.com/) |
+| [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) | A fully functional, deployable marketplace implementation using Balanced API for Rails | [Live](http://rails.rentmybike.co/) |
 
-# Notes
+## Notes
 
 Contributions, pull requests are welcomed!
 
 Here I listed below sites, projects that is on-air now or ready for production (with some minor changes). For packages or gems, I suggest you to check other awesome stuffs. E.g. for Content Management Systems or CMS; I suggest to check out [this list](https://github.com/Sdogruyol/awesome-ruby#cms).
 
 
-# Notable Awesome Stuffs
+## Notable Awesome Stuffs
 
 - [lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub
 - [awesome-ruby](https://github.com/Sdogruyol/awesome-ruby) - A curated list of awesome Ruby frameworks, libraries and resources
