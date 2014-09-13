@@ -173,6 +173,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [alaveteli](https://github.com/mysociety/alaveteli) | Provide a Freedom of Information request system for your jurisdiction | [Live](http://alaveteli.org) |
 | [PasswordPusher](https://github.com/pglombardo/PasswordPusher) | A Ruby on Rails application to communicate passwords over the web | [Live](https://pwpush.com/) |
 | [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) | A fully functional, deployable marketplace implementation using Balanced API for Rails | [Live](http://rails.rentmybike.co/) |
+| [OpenFarm](https://github.com/FarmBot/OpenFarm) | A free and open database for farming and gardening knowledge | [Live](http://openfarm.cc/) |
 
 ## Notes
 
