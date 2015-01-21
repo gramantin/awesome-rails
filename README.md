@@ -83,14 +83,16 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 
 | Name | Description | Link |
 |------|-------------|------|
-| [hummingbird](https://github.com/hummingbird-me/hummingbird) | A modern anime discovery platform that helps you track the anime you're watching, discover new anime and socialize with other fans | [Live](http://hummingbird.me/) |
+| [growstuff](https://github.com/Growstuff/growstuff) | An open source/open data project to create a website for food gardeners | [Live](http://growstuff.org/) |
 | [inaturalist](https://github.com/inaturalist/inaturalist) | Open source Rails app behind iNaturalist.org | |
+| [OpenFarm](https://github.com/FarmBot/OpenFarm) | A free and open database for farming and gardening knowledge | [Live](http://openfarm.cc/) |
 
 ### Personal Management
 
 | Name | Description | Link |
 |------|-------------|------|
 | [tracks](https://github.com/TracksApp/tracks) | A "Getting Things Done" application | [Live](http://getontracks.org) |
+| [hummingbird](https://github.com/hummingbird-me/hummingbird) | A modern anime discovery platform that helps you track the anime you're watching, discover new anime and socialize with other fans | [Live](http://hummingbird.me/) |
 
 ### Politics
 
@@ -119,6 +121,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 |------|-------------|------|
 | [diaspora](https://github.com/diaspora/diaspora) | Distributed and contextual social networking | |
 | [coderwall](https://github.com/assemblymade/coderwall) | Professional network for software engineers | [Live](https://coderwall.com/) |
+| [follow-all](https://github.com/codeforamerica/follow-all) | Follow all the members of a Twitter list with a single click | [Live](http://follow-all.herokuapp.com/) |
 
 ### Social Responsibility
 
@@ -149,8 +152,6 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [RapidFTR](https://github.com/rapidftr/RapidFTR) | An Android-based mobile application that lets aid workers collect, sort and share information about children in emergency situations | |
 | [danbooru](https://github.com/r888888888/danbooru) | A taggable image board written in Rails 3 | |
 | [sharetribe](https://github.com/sharetribe/sharetribe) | A platform for setting up your own peer-to-peer marketplace online | |
-| [follow-all](https://github.com/codeforamerica/follow-all) | Follow all the members of a Twitter list with a single click | [Live](http://follow-all.herokuapp.com/) |
-| [growstuff](https://github.com/Growstuff/growstuff) | An open source/open data project to create a website for food gardeners | [Live](http://growstuff.org/) |
 | [AsakusaSatellite](https://github.com/codefirst/AsakusaSatellite) | A realtime chat application for developers | |
 | [sanataro](https://github.com/kaznum/sanataro) | Simple Web Household Account Book. built with Ruby on Rails | |
 | [opencongress](https://github.com/sunlightlabs/opencongress) | An open website for opening Congress | |
@@ -173,7 +174,6 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [alaveteli](https://github.com/mysociety/alaveteli) | Provide a Freedom of Information request system for your jurisdiction | [Live](http://alaveteli.org) |
 | [PasswordPusher](https://github.com/pglombardo/PasswordPusher) | A Ruby on Rails application to communicate passwords over the web | [Live](https://pwpush.com/) |
 | [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) | A fully functional, deployable marketplace implementation using Balanced API for Rails | [Live](http://rails.rentmybike.co/) |
-| [OpenFarm](https://github.com/FarmBot/OpenFarm) | A free and open database for farming and gardening knowledge | [Live](http://openfarm.cc/) |
 
 ## Notes
 
