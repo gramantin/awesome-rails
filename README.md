@@ -184,5 +184,5 @@ Here I listed below sites, projects that is on-air now or ready for production (
 
 ## Notable Awesome Stuffs
 
-- [lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub
-- [awesome-ruby](https://github.com/Sdogruyol/awesome-ruby) - A curated list of awesome Ruby frameworks, libraries and resources
+- [jnv/lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub
+- [Other awesome lists (by update dates)](https://github.com/search?utf8=%E2%9C%93&q=awesome+list+sort%3Aupdated&type=Repositories&ref=searchresults)
