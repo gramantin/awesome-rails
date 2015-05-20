@@ -61,6 +61,7 @@ Here are open-sourced Rails projects with their sources itself, not as a gem, an
 |------|-------------|------|
 | [gitlabhq](https://github.com/gitlabhq/gitlabhq) | Open source software to collaborate on code | [Live](https://gitlab.com/gitlab-org/gitlab-ce/) |
 | [rubygems.org](https://github.com/rubygems/rubygems.org) | The Ruby community's gem hosting service | [Live](https://rubygems.org/) |
+| [hound](https://github.com/thoughtbot/hound) | Review your Ruby, JavaScript, CoffeeScript, and SCSS code for style guide violations with a trusty hound. | [Live](https://houndci.com/) |
 
 #### Health
 
