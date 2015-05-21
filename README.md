@@ -138,6 +138,13 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [bike_index](https://github.com/bikeindex/bike_index) | An online bike registry |[Live](https://www.bikeindex.org) |
 | [racing_on_rails](https://github.com/scottwillson/racing_on_rails) | Manage a bike racing association: riders, teams, calendars, competitions, and results |[Live](http://racingonrails.rocketsurgeryllc.com/) |
 
+### E-commerce
+
+| Name | Description | Link |
+|------|-------------|------|
+| [Spree](https://github.com/spree/spree) | Spree is a complete open source e-commerce solution for Ruby on Rails.  |[Live](http://spreecommerce.com) |
+
+
 ### Miscellaneous (Not Categorised Yet)
 
 | Name | Description | Link |
