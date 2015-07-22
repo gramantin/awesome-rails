@@ -137,6 +137,15 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [bike_index](https://github.com/bikeindex/bike_index) | An online bike registry |[Live](https://www.bikeindex.org) |
 | [racing_on_rails](https://github.com/scottwillson/racing_on_rails) | Manage a bike racing association: riders, teams, calendars, competitions, and results |[Live](http://racingonrails.rocketsurgeryllc.com/) |
 
+### Rails Generators
+
+|Generator|Ready to run|Complex Apps|Sets git|Heroku|
+| ------ | ------ | ------ | ------ | ------ |
+|Rails Bricks|yes|Only starting point.|no|yes|
+|Rails Apps Composer|yes|Example apps reaching a SaaS with Stripe.|yes|yes|
+|Prelang|Had to modify database credentials manually|Customizable models. But no payments.|yes|no|
+|Hobo|Rails version problems, if using a late version|It seems according screencast, helps a lot with MVC boilerplate.|no|no|
+
 ### Miscellaneous (Not Categorised Yet)
 
 | Name | Description | Link |
