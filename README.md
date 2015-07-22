@@ -19,6 +19,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
   - [Social Networking](#social-networking)
   - [Social Responsibility](#social-responsibility)
   - [Sports](#sports)
+  - [Generators](#generators)
   - [Miscellaneous (Not Categorised Yet)](#miscellaneous-not-categorised-yet)
 - [Notes](#notes)
 - [Notable Awesome Stuffs](#notable-awesome-stuffs)
@@ -137,14 +138,14 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [bike_index](https://github.com/bikeindex/bike_index) | An online bike registry |[Live](https://www.bikeindex.org) |
 | [racing_on_rails](https://github.com/scottwillson/racing_on_rails) | Manage a bike racing association: riders, teams, calendars, competitions, and results |[Live](http://racingonrails.rocketsurgeryllc.com/) |
 
-### Rails Generators
+### Generators
 
 |Generator|Ready to run|Complex Apps|Sets git|Heroku|
 | ------ | ------ | ------ | ------ | ------ |
-|Rails Bricks|yes|Only starting point.|no|yes|
-|Rails Apps Composer|yes|Example apps reaching a SaaS with Stripe.|yes|yes|
-|Prelang|Had to modify database credentials manually|Customizable models. But no payments.|yes|no|
-|Hobo|Rails version problems, if using a late version|It seems according screencast, helps a lot with MVC boilerplate.|no|no|
+|[Rails Bricks](http://www.railsbricks.net/)|yes|Only starting point.|no|yes|
+|[Rails Apps Composer](https://github.com/RailsApps/rails-composer)|yes|Example apps reaching a SaaS with Stripe.|yes|yes|
+|[Prelang](http://prelang.com/)|Had to modify database credentials manually|Customizable models. But no payments.|yes|no|
+|[Hobo](http://www.hobocentral.net/)|Rails version problems, if using a late version|It seems according screencast, helps a lot with MVC boilerplate.|no|no|
 
 ### Miscellaneous (Not Categorised Yet)
 
