@@ -179,7 +179,8 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [ekylibre](https://github.com/ekylibre/ekylibre) | Simple agricultural ERP |[Live](http://ekylibre.org) |
 | [calcentral](https://github.com/ets-berkeley-edu/calcentral) | An online portal that provides a unified and personalized one-stop way to access email, calendars, shared documents and class collaboration spaces |[Live](https://calcentral.berkeley.edu) |
 | [encrypt.to](https://github.com/encrypt-to/encrypt.to) | Send encrypted messages by one click | [Live](https://encrypt.to/)
-| [crabgrass-core](https://github.com/riseuplabs/eol) | A web application designed for activist groups to be better able to collaborate online | |
+| [eol](https://github.com/EOL/eol) | Encyclopedia of Life | [Live](http://eol.org/) |
+| [crabgrass-core](https://github.com/riseuplabs/crabgrass-core) | A web application designed for activist groups to be better able to collaborate online | |
 | [alaveteli](https://github.com/mysociety/alaveteli) | Provide a Freedom of Information request system for your jurisdiction | [Live](http://alaveteli.org) |
 | [PasswordPusher](https://github.com/pglombardo/PasswordPusher) | A Ruby on Rails application to communicate passwords over the web | [Live](https://pwpush.com/) |
 | [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) | A fully functional, deployable marketplace implementation using Balanced API for Rails | [Live](http://rails.rentmybike.co/) |
