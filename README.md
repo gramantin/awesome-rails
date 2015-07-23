@@ -147,6 +147,8 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 |[Prelang](http://prelang.com/)|Had to modify database credentials manually|Customizable models. But no payments.|yes|no|
 |[Hobo](http://www.hobocentral.net/)|Rails version problems, if using a late version|It seems according screencast, helps a lot with MVC boilerplate.|no|no|
 
+[More options](http://railsapps.github.io/rails-application-templates.html).
+
 ### Miscellaneous (Not Categorised Yet)
 
 | Name | Description | Link |
