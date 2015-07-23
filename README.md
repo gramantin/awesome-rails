@@ -48,7 +48,6 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [selfstarter](https://github.com/lockitron/selfstarter) | Roll your own crowdfunding | [Live](http://selfstarter.us/) |
 | [catarse](https://github.com/catarse/catarse) | The first open source crowdfunding platform for creative projects in the world | [Live](http://catarse.me/) |
 | [CrowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) | Open source crowdfunding platform | [Live](http://open.crowdtilt.com/) |
-| [neighborly](https://github.com/neighborly/neighborly) | Open source fundraising toolkit for civic projects | [Live](http://neighbor.ly/) |
 
 ### Developer Tools
 
@@ -180,7 +179,6 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [ekylibre](https://github.com/ekylibre/ekylibre) | Simple agricultural ERP |[Live](http://ekylibre.org) |
 | [calcentral](https://github.com/ets-berkeley-edu/calcentral) | An online portal that provides a unified and personalized one-stop way to access email, calendars, shared documents and class collaboration spaces |[Live](https://calcentral.berkeley.edu) |
 | [encrypt.to](https://github.com/encrypt-to/encrypt.to) | Send encrypted messages by one click | [Live](https://encrypt.to/)
-| [eol](https://github.com/EOL/eol) | Encyclopedia of Life | [Live](http://eol.org/) |
 | [crabgrass-core](https://github.com/riseuplabs/eol) | A web application designed for activist groups to be better able to collaborate online | |
 | [alaveteli](https://github.com/mysociety/alaveteli) | Provide a Freedom of Information request system for your jurisdiction | [Live](http://alaveteli.org) |
 | [PasswordPusher](https://github.com/pglombardo/PasswordPusher) | A Ruby on Rails application to communicate passwords over the web | [Live](https://pwpush.com/) |
