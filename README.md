@@ -1,5 +1,7 @@
 ## AwesomeRails
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 A collection of awesome projects, sites made with Rails. Inspired by other awesome-* stuffs. (see "Notable Awesome Stuffs" part below)
 
 You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/edit/master/README.md)
@@ -195,5 +197,4 @@ Here I listed below sites, projects that is on-air now or ready for production (
 ## Notable Awesome Stuffs
 
 - [jnv/lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists
 - [Other awesome lists (by update dates)](https://github.com/search?utf8=%E2%9C%93&q=awesome+list+sort%3Aupdated&type=Repositories&ref=searchresults)
