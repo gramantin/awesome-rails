@@ -123,6 +123,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [diaspora](https://github.com/diaspora/diaspora) | Distributed and contextual social networking |[Live](https://diasporafoundation.org/) |
 | [coderwall](https://github.com/assemblymade/coderwall) | Professional network for software engineers | [Live](https://coderwall.com/) |
 | [follow-all](https://github.com/codeforamerica/follow-all) | Follow all the members of a Twitter list with a single click | [Live](http://follow-all.herokuapp.com/) |
+| [Hashrobot](https://github.com/rysmith/hashrobot) | A social media assistant | [Live](http://www.hashrobot.com/) |
 
 ### Social Responsibility
 
