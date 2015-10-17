@@ -2,6 +2,8 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+**NEW** You can access and [edit](https://github.com/ekremkaraca/awesome-rails/edit/master/TUTORIALS.md) list of tutorials from [TUTORIALS.md](https://github.com/ekremkaraca/awesome-rails/blob/master/TUTORIALS.md)
+
 A collection of awesome projects, sites made with Rails. Inspired by other awesome-* stuffs. (see "Notable Awesome Stuffs" part below)
 
 You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/edit/master/README.md)
