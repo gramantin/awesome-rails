@@ -190,6 +190,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [PasswordPusher](https://github.com/pglombardo/PasswordPusher) | A Ruby on Rails application to communicate passwords over the web | [Live](https://pwpush.com/) |
 | [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) | A fully functional, deployable marketplace implementation using Balanced API for Rails | [Live](http://rails.rentmybike.co/) |
 | [lavish](https://github.com/mquan/lavish) | a rails app that generates Bootstrap color scheme from an image | [Live](http://www.lavishbootstrap.com/) |
+| [coursemology2](https://github.com/Coursemology/coursemology2) | Rails 4 re-write of Coursemology | |
 
 ## Notes
 
