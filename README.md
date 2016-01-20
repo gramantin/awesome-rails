@@ -113,7 +113,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [teambox](https://github.com/teambox/teambox) | The award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter | [Live](https://redbooth.com/) |
 | [kanban](https://github.com/somlor/kanban) | A Trello clone in Rails and Backbone.js | [Live](http://kanban.seanomlor.com/) |
 | [openproject](https://github.com/opf/openproject) | A web based project management system built on Ruby on Rails | [Live](https://openproject-demo.org/) |
-| [people](https://github.com/netguru/people) | Manage people within the projects |[Live](https://netguru.co/opensource) |
+| [people](https://github.com/netguru/people) | Manage people within the projects |[Live](https://www.netguru.co/opensource) |
 | [WebsiteOne](https://github.com/AgileVentures/WebsiteOne) | A platform for online collaboration and crowdsourced project development |[Live](http://www.agileventures.org/) |
 | [houston](https://github.com/houston/houston-core) | Mission control for your projects and teammates | |
 | [hours](https://github.com/defactosoftware/hours) | A complete time registration app for teams |[Live](https://happyhours.io)|
@@ -132,7 +132,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | Name | Description | Link |
 |------|-------------|------|
 | [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) | A Ruby on Rails application that allows citizens to "adopt" civic infrastructure, such as fire hydrants | [Live](http://adopt-a-hydrant.herokuapp.com/) |
-| [planningalerts-app](https://github.com/openaustralia/planningalerts-app) | Find out and have your say about what's being built and knocked down in your area | [Live](http://www.planningalerts.org.au/application) |
+| [planningalerts-app](https://github.com/openaustralia/planningalerts) | Find out and have your say about what's being built and knocked down in your area | [Live](http://www.planningalerts.org.au/application) |
 | [spokenvote](https://github.com/Spokenvote/spokenvote) | A social voting app for reaching consensus in a group of any size | [Live](http://www.spokenvote.org) |
 
 ### Sports
