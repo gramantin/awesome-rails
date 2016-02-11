@@ -191,6 +191,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) | A fully functional, deployable marketplace implementation using Balanced API for Rails | [Live](http://rails.rentmybike.co/) |
 | [lavish](https://github.com/mquan/lavish) | a rails app that generates Bootstrap color scheme from an image | [Live](http://www.lavishbootstrap.com/) |
 | [coursemology2](https://github.com/Coursemology/coursemology2) | Rails 4 re-write of Coursemology | |
+| [Helpy](https://github.com/scott/helpy) | Rails 4 Helpdesk. Includes Multilingual Knowledgebase, Email Tickets, Community |[Live](http://helpy.io)  |
 
 ## Notes
 
