@@ -142,6 +142,12 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [bike_index](https://github.com/bikeindex/bike_index) | An online bike registry |[Live](https://bikeindex.org/) |
 | [racing_on_rails](https://github.com/scottwillson/racing_on_rails) | Manage a bike racing association: riders, teams, calendars, competitions, and results |[Live](http://racingonrails.rocketsurgeryllc.com/) |
 
+### Live chat
+
+| Name | Description | Link |
+|------|-------------|------|
+| [Tawk Rails](https://github.com/luizpicolo/tawk-rails) | Rails simple helper for Tawk.to live chat script |[Live](https://www.tawk.to/) |
+
 ### Generators
 
 |Generator|Ready to run|Complex Apps|Sets git|Heroku|
