@@ -60,6 +60,12 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [gitlabhq](https://github.com/gitlabhq/gitlabhq) | Open source software to collaborate on code | [Live](https://gitlab.com/gitlab-org/gitlab-ce/) |
 | [rubygems.org](https://github.com/rubygems/rubygems.org) | The Ruby community's gem hosting service | [Live](https://rubygems.org/) |
 
+### E-commerce
+
+| Name | Description | Link |
+|------|-------------|------|
+| [Spree](https://github.com/spree/spree) | Spree is a complete open source e-commerce solution for Ruby on Rails.  |[Live](http://spreecommerce.com) |
+
 ### Health
 
 | Name | Description | Link |
