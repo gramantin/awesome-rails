@@ -58,6 +58,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [gitlabhq](https://github.com/gitlabhq/gitlabhq) | Open source software to collaborate on code | [Live](https://gitlab.com/gitlab-org/gitlab-ce/) |
 | [rubygems.org](https://github.com/rubygems/rubygems.org) | The Ruby community's gem hosting service | [Live](https://rubygems.org/) |
 | [codetriage.com](https://github.com/codetriage/codetriage) | Help out your favorite open source projects and become a better developer while doing it. | [Live](http://www.codetriage.com/) |
+| [intercityup.com](https://github.com/intercity/intercity-next) | Control Panel for hosting Ruby on Rails | [Live](https://intercityup.com/) |
 
 ### E-commerce
 
