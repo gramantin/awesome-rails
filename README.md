@@ -2,8 +2,6 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**NEW** You can access and [edit](https://github.com/ekremkaraca/awesome-rails/edit/master/TUTORIALS.md) list of tutorials from [TUTORIALS.md](https://github.com/ekremkaraca/awesome-rails/blob/master/TUTORIALS.md)
-
 A collection of awesome projects, sites made with Rails. Inspired by other awesome-* stuffs. (see "Notable Awesome Stuffs" part below)
 
 You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/edit/master/README.md)
@@ -33,7 +31,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | Name | Description | Link |
 |------|-------------|------|
 | [publify](https://github.com/publify/publify) | A self hosted Web publishing platform on Rails | [Live](http://demo.publify.co/) |
-| [obtvse2](https://github.com/natew/obtvse2) | A clean and simple markdown blogging platform on Rails | [Live](http://obtvse2.herokuapp.com/) |
+| [obtvse2](https://github.com/natew/obtvse2) | A clean and simple markdown blogging platform on Rails ||
 
 ### Community Management
 
@@ -70,7 +68,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 
 | Name | Description | Link |
 |------|-------------|------|
-| [quant](https://github.com/jdjkelly/quant) | Quant is a prototype/experiment of a personal health tracker |[Live](http://www.getquant.com) |
+| [quant](https://github.com/jdjkelly/quant) | Quant is a prototype/experiment of a personal health tracker ||
 | [dgi-db](https://github.com/genome/dgi-db) | Rails frontend to The Genome Institute's drug gene interaction database |[Live](http://dgidb.genome.wustl.edu/) |
 | [popHealth](https://github.com/pophealth/popHealth) | An Open Source Population Health Reporting Prototype | [Live](http://projectpophealth.org/) |
 
@@ -118,7 +116,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [redmine](https://github.com/edavis10/redmine) | A flexible project management web application written using Ruby on Rails | [Live](http://demo.redmine.org/) |
 | [teambox](https://github.com/teambox/teambox) | The award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter | [Live](https://redbooth.com/) |
 | [kanban](https://github.com/somlor/kanban) | A Trello clone in Rails and Backbone.js | [Live](http://kanban.seanomlor.com/) |
-| [openproject](https://github.com/opf/openproject) | A web based project management system built on Ruby on Rails | [Live](https://openproject-demo.org/) |
+| [openproject](https://github.com/opf/openproject) | A web based project management system built on Ruby on Rails | [Live](https://www.openproject.org/) |
 | [people](https://github.com/netguru/people) | Manage people within the projects |[Live](https://www.netguru.co/opensource) |
 | [WebsiteOne](https://github.com/AgileVentures/WebsiteOne) | A platform for online collaboration and crowdsourced project development |[Live](http://www.agileventures.org/) |
 | [houston](https://github.com/houston/houston-core) | Mission control for your projects and teammates | |
@@ -166,16 +164,15 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [feedbin](https://github.com/feedbin/feedbin) | A simple, fast and nice looking RSS reader |[Live](https://feedbin.com) |
 | [brimir](https://github.com/ivaldi/brimir) | Email helpdesk built using Ruby on Rails and Zurb Foundation | [Live](http://demo.getbrimir.com/) |
 | [lobsters](https://github.com/jcs/lobsters) | Rails code running the lobste.rs link aggregation site |[Live](https://lobste.rs) |
-| [juvia](https://github.com/phusion/juvia) | A commenting server similar to Disqus and IntenseDebate | [Live](http://juvia-demo.phusion.nl/) |
 | [otwarchive](https://github.com/otwcode/otwarchive) | An open-source web application intended for hosting archives of fanworks, including fanfic, fanart, and fan vids | [Live](http://archiveofourown.org/) |
-| [peatio](https://github.com/peatio/peatio) | An open-source crypto currency exchange | [Live](https://peatio.com/) |
+| [peatio](https://github.com/peatio/peatio) | An open-source crypto currency exchange | [Live](http://www.peatio.com/) |
 | [openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website) | Mirror of the Rails application powering | [Live](http://www.openstreetmap.org) |
 | [RapidFTR](https://github.com/rapidftr/RapidFTR) | An Android-based mobile application that lets aid workers collect, sort and share information about children in emergency situations |[Live](http://www.rapidftr.com/) |
 | [danbooru](https://github.com/r888888888/danbooru) | A taggable image board written in Rails 3 |[Live](http://testbooru.donmai.us) |
 | [sharetribe](https://github.com/sharetribe/sharetribe) | A platform for setting up your own peer-to-peer marketplace online |[Live](https://www.sharetribe.com) |
 | [AsakusaSatellite](https://github.com/codefirst/AsakusaSatellite) | A realtime chat application for developers |[Live](http://www.codefirst.org/AsakusaSatellite/) |
 | [sanataro](https://github.com/kaznum/sanataro) | Simple Web Household Account Book. built with Ruby on Rails |[Live](http://sanataro.herokuapp.com) |
-| [opencongress](https://github.com/sunlightlabs/opencongress) | An open website for opening Congress |[Live](https://www.opencongress.org/) |
+| [opencongress](https://github.com/sunlightlabs/opencongress) | An open website for opening Congress ||
 | [rletters](https://github.com/rletters/rletters) | Web application designed to perform digital humanities research tasks on a database of journal articles |[Live](http://www.rletters.net) |
 | [scholarsphere](https://github.com/psu-stewardship/scholarsphere) | A web application for ingest, curation, search, and display of digital assets | |
 | [opensit](https://github.com/danbartlett/opensit) | An open source meditation community |[Live](http://opensit.com) |
