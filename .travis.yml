@@ -9,4 +9,4 @@ script:
   - awesome_bot check-links.txt --allow-dupe -w wheelmap.org,sourceforge,radioparadise,iltofa,douban
 after_script:
   - awesome_bot check-info.txt -a 403
-- danger
+  - danger
