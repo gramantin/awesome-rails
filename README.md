@@ -86,7 +86,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 
 | Name | Description | Link |
 |------|-------------|------|
-| [Beatstream](https://github.com/Darep/Beatstream) | App for streaming music from any computer running Ruby on Rails to anywhere |[Live](http://www.beatstream.fi/) |
+| [Beatstream](https://github.com/Darep/Beatstream) | App for streaming music from any computer running Ruby on Rails to anywhere | |
 | [listenup](https://github.com/ooofinooo/listenup) | An application that allows users to search for songs and add them to friends playlist | [Live](http://listenup-songshare.herokuapp.com/) |
 
 ### Nature
