@@ -86,7 +86,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 
 | Name | Description | Link |
 |------|-------------|------|
-| [Beatstream](https://github.com/Darep/Beatstream) | App for streaming music from any computer running Ruby on Rails to anywhere |[Live](http://www.beatstream.fi/) |
+| [Beatstream](https://github.com/Darep/Beatstream) | App for streaming music from any computer running Ruby on Rails to anywhere | |
 | [listenup](https://github.com/ooofinooo/listenup) | An application that allows users to search for songs and add them to friends playlist | [Live](http://listenup-songshare.herokuapp.com/) |
 
 ### Nature
@@ -132,7 +132,6 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [coderwall](https://github.com/assemblymade/coderwall) | Professional network for software engineers | [Live](https://coderwall.com/) |
 | [follow-all](https://github.com/codeforamerica/follow-all) | Follow all the members of a Twitter list with a single click | [Live](http://follow-all.herokuapp.com/) |
 | [Hashrobot](https://github.com/rysmith/hashrobot) | A social media assistant | [Live](http://www.hashrobot.com/) |
-| [SmartXchange](https://github.com/speterlin/SmartXchange) | A professional network for practicing languages | [Live](http://www.smartxchange.es) |
 
 ### Social Responsibility
 
