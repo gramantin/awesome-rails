@@ -4,24 +4,12 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 
 ## Table of Contents
 
-<table>
-  <tr>
-    <td>
-      [Essential Links](#essential-links)
-    </td>
-    <td>
-      [Videos](#videos)
-    </td>
-    <td>
-      [Books](#books)
-    </td>
-  </tr>
-  <tr>
-    <td>[Articles, Tutorials](#articles--tutorials)</td>
-    <td>[Made-with-Rails Apps](#made-with-rails-apps)
-    <td>[Notes](#notes)
-  </tr>
-</table>
+- [Essential Links](#essential-links)
+- [Videos](#videos)
+- [Books](#books)
+- [Articles, Tutorials](#articles--tutorials)
+- [Made-with-Rails Apps](#made-with-rails-apps)
+- [Notes](#notes)
 
 ### Essential Links
 
