@@ -6,9 +6,15 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 
 <table>
   <tr>
-    <td>[Essential Links](#essential-links)</td>
-    <td>[Videos](#videos)</td>
-    <td>[Books](#books)</td>
+    <td>
+      [Essential Links](#essential-links)
+    </td>
+    <td>
+      [Videos](#videos)
+    </td>
+    <td>
+      [Books](#books)
+    </td>
   </tr>
   <tr>
     <td>[Articles, Tutorials](#articles--tutorials)</td>
