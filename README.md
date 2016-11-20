@@ -1,30 +1,41 @@
-## AwesomeRails
+# AwesomeRails [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/ekremkaraca/awesome-rails.svg?branch=master)](https://travis-ci.org/ekremkaraca/awesome-rails)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A collection of all things awesome about Rails. Inspired by other awesome-* stuffs.<small>(see [Notable Awesome Stuffs](#notable-awesome-stuffs) part below)</small>
 
-A collection of awesome projects, sites made with Rails. Inspired by other awesome-* stuffs. (see "Notable Awesome Stuffs" part below)
+<table>
+  <tr>
+    <td>[Essential Links](#essential-links)</td>
+    <td>[Videos](#videos)</td>
+    <td>[Books](#books)</td>
+  </tr>
+  <tr>
+    <td>[Articles, Tutorials](#articles--tutorials)</td>
+    <td>[Made-with-Rails Apps](#made-with-rails-apps)
+    <td>[Notes](#notes)
+  </tr>
+</table>
 
-You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/edit/master/README.md)
+## Essential Links
 
-- [AwesomeRails](#AwesomeRails)
-  - [Blogging](#blogging)
-  - [Community Management](#community-management)
-  - [Crowdfunding & Fundraising](#crowdfunding--fundraising)
-  - [Developer Tools](#developer-tools)
-  - [Health](#health)
-  - [Learning](#learning)
-  - [Music](#music)
-  - [Nature](#nature)
-  - [Personal Management](#personal-management)
-  - [Politics](#politics)
-  - [Project Management](#project-management)
-  - [Social Networking](#social-networking)
-  - [Social Responsibility](#social-responsibility)
-  - [Sports](#sports)
-  - [Generators](#generators)
-  - [Miscellaneous (Not Categorised Yet)](#miscellaneous-not-categorised-yet)
-- [Notes](#notes)
-- [Notable Awesome Stuffs](#notable-awesome-stuffs)
+- [Rails Official Website](http://rubyonrails.org/)
+- [Rails Official Guide](http://guides.rubyonrails.org/) <small>[(Edge Guide)](http://edgeguides.rubyonrails.org/)</small>
+- [Rails API Documentation](http://api.rubyonrails.org/)
+- [Rails Source Code](https://github.com/rails/rails)
+- [Rails Official Blog](http://weblog.rubyonrails.org/)
+
+## Videos
+- [RailsCasts (outdated)](http://railscasts.com/)
+- [GoRails](https://gorails.com/)
+
+## Books
+
+*to be expanded*
+
+## Articles, Tutorials
+
+*to be expanded*
+
+## Fully or Partially Made-with-Rails Apps
 
 ### Blogging
 
@@ -202,10 +213,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 
 Contributions, pull requests are welcomed!
 
-Here I listed below sites, projects that is on-air now or ready for production (with some minor changes). For packages or gems, I suggest you to check other awesome stuffs. E.g. for Content Management Systems or CMS; I suggest to check out [this list](https://github.com/Sdogruyol/awesome-ruby#cms).
-
-
-## Notable Awesome Stuffs
+### Notable Awesome Stuffs
 
 - [jnv/lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub
 - [Other awesome lists (by update dates)](https://github.com/search?utf8=%E2%9C%93&q=awesome+list+sort%3Aupdated&type=Repositories&ref=searchresults)
