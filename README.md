@@ -1,39 +1,68 @@
-## AwesomeRails
+# AwesomeRails [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/ekremkaraca/awesome-rails.svg?branch=master)](https://travis-ci.org/ekremkaraca/awesome-rails)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A collection of all things awesome about Rails. Inspired by other awesome-* stuffs.<small>(see [Notable Awesome Stuffs](#notable-awesome-stuffs) part below)</small>
 
-A collection of awesome projects, sites made with Rails. Inspired by other awesome-* stuffs. (see "Notable Awesome Stuffs" part below)
+## Table of Contents
 
-You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/edit/master/README.md)
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [AwesomeRails](#AwesomeRails)
-  - [Blogging](#blogging)
-  - [Community Management](#community-management)
-  - [Crowdfunding & Fundraising](#crowdfunding--fundraising)
-  - [Developer Tools](#developer-tools)
-  - [Health](#health)
-  - [Learning](#learning)
-  - [Music](#music)
-  - [Nature](#nature)
-  - [Personal Management](#personal-management)
-  - [Politics](#politics)
-  - [Project Management](#project-management)
-  - [Social Networking](#social-networking)
-  - [Social Responsibility](#social-responsibility)
-  - [Sports](#sports)
-  - [Generators](#generators)
-  - [Miscellaneous (Not Categorised Yet)](#miscellaneous-not-categorised-yet)
-- [Notes](#notes)
-- [Notable Awesome Stuffs](#notable-awesome-stuffs)
+- [Table of Contents](#table-of-contents)
+	- [Essential Links](#essential-links)
+	- [Videos](#videos)
+	- [Books](#books)
+	- [Apps Made with Rails](#apps-made-with-rails)
+		- [Blogging](#blogging)
+		- [Community Management](#community-management)
+		- [Crowdfunding & Fundraising](#crowdfunding-fundraising)
+		- [Developer Tools](#developer-tools)
+		- [E-commerce](#e-commerce)
+		- [Health](#health)
+		- [Learning](#learning)
+		- [Music](#music)
+		- [Nature](#nature)
+		- [Personal Management](#personal-management)
+		- [Politics](#politics)
+		- [Project Management](#project-management)
+		- [Social Networking](#social-networking)
+		- [Social Responsibility](#social-responsibility)
+		- [Sports](#sports)
+		- [Generators](#generators)
+		- [Miscellaneous (Not Categorised Yet)](#miscellaneous-not-categorised-yet)
+	- [Notes](#notes)
+	- [Notable Awesome Stuffs](#notable-awesome-stuffs)
 
-### Blogging
+<!-- /TOC -->
+
+### Essential Links
+
+- [Rails Official Website](http://rubyonrails.org/)
+- [Rails Official Guide](http://guides.rubyonrails.org/) <small>[(Edge Guide)](http://edgeguides.rubyonrails.org/)</small>
+- [Rails API Documentation](http://api.rubyonrails.org/)
+- [Rails Source Code](https://github.com/rails/rails)
+- [Rails Official Blog](http://weblog.rubyonrails.org/)
+
+### Videos
+- [RailsCasts (outdated)](http://railscasts.com/)
+- [GoRails](https://gorails.com/)
+
+### Books
+
+- [Ruby on Rails Tutorial Book ](https://www.railstutorial.org/book) - Free to read online
+- [Agile Web Development with Rails 5](https://pragprog.com/book/rails5/agile-web-development-with-rails-5)
+- [Rails 4 Test Prescriptions](https://pragprog.com/book/nrtest2/rails-4-test-prescriptions)
+- [Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)
+- [Rails 4 in Action](https://www.manning.com/books/rails-4-in-action)
+
+### Apps Made with Rails
+
+#### Blogging
 
 | Name | Description | Link |
 |------|-------------|------|
 | [publify](https://github.com/publify/publify) | A self hosted Web publishing platform on Rails | [Live](http://demo.publify.co/) |
 | [obtvse2](https://github.com/natew/obtvse2) | A clean and simple markdown blogging platform on Rails ||
 
-### Community Management
+#### Community Management
 
 | Name | Description | Link |
 |------|-------------|------|
@@ -43,7 +72,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [onebody](https://github.com/churchio/onebody) | A private member portal for churches built with Ruby on Rails |[Live](https://church.io/) |
 | [calagator](https://github.com/calagator/calagator) | An event aggregator based in Portland, OR |[Live](http://calagator.org) |
 
-### Crowdfunding & Fundraising
+#### Crowdfunding & Fundraising
 
 | Name | Description | Link |
 |------|-------------|------|
@@ -51,7 +80,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [catarse](https://github.com/catarse/catarse) | The first open source crowdfunding platform for creative projects in the world | [Live](http://catarse.me/) |
 | [CrowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) | Open source crowdfunding platform | [Live](http://open.crowdtilt.com/) |
 
-### Developer Tools
+#### Developer Tools
 
 | Name | Description | Link |
 |------|-------------|------|
@@ -60,21 +89,21 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [codetriage.com](https://github.com/codetriage/codetriage) | Help out your favorite open source projects and become a better developer while doing it. | [Live](http://www.codetriage.com/) |
 | [intercityup.com](https://github.com/intercity/intercity-next) | Control Panel for hosting Ruby on Rails | [Live](https://intercityup.com/) |
 
-### E-commerce
+#### E-commerce
 
 | Name | Description | Link |
 |------|-------------|------|
 | [Spree](https://github.com/spree/spree) | Spree is a complete open source e-commerce solution for Ruby on Rails.  |[Live](http://spreecommerce.com) |
 
-### Health
+#### Health
 
 | Name | Description | Link |
 |------|-------------|------|
 | [quant](https://github.com/jdjkelly/quant) | Quant is a prototype/experiment of a personal health tracker ||
 | [dgi-db](https://github.com/genome/dgi-db) | Rails frontend to The Genome Institute's drug gene interaction database |[Live](http://dgidb.genome.wustl.edu/) |
-| [popHealth](https://github.com/pophealth/popHealth) | An Open Source Population Health Reporting Prototype | [Live](http://projectpophealth.org/) |
+| [popHealth](https://github.com/pophealth/popHealth) | An Open Source Population Health Reporting Prototype | |
 
-### Learning
+#### Learning
 
 | Name | Description | Link |
 |------|-------------|------|
@@ -82,14 +111,14 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [theodinproject](https://github.com/TheOdinProject/theodinproject) | A project that aims to teach web development for free | [Live](http://www.theodinproject.com/)
 | [cyberdojo](https://github.com/JonJagger/cyber-dojo) | Free in-browser coding-dojo |[Live](http://cyber-dojo.org/) |
 
-### Music
+#### Music
 
 | Name | Description | Link |
 |------|-------------|------|
 | [Beatstream](https://github.com/Darep/Beatstream) | App for streaming music from any computer running Ruby on Rails to anywhere | |
 | [listenup](https://github.com/ooofinooo/listenup) | An application that allows users to search for songs and add them to friends playlist | [Live](http://listenup-songshare.herokuapp.com/) |
 
-### Nature
+#### Nature
 
 | Name | Description | Link |
 |------|-------------|------|
@@ -97,21 +126,21 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [inaturalist](https://github.com/inaturalist/inaturalist) | Open source Rails app behind iNaturalist.org |[Live](http://www.inaturalist.org) |
 | [OpenFarm](https://github.com/openfarmcc/OpenFarm) | A free and open database for farming and gardening knowledge | [Live](https://openfarm.cc/) |
 
-### Personal Management
+#### Personal Management
 
 | Name | Description | Link |
 |------|-------------|------|
 | [tracks](https://github.com/TracksApp/tracks) | A "Getting Things Done" application | [Live](http://www.getontracks.org/) |
 | [hummingbird](https://github.com/hummingbird-me/hummingbird) | A modern anime discovery platform that helps you track the anime you're watching, discover new anime and socialize with other fans | [Live](https://hummingbird.me/) |
 
-### Politics
+#### Politics
 
 | Name | Description | Link |
 |------|-------------|------|
 | [whitehall](https://github.com/alphagov/whitehall) | Inside Government: how the UK Government works, what it's doing, and how you can get involved | |
 | [askaway](https://github.com/askaway/askaway) | Ask New Zealand's political parties your questions this election | [Live](https://nzelection.askaway.org.nz/) |
 
-### Project Management
+#### Project Management
 
 | Name | Description | Link |
 |------|-------------|------|
@@ -124,7 +153,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [houston](https://github.com/houston/houston-core) | Mission control for your projects and teammates | |
 | [hours](https://github.com/defactosoftware/hours) | A complete time registration app for teams |[Live](https://happyhours.io)|
 
-### Social Networking
+#### Social Networking
 
 | Name | Description | Link |
 |------|-------------|------|
@@ -134,7 +163,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [Hashrobot](https://github.com/rysmith/hashrobot) | A social media assistant | [Live](http://www.hashrobot.com/) |
 | [SmartXchange](https://github.com/speterlin/SmartXchange) | A professional network for practicing languages | [Live](http://www.smartxchange.es) |
 
-### Social Responsibility
+#### Social Responsibility
 
 | Name | Description | Link |
 |------|-------------|------|
@@ -142,14 +171,14 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [planningalerts-app](https://github.com/openaustralia/planningalerts) | Find out and have your say about what's being built and knocked down in your area | [Live](http://www.planningalerts.org.au/application) |
 | [spokenvote](https://github.com/Spokenvote/spokenvote) | A social voting app for reaching consensus in a group of any size | [Live](http://www.spokenvote.org) |
 
-### Sports
+#### Sports
 
 | Name | Description | Link |
 |------|-------------|------|
 | [bike_index](https://github.com/bikeindex/bike_index) | An online bike registry |[Live](https://bikeindex.org/) |
 | [racing_on_rails](https://github.com/scottwillson/racing_on_rails) | Manage a bike racing association: riders, teams, calendars, competitions, and results |[Live](http://racingonrails.rocketsurgeryllc.com/) |
 
-### Generators
+#### Generators
 
 |Generator|Ready to run|Complex Apps|Sets git|Heroku|
 | ------ | ------ | ------ | ------ | ------ |
@@ -159,13 +188,13 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 
 [More options](http://railsapps.github.io/rails-application-templates.html).
 
-### Miscellaneous (Not Categorised Yet)
+#### Miscellaneous (Not Categorised Yet)
 
 | Name | Description | Link |
 |------|-------------|------|
 | [feedbin](https://github.com/feedbin/feedbin) | A simple, fast and nice looking RSS reader |[Live](https://feedbin.com) |
 | [brimir](https://github.com/ivaldi/brimir) | Email helpdesk built using Ruby on Rails and Zurb Foundation | [Live](http://demo.getbrimir.com/) |
-| [lobsters](https://github.com/jcs/lobsters) | Rails code running the lobste.rs link aggregation site |[Live](https://lobste.rs) |
+| [lobsters](https://github.com/jcs/lobsters) | Rails code running the lobste.rs link aggregation site | |
 | [otwarchive](https://github.com/otwcode/otwarchive) | An open-source web application intended for hosting archives of fanworks, including fanfic, fanart, and fan vids | [Live](http://archiveofourown.org/) |
 | [peatio](https://github.com/peatio/peatio) | An open-source crypto currency exchange | [Live](http://www.peatio.com/) |
 | [openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website) | Mirror of the Rails application powering | [Live](http://www.openstreetmap.org) |
@@ -198,14 +227,11 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 | [coursemology2](https://github.com/Coursemology/coursemology2) | Rails 4 re-write of Coursemology | |
 | [Helpy](https://github.com/scott/helpy) | Rails 4 Helpdesk. Includes Multilingual Knowledgebase, Email Tickets, Community |[Live](http://helpy.io)  |
 
-## Notes
+### Notes
 
 Contributions, pull requests are welcomed!
 
-Here I listed below sites, projects that is on-air now or ready for production (with some minor changes). For packages or gems, I suggest you to check other awesome stuffs. E.g. for Content Management Systems or CMS; I suggest to check out [this list](https://github.com/Sdogruyol/awesome-ruby#cms).
-
-
-## Notable Awesome Stuffs
+### Notable Awesome Stuffs
 
 - [jnv/lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub
 - [Other awesome lists (by update dates)](https://github.com/search?utf8=%E2%9C%93&q=awesome+list+sort%3Aupdated&type=Repositories&ref=searchresults)
