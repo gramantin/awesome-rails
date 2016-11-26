@@ -12,7 +12,7 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 	- [Books](#books)
 	- [Apps Made with Rails](#apps-made-with-rails)
 		- [Blogging](#blogging)
-	- [Community Management](#community-management)
+		- [Community Management](#community-management)
 		- [Crowdfunding & Fundraising](#crowdfunding-fundraising)
 		- [Developer Tools](#developer-tools)
 		- [E-commerce](#e-commerce)
@@ -47,7 +47,7 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 
 ### Books
 
-- [M. Hartl's Ruby on Rails Tutorial ](https://www.railstutorial.org/book) - Free to read
+- [Ruby on Rails Tutorial Book ](https://www.railstutorial.org/book) - Free to read online
 - [Agile Web Development with Rails 5](https://pragprog.com/book/rails5/agile-web-development-with-rails-5)
 - [Rails 4 Test Prescriptions](https://pragprog.com/book/nrtest2/rails-4-test-prescriptions)
 - [Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)
@@ -62,7 +62,7 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 | [publify](https://github.com/publify/publify) | A self hosted Web publishing platform on Rails | [Live](http://demo.publify.co/) |
 | [obtvse2](https://github.com/natew/obtvse2) | A clean and simple markdown blogging platform on Rails ||
 
-### Community Management
+#### Community Management
 
 | Name | Description | Link |
 |------|-------------|------|
@@ -101,7 +101,7 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 |------|-------------|------|
 | [quant](https://github.com/jdjkelly/quant) | Quant is a prototype/experiment of a personal health tracker ||
 | [dgi-db](https://github.com/genome/dgi-db) | Rails frontend to The Genome Institute's drug gene interaction database |[Live](http://dgidb.genome.wustl.edu/) |
-| [popHealth](https://github.com/pophealth/popHealth) | An Open Source Population Health Reporting Prototype | [Live](http://projectpophealth.org/) |
+| [popHealth](https://github.com/pophealth/popHealth) | An Open Source Population Health Reporting Prototype | |
 
 #### Learning
 
@@ -194,7 +194,7 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 |------|-------------|------|
 | [feedbin](https://github.com/feedbin/feedbin) | A simple, fast and nice looking RSS reader |[Live](https://feedbin.com) |
 | [brimir](https://github.com/ivaldi/brimir) | Email helpdesk built using Ruby on Rails and Zurb Foundation | [Live](http://demo.getbrimir.com/) |
-| [lobsters](https://github.com/jcs/lobsters) | Rails code running the lobste.rs link aggregation site |[Live](https://lobste.rs) |
+| [lobsters](https://github.com/jcs/lobsters) | Rails code running the lobste.rs link aggregation site | |
 | [otwarchive](https://github.com/otwcode/otwarchive) | An open-source web application intended for hosting archives of fanworks, including fanfic, fanart, and fan vids | [Live](http://archiveofourown.org/) |
 | [peatio](https://github.com/peatio/peatio) | An open-source crypto currency exchange | [Live](http://www.peatio.com/) |
 | [openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website) | Mirror of the Rails application powering | [Live](http://www.openstreetmap.org) |
