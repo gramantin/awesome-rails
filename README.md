@@ -4,12 +4,34 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 
 ## Table of Contents
 
-- [Essential Links](#essential-links)
-- [Videos](#videos)
-- [Books](#books)
-- [Articles, Tutorials](#articles--tutorials)
-- [Made-with-Rails Apps](#made-with-rails-apps)
-- [Notes](#notes)
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Table of Contents](#table-of-contents)
+	- [Essential Links](#essential-links)
+	- [Videos](#videos)
+	- [Books](#books)
+	- [Apps Made with Rails](#apps-made-with-rails)
+		- [Blogging](#blogging)
+	- [Community Management](#community-management)
+		- [Crowdfunding & Fundraising](#crowdfunding-fundraising)
+		- [Developer Tools](#developer-tools)
+		- [E-commerce](#e-commerce)
+		- [Health](#health)
+		- [Learning](#learning)
+		- [Music](#music)
+		- [Nature](#nature)
+		- [Personal Management](#personal-management)
+		- [Politics](#politics)
+		- [Project Management](#project-management)
+		- [Social Networking](#social-networking)
+		- [Social Responsibility](#social-responsibility)
+		- [Sports](#sports)
+		- [Generators](#generators)
+		- [Miscellaneous (Not Categorised Yet)](#miscellaneous-not-categorised-yet)
+	- [Notes](#notes)
+	- [Notable Awesome Stuffs](#notable-awesome-stuffs)
+
+<!-- /TOC -->
 
 ### Essential Links
 
@@ -25,13 +47,13 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 
 ### Books
 
-*to be expanded*
+- [M. Hartl's Ruby on Rails Tutorial ](https://www.railstutorial.org/book) - Free to read
+- [Agile Web Development with Rails 5](https://pragprog.com/book/rails5/agile-web-development-with-rails-5)
+- [Rails 4 Test Prescriptions](https://pragprog.com/book/nrtest2/rails-4-test-prescriptions)
+- [Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)
+- [Rails 4 in Action](https://www.manning.com/books/rails-4-in-action)
 
-### Articles, Tutorials
-
-*to be expanded*
-
-### Fully or Partially Made-with-Rails Apps
+### Apps Made with Rails
 
 #### Blogging
 
