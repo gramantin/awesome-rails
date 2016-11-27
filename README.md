@@ -124,7 +124,7 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 |------|-------------|------|
 | [growstuff](https://github.com/Growstuff/growstuff) | An open source/open data project to create a website for food gardeners | [Live](http://growstuff.org/) |
 | [inaturalist](https://github.com/inaturalist/inaturalist) | Open source Rails app behind iNaturalist.org |[Live](http://www.inaturalist.org) |
-| [OpenFarm](https://github.com/openfarmcc/OpenFarm) | A free and open database for farming and gardening knowledge | [Live](https://openfarm.cc/) |
+| [OpenFarm](https://github.com/openfarmcc/OpenFarm) | A free and open database for farming and gardening knowledge | |
 
 #### Personal Management
 
