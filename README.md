@@ -137,7 +137,6 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 - [coderwall](https://github.com/assemblymade/coderwall)  Professional network for software engineers  [Live](https://coderwall.com/)
 - [follow-all](https://github.com/codeforamerica/follow-all)  Follow all the members of a Twitter list with a single click  [Live](http://follow-all.herokuapp.com/)
 - [Hashrobot](https://github.com/rysmith/hashrobot)  A social media assistant  [Live](http://www.hashrobot.com/)
-- [SmartXchange](https://github.com/speterlin/SmartXchange)  A professional network for practicing languages  [Live](http://www.smartxchange.es)
 
 #### Social Responsibility
 
@@ -183,7 +182,7 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 - [crabgrass-core](https://github.com/riseuplabs/crabgrass-core)  A web application designed for activist groups to be better able to collaborate online  
 - [alaveteli](https://github.com/mysociety/alaveteli)  Provide a Freedom of Information request system for your jurisdiction  [Live](http://alaveteli.org)
 - [PasswordPusher](https://github.com/pglombardo/PasswordPusher)  A Ruby on Rails application to communicate passwords over the web  [Live](https://pwpush.com/)
-- [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails)  A fully functional, deployable marketplace implementation using Balanced API for Rails  [Live](http://rails.rentmybike.co/)
+- [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails)  A fully functional, deployable marketplace implementation using Balanced API for Rails
 - [lavish](https://github.com/mquan/lavish)  a rails app that generates Bootstrap color scheme from an image  [Live](http://www.lavishbootstrap.com/)
 - [coursemology2](https://github.com/Coursemology/coursemology2)  Rails 4 re-write of Coursemology  
 - [Helpy](https://github.com/scott/helpy)  Rails 4 Helpdesk. Includes Multilingual Knowledgebase, Email Tickets, Community [Live](http://helpy.io)  
