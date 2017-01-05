@@ -186,7 +186,8 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 - <dt> [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails)</dt> A fully functional, deployable marketplace implementation using Balanced API for Rails
 - <dt> [lavish](https://github.com/mquan/lavish)</dt> a rails app that generates Bootstrap color scheme from an image  [Live](http://www.lavishbootstrap.com/)
 - <dt> [coursemology2](https://github.com/Coursemology/coursemology2)</dt> Rails 4 re-write of Coursemology  
-- <dt> [Helpy](https://github.com/scott/helpy)</dt> Rails 4 Helpdesk. Includes Multilingual Knowledgebase, Email Tickets, Community [Live](http://helpy.io)  
+- <dt> [Helpy](https://github.com/scott/helpy)</dt> Rails 4 Helpdesk. Includes Multilingual Knowledgebase, Email Tickets, Community [Live](http://helpy.io)
+- <dt> [expertiza](https://github.com/expertiza/expertiza)</dt> web application where students can submit and peer-review learning objects (articles, code, web sites, etc).
 
 ### Other Rails Tools
 
