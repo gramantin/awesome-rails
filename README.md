@@ -68,7 +68,7 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 - <dt>[loomio](https://github.com/loomio/loomio)</dt>  A collaborative decision-making tool that makes it easy for anyone [Live](https://www.loomio.org/)
 - <dt>[campo](https://github.com/chloerei/campo)</dt> A lightweight forum application, base on Ruby on Rails  [Live](http://codecampo.com/)
 - <dt>[onebody](https://github.com/churchio/onebody)</dt> A private member portal for churches built with Ruby on Rails [Live](https://church.io/)
-- <dt>[calagator](https://github.com/calagator/calagator)</dt> An event aggregator based in Portland, OR [Live](http://calagator.org)
+- <dt>[calagator](https://github.com/calagator/calagator)</dt> An event aggregator based in Portland, OR
 
 #### Crowdfunding & Fundraising
 
