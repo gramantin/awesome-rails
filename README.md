@@ -12,7 +12,7 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 	- [Apps Made with Rails](#apps-made-with-rails)
 		- [Blogging](#blogging)
 		- [Community Management](#community-management)
-		- [Crowdfunding & Fundraising](#crowdfunding-fundraising)
+		- [Crowdfunding & Fundraising](#crowdfunding--fundraising)
 		- [Developer Tools](#developer-tools)
 		- [E-commerce](#e-commerce)
 		- [Health](#health)
@@ -137,7 +137,8 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 - <dt>[coderwall](https://github.com/assemblymade/coderwall)</dt> Professional network for software engineers  [Live](https://coderwall.com/)
 - <dt>[follow-all](https://github.com/codeforamerica/follow-all)</dt> Follow all the members of a Twitter list with a single click  [Live](http://follow-all.herokuapp.com/)
 - <dt>[Hashrobot](https://github.com/rysmith/hashrobot)</dt> A social media assistant  [Live](http://www.hashrobot.com/)
-- <dt>[socify](https://github.com/sudharti/socify)</dt> an open source social networking platform written in Ruby on Rails [Live](http://socifyapp.herokuapp.com/) 
+- <dt>[socify](https://github.com/sudharti/socify)</dt> an open source social networking platform written in Ruby on Rails [Live](http://socifyapp.herokuapp.com/)
+- <dt>[RoRdit](https://github.com/mertbulan/RoRdit)</dt> Link aggregation web app similar with Reddit in Ruby on Rails [Live](https://rordit.herokuapp.com)
 
 #### Social Responsibility
 
