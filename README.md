@@ -139,6 +139,7 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 - <dt>[Hashrobot](https://github.com/rysmith/hashrobot)</dt> A social media assistant  [Live](http://www.hashrobot.com/)
 - <dt>[socify](https://github.com/sudharti/socify)</dt> an open source social networking platform written in Ruby on Rails [Live](http://socifyapp.herokuapp.com/)
 - <dt>[RoRdit](https://github.com/mertbulan/RoRdit)</dt> Link aggregation web app similar with Reddit in Ruby on Rails [Live](https://rordit.herokuapp.com)
+- <dt>[Mastodon](https://github.com/tootsuite/mastodon)</dt> GNU Social-compatible microblogging server [Live](https://mastodon.social)
 
 #### Social Responsibility
 
