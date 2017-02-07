@@ -126,7 +126,7 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 - <dt>[teambox](https://github.com/teambox/teambox)</dt> The award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter  [Live](https://redbooth.com/)
 - <dt>[kanban](https://github.com/somlor/kanban)</dt> A Trello clone in Rails and Backbone.js  [Live](http://kanban.seanomlor.com/)
 - <dt>[openproject](https://github.com/opf/openproject)</dt> A web based project management system built on Ruby on Rails  [Live](https://www.openproject.org/)
-- <dt>[people](https://github.com/netguru/people)</dt> Manage people within the projects [Live](https://www.netguru.co/opensource)
+- <dt>[people](https://github.com/netguru/people)</dt> Manage people within the projects
 - <dt>[WebsiteOne](https://github.com/AgileVentures/WebsiteOne)</dt> A platform for online collaboration and crowdsourced project development [Live](http://www.agileventures.org/)
 - <dt>[houston](https://github.com/houston/houston-core)</dt> Mission control for your projects and teammates  
 - <dt>[hours](https://github.com/defactosoftware/hours)</dt> A complete time registration app for teams [Live](https://happyhours.io)
