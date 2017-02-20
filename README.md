@@ -137,7 +137,7 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 - <dt>[coderwall](https://github.com/assemblymade/coderwall)</dt> Professional network for software engineers  [Live](https://coderwall.com/)
 - <dt>[follow-all](https://github.com/codeforamerica/follow-all)</dt> Follow all the members of a Twitter list with a single click  [Live](http://follow-all.herokuapp.com/)
 - <dt>[Hashrobot](https://github.com/rysmith/hashrobot)</dt> A social media assistant  [Live](http://www.hashrobot.com/)
-- <dt>[socify](https://github.com/sudharti/socify)</dt> an open source social networking platform written in Ruby on Rails [Live](http://socifyapp.herokuapp.com/)
+- <dt>[socify](https://github.com/sudharti/socify)</dt> an open source social networking platform written in Ruby on Rails
 - <dt>[RoRdit](https://github.com/mertbulan/RoRdit)</dt> Link aggregation web app similar with Reddit in Ruby on Rails [Live](https://rordit.herokuapp.com)
 - <dt>[Mastodon](https://github.com/tootsuite/mastodon)</dt> GNU Social-compatible microblogging server [Live](https://mastodon.social)
 
@@ -156,7 +156,7 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 *Apps that aren't categorised yet*
 
 - <dt> [feedbin](https://github.com/feedbin/feedbin)</dt>  A simple, fast and nice looking RSS reader [Live](https://feedbin.com)
-- <dt> [brimir](https://github.com/ivaldi/brimir)</dt>  Email helpdesk built using Ruby on Rails and Zurb Foundation  [Live](http://demo.getbrimir.com/)
+- <dt> [brimir](https://github.com/ivaldi/brimir)</dt>  Email helpdesk built using Ruby on Rails and Zurb Foundation
 - <dt> [lobsters](https://github.com/jcs/lobsters)</dt>  Rails code running the lobste.rs link aggregation site  
 - <dt> [otwarchive](https://github.com/otwcode/otwarchive)</dt>  An open-source web application intended for hosting archives of fanworks, including fanfic, fanart, and fan vids  [Live](http://archiveofourown.org/)
 - <dt> [peatio](https://github.com/peatio/peatio)</dt>  An open-source crypto currency exchange  [Live](http://www.peatio.com/)
