@@ -196,7 +196,7 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 ### Other Rails Tools
 
 #### Platforms
-- [Nanobox](https://nanobox.io/) - A micro-PaaS (μPaaS) for creating consistent, isolated Ruby environments deployable anywhere.
+* [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere https://nanobox.io.
 
 #### Generators
 
