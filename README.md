@@ -27,6 +27,7 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 		- [Sports](#sports)
 		- [Miscellaneous](#miscellaneous)
 	- [Other Rails Tools](#other-rails-tools)
+		- [Platforms](#platforms)
 		- [Generators](#generators)
 	- [Notable Awesome Stuffs](#notable-awesome-stuffs)
 
@@ -190,9 +191,12 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 - <dt> [coursemology2](https://github.com/Coursemology/coursemology2)</dt> Rails 4 re-write of Coursemology  
 - <dt> [Helpy](https://github.com/scott/helpy)</dt> Rails 4 Helpdesk. Includes Multilingual Knowledgebase, Email Tickets, Community [Live](http://helpy.io)
 - <dt> [expertiza](https://github.com/expertiza/expertiza)</dt> web application where students can submit and peer-review learning objects (articles, code, web sites, etc).
-- <dt> [covoiturage-libre](https://github.com/covoiturage-libre/covoiturage-libre)</dt> a Carpooling Open Source platform in Rails 5 
+- <dt> [covoiturage-libre](https://github.com/covoiturage-libre/covoiturage-libre)</dt> a Carpooling Open Source platform in Rails 5
 
 ### Other Rails Tools
+
+#### Platforms
+- [Nanobox](https://nanobox.io/) - A micro-PaaS (μPaaS) for creating consistent, isolated Ruby environments deployable anywhere.
 
 #### Generators
 
