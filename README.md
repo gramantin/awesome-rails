@@ -135,7 +135,7 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 
 - <dt>[diaspora](https://github.com/diaspora/diaspora)</dt> Distributed and contextual social networking [Live](https://diasporafoundation.org/)
 - <dt>[coderwall](https://github.com/assemblymade/coderwall)</dt> Professional network for software engineers  [Live](https://coderwall.com/)
-- <dt>[follow-all](https://github.com/codeforamerica/follow-all)</dt> Follow all the members of a Twitter list with a single click  [Live](http://follow-all.herokuapp.com/)
+- <dt>[follow-all](https://github.com/codeforamerica/follow-all)</dt> Follow all the members of a Twitter list with a single click
 - <dt>[Hashrobot](https://github.com/rysmith/hashrobot)</dt> A social media assistant  [Live](http://www.hashrobot.com/)
 - <dt>[socify](https://github.com/sudharti/socify)</dt> an open source social networking platform written in Ruby on Rails
 - <dt>[RoRdit](https://github.com/mertbulan/RoRdit)</dt> Link aggregation web app similar with Reddit in Ruby on Rails [Live](https://rordit.herokuapp.com)
@@ -144,7 +144,7 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 #### Social Responsibility
 
 - <dt>[adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant)</dt> A Ruby on Rails application that allows citizens to "adopt" civic infrastructure, such as fire hydrants  [Live](http://adopt-a-hydrant.herokuapp.com/)
-- <dt>[planningalerts-app](https://github.com/openaustralia/planningalerts)</dt> Find out and have your say about what's being built and knocked down in your area  [Live](http://www.planningalerts.org.au/application)
+- <dt>[planningalerts-app](https://github.com/openaustralia/planningalerts)</dt> Find out and have your say about what's being built and knocked down in your area
 - <dt>[spokenvote](https://github.com/Spokenvote/spokenvote)</dt>  A social voting app for reaching consensus in a group of any size  [Live](http://www.spokenvote.org)
 
 #### Sports
