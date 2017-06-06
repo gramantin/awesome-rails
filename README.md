@@ -192,7 +192,8 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 -  [Helpy](https://github.com/scott/helpy) - Rails 4 Helpdesk. Includes Multilingual Knowledgebase, Email Tickets, Community [Live](http://helpy.io)
 -  [expertiza](https://github.com/expertiza/expertiza) - web application where students can submit and peer-review learning objects (articles, code, web sites, etc).
 -  [covoiturage-libre](https://github.com/covoiturage-libre/covoiturage-libre) - a Carpooling Open Source platform in Rails 5
-
+-  [hitobito](https://github.com/hitobito/hitobito) - A web application to manage complex group hierarchies with members, events and a lot more - [Live](http://hitobito.com/en/)
+-  [ossfriday](https://github.com/ossfriday/ossfriday) - a movement to encourage companies, people and maintainers to contribute to open source every Friday
 
 ### Other Rails Tools
 
