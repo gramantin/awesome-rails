@@ -99,6 +99,7 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 - [canvas-lms](https://github.com/instructure/canvas-lms) -  A new, open-source learning management system by Instructure Inc  
 - [theodinproject](https://github.com/TheOdinProject/theodinproject) -  A project that aims to teach web development for free  [Live](http://www.theodinproject.com)
 - [cyberdojo](https://github.com/JonJagger/cyber-dojo) -  Free in-browser coding-dojo [Live](http://cyber-dojo.org)
+- [mumuki-laboratory](https://github.com/mumuki/mumuki-laboratory) - Where students practice and receive automated and human feedback [Live](http://mumuki.io/)
 
 #### Music
 
