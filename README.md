@@ -82,7 +82,7 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 - [gitlabhq](https://github.com/gitlabhq/gitlabhq) -  Open source software to collaborate on code  [Live](https://gitlab.com/gitlab-org/gitlab-ce) -
 - [rubygems.org](https://github.com/rubygems/rubygems.org) -  The Ruby community's gem hosting service  [Live](https://rubygems.org)
 - [codetriage.com](https://github.com/codetriage/codetriage) -  Help out your favorite open source projects and become a better developer while doing it.  [Live](http://www.codetriage.com)
-- [intercityup.com](https://github.com/intercity/intercity-next) -  Control Panel for hosting Ruby on Rails  [Live](https://intercityup.com)
+- [intercityup.com](https://github.com/intercity/intercity-next) -  Control Panel for hosting Ruby on Rails 
 
 #### E-commerce
 
@@ -91,7 +91,7 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 #### Health
 
 - [quant](https://github.com/jdjkelly/quant) -  Quant is a prototype/experiment of a personal health tracker
-- [dgi-db](https://github.com/genome/dgi-db) -  Rails frontend to The Genome Institute's drug gene interaction database [Live](http://dgidb.genome.wustl.edu)
+- [dgi-db](https://github.com/genome/dgi-db) -  Rails frontend to The Genome Institute's drug gene interaction database 
 - [popHealth](https://github.com/pophealth/popHealth) -  An Open Source Population Health Reporting Prototype  
 
 #### Learning
