@@ -19,6 +19,7 @@
 		- [June 2017](#june-2017)
 		- [May 2017](#may-2017)
 		- [March 2017](#march-2017)
+		- [February 2017](#february-2017)
 		- [January 2017](#january-2017)
 		- [October 2016](#october-2016)
 		- [August 2016](#august-2016)
@@ -162,6 +163,7 @@
 - [Famous Web Apps Built with Ruby on Rails](https://railsware.com/blog/2017/06/23/famous-web-apps-built-with-ruby-on-rails/)
 - [Connecting to Snowflake with Ruby on Rails](http://eng.localytics.com/connecting-to-snowflake-with-ruby-on-rails/)
 - [(Turkish) Todo Da Ne Ki?](http://ebrugulec.com/2017/06/22/rails-ile-todo-app.html)
+- [Building a JSON API with Rails 5](https://blog.codeship.com/building-a-json-api-with-rails-5/)
 
 #### May 2017
 
@@ -172,9 +174,15 @@
 
 - [8 Useful Ruby on Rails Gems We Couldn't Live Without](http://blog.planetargon.com/entries/8-useful-ruby-on-rails-gems-we-couldnt-live-without)
 
+#### February 2017
+
+- [File Upload in Rails with PaperClip](https://scotch.io/tutorials/file-upload-in-rails-with-paperclip)
+
 #### January 2017
 
 - [Integration Testing Ruby on Rails with Minitest and Capybara](https://semaphoreci.com/community/tutorials/integration-testing-ruby-on-rails-with-minitest-and-capybara)
+- [Build a RESTful JSON API With Rails 5](https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one)
+- [Crafting APIs With Rails](https://code.tutsplus.com/articles/crafting-apis-with-rails--cms-27695)
 
 #### October 2016
 
