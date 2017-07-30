@@ -78,7 +78,7 @@
 - [CoRM](https://github.com/SIGIRE/CoRM) - Easier than a CRM [Live](http://www.corm.fr)
 - [coursemology2](https://github.com/Coursemology/coursemology2) - Rails 4 re-write of Coursemology  
 - [covoiturage-libre](https://github.com/covoiturage-libre/covoiturage-libre) - a Carpooling Open Source platform in Rails 5
-- [crabgrass-core](https://github.com/riseuplabs/crabgrass-core) - A web application designed for activist groups to be better able to collaborate online 
+- [crabgrass-core](https://github.com/riseuplabs/crabgrass-core) - A web application designed for activist groups to be better able to collaborate online
 - [crowdAI](https://github.com/crowdAI/crowdai) - Fighting for Open Science with Open Data, a machine learning challenges platform. [Live](https://www.crowdai.org/)
 - [CrowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) - Open source crowdfunding platform  [Live](https://www.tilt.com/index.html)
 - [cyberdojo](https://github.com/JonJagger/cyber-dojo) -  Free in-browser coding-dojo [Live](http://cyber-dojo.org)
@@ -102,7 +102,7 @@
 - [hitobito](https://github.com/hitobito/hitobito) - A web application to manage complex group hierarchies with members, events and a lot more - [Live](http://hitobito.com/en)
 - [hours](https://github.com/defactosoftware/hours) - A complete time registration app for teams [Live](https://happyhours.io)
 - [houston](https://github.com/houston/houston-core) - Mission control for your projects and teammates  
-- [hummingbird](https://github.com/hummingbird-me/hummingbird) - A modern anime discovery platform that helps you track the anime you're watching, discover new anime and socialize with other fans  [Live](https://hummingbird.me)
+- [hummingbird](https://github.com/hummingbird-me/hummingbird) - A modern anime discovery platform that helps you track the anime you're watching, discover new anime and socialize with other fans
 - [inaturalist](https://github.com/inaturalist/inaturalist) -  Open source Rails app behind iNaturalist.org [Live](http://www.inaturalist.org)
 - [intercityup.com](https://github.com/intercity/intercity-next) -  Control Panel for hosting Ruby on Rails
 - [kanban](https://github.com/somlor/kanban) - A Trello clone in Rails and Backbone.js  [Live](http://kanban.seanomlor.com)
@@ -127,7 +127,7 @@
 - [people](https://github.com/netguru/people) - Manage people within the projects
 - [planningalerts-app](https://github.com/openaustralia/planningalerts) - Find out and have your say about what's being built and knocked down in your area
 - [popHealth](https://github.com/pophealth/popHealth) -  An Open Source Population Health Reporting Prototype  
-- [publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails  [Live](https://demo.publify.co/)
+- [publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails
 - [quant](https://github.com/jdjkelly/quant) -  Quant is a prototype/experiment of a personal health tracker
 - [racing_on_rails](https://github.com/scottwillson/racing_on_rails) -  Manage a bike racing association: riders, teams, calendars, competitions, and results [Live](http://racingonrails.rocketsurgeryllc.com)
 - [RapidFTR](https://github.com/rapidftr/RapidFTR) -  An Android-based mobile application that lets aid workers collect, sort and share information about children in emergency situations
