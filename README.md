@@ -26,6 +26,7 @@
 	- [Other Rails Tools](#other-rails-tools)
 		- [Platforms](#platforms)
 		- [Generators](#generators)
+		- [DevTools](#devtools)
 	- [Notable Awesome Stuffs](#notable-awesome-stuffs)
 
 <!-- /TOC -->
@@ -206,6 +207,11 @@
 | [Rails Composer](https://github.com/RailsApps/rails-composer)| yes, but Stripe needs to be configured | Example apps reaching a SaaS with Stripe. | yes | yes |
 | [Prelang](http://prelang.com) | Had to modify database credentials manually | Customizable models. But no payments. | yes | no |
 | [Hobo](http://www.hobocentral.net) | Rails version problems, if using a late version | It seems according screencast, helps a lot with MVC boilerplate. | no | no |
+
+#### DevTools
+
+- [rails-dashboard](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
+
 
 ### Notable Awesome Stuffs
 
