@@ -42,6 +42,7 @@
 
 ### External Resources
 
+- [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails)
 - [Ruby on Rails Tutorial Book](https://www.railstutorial.org/book)
 - [Learn Ruby on Rails (thoughtbot)](https://thoughtbot.com/upcase/rails)
 - [Rails for Zombies](http://railsforzombies.org/)
