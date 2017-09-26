@@ -48,6 +48,7 @@
 - [Rails for Zombies](http://railsforzombies.org/)
 - [RailsCasts](http://railscasts.com)
 - [GoRails](https://gorails.com)
+- [Drifting Ruby](https://www.driftingruby.com/)
 
 ### Jobs
 
