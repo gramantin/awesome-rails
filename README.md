@@ -196,6 +196,8 @@
 #### August 2016
 
 - [Build a Blog with Ruby on Rails](https://scotch.io/tutorials/build-a-blog-with-ruby-on-rails-part-1)
+#### September 2017
+- [Airbnb clone on rails ongoing series update #21](http://krissanawat.com/2017/09/14/airbnb-clone-rails-ongoing-series-update-21-submit-reservation-datar)
 
 ### Other Rails Tools
 
