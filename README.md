@@ -1,6 +1,10 @@
 # AwesomeRails
 
-[![Join the chat at https://gitter.im/awesome-rails/Lobby](https://badges.gitter.im/awesome-rails/Lobby.svg)](https://gitter.im/awesome-rails/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Looking for a maintainer
+
+> Due to the army service, I'll be unable to access Internet for about 6-7 months. So, I'm looking for a maintainer for the list. For more detail, [see the issue](https://github.com/ekremkaraca/awesome-rails/issues/45)
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/awesome-rails/Lobby](https://badges.gitter.im/awesome-rails/Lobby.svg)](https://gitter.im/awesome-rails/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
 
 > A curated list of awesome things related to Ruby on Rails (recent changes were inspired by [awesome-vue](https://github.com/vuejs/awesome-vue))
 
