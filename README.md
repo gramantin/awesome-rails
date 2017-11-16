@@ -49,6 +49,7 @@
 - [RailsCasts](http://railscasts.com)
 - [GoRails](https://gorails.com)
 - [Drifting Ruby](https://www.driftingruby.com/)
+- [Ruby on Windows Guides](http://rubyonwindowsguides.github.io)
 
 ### Jobs
 
