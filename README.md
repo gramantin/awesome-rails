@@ -94,7 +94,7 @@
 - [ekylibre](https://github.com/ekylibre/ekylibre) - Simple agricultural ERP [Live](http://ekylibre.org)
 - [encrypt.to](https://github.com/encrypt-to/encrypt.to) - Send encrypted messages by one click  [Live](https://encrypt.to)
 - [eol](https://github.com/EOL/eol) - Encyclopedia of Life  [Live](http://eol.org)
-- [expertiza](https://github.com/expertiza/expertiza) - web application where students can submit and peer-review learning objects (articles, code, web sites, etc).  [Live](https://expertiza.ncsu.edu) 
+- [expertiza](https://github.com/expertiza/expertiza) - web application where students can submit and peer-review learning objects (articles, code, web sites, etc). 
 - [fairnopoly](https://github.com/fairmondo/fairmondo) - A free market place in the hand of the users  [Live](https://www.fairmondo.de)
 - [feedbin](https://github.com/feedbin/feedbin) -  A simple, fast and nice looking RSS reader [Live](https://feedbin.com)
 - [follow-all](https://github.com/codeforamerica/follow-all) - Follow all the members of a Twitter list with a single click
