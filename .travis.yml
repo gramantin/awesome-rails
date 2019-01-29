@@ -1,8 +1,11 @@
 
 language: ruby
 rvm:
-  - 2.2
+  - 2.5.3
+cache: bundler
 before_script:
+  - gem update --system
+  - gem install bundler
   - gem install awesome_bot
 script:
   - awesome_bot README.md --allow-redirect --white-list mastodon
