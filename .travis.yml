@@ -1,8 +1,13 @@
 
 language: ruby
 rvm:
-  - 2.2
+  - 2.6.0
+cache: 
+  directories:
+    - /home/travis/.rvm/
 before_script:
-  - gem install awesome_bot
+  - gem update --system --no-document
+  - gem install bundler --no-document
+  - gem install awesome_bot --no-document
 script:
   - awesome_bot README.md --allow-redirect --white-list mastodon
