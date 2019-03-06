@@ -86,7 +86,7 @@
 - [crabgrass-core](https://github.com/riseuplabs/crabgrass-core) - A web application designed for activist groups to be better able to collaborate online
 - [crowdAI](https://github.com/crowdAI/crowdai) - Fighting for Open Science with Open Data, a machine learning challenges platform. [Live](https://www.crowdai.org/)
 - [CrowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) - Open source crowdfunding platform
-- [cyberdojo](https://github.com/JonJagger/cyber-dojo) -  Free in-browser coding-dojo [Live](http://cyber-dojo.org)
+- [cyberdojo](https://github.com/cyber-dojo/cyber-dojo) -  Free in-browser coding-dojo [Live](http://cyber-dojo.org)
 - [danbooru](https://github.com/r888888888/danbooru) - A taggable image board written in Rails 3 [Live](http://testbooru.donmai.us)
 - [dgi-db](https://github.com/griffithlab/dgi-db) -  Rails frontend to The Genome Institute's drug gene interaction database
 - [diaspora](https://github.com/diaspora/diaspora) - Distributed and contextual social networking [Live](https://diasporafoundation.org)
