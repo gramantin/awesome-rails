@@ -73,6 +73,7 @@
 - [askaway](https://github.com/askaway/askaway) - Ask New Zealand's political parties your questions this election
 - [Beatstream](https://github.com/Darep/Beatstream) -  App for streaming music from any computer running Ruby on Rails to anywhere  
 - [bike_index](https://github.com/bikeindex/bike_index) -  An online bike registry [Live](https://bikeindex.org)
+- [BlackCandy](https://github.com/aidewoode/black_candy) - A self hosted music streaming server
 - [brimir](https://github.com/ivaldi/brimir) -  Email helpdesk built using Ruby on Rails and Zurb Foundation
 - [calagator](https://github.com/calagator/calagator) - An event aggregator based in Portland, OR
 - [calcentral](https://github.com/ets-berkeley-edu/calcentral) - An online portal that provides a unified and personalized one-stop way to access email, calendars, shared documents and class collaboration spaces [Live](https://calcentral.berkeley.edu)
