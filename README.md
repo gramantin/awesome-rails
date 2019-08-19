@@ -121,7 +121,6 @@
 - [otwarchive](https://github.com/otwcode/otwarchive) -  An open-source web application intended for hosting archives of fanworks, including fanfic, fanart, and fan vids  [:earth_africa:](http://archiveofourown.org)
 - [PasswordPusher](https://github.com/pglombardo/PasswordPusher) - A Ruby on Rails application to communicate passwords over the web  [:earth_africa:](https://pwpush.com)
 - [peatio](https://github.com/peatio/peatio) -  An open-source crypto currency exchange  [:earth_africa:](http://www.peatio.com)
-- [people](https://github.com/netguru/people) - Manage people within the projects
 - [planningalerts-app](https://github.com/openaustralia/planningalerts) - Find out and have your say about what's being built and knocked down in your area
 - [popHealth](https://github.com/pophealth/popHealth) -  An Open Source Population Health Reporting Prototype  
 - [publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails
