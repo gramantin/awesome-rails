@@ -1,8 +1,8 @@
 # AwesomeRails
 
-[![Awesome](https://cdn.combinatronics.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/awesome-rails/Lobby](https://badges.gitter.im/awesome-rails/Lobby.svg)](https://gitter.im/awesome-rails/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
+[![Awesome](https://cdn.combinatronics.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
-> A curated list of awesome things related to Ruby on Rails (recent changes were inspired by [awesome-vue](https://github.com/vuejs/awesome-vue))
+> A curated list of awesome things related to Ruby on Rails
 
 ## Table of Contents
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
@@ -15,15 +15,6 @@
 	- [Community](#community)
 	- [Apps Made with Rails](#apps-made-with-rails)
 	- [Tutorials](#tutorials)
-		- [July 2018](#july-2018)
-		- [July 2017](#july-2017)
-		- [June 2017](#june-2017)
-		- [May 2017](#may-2017)
-		- [March 2017](#march-2017)
-		- [February 2017](#february-2017)
-		- [January 2017](#january-2017)
-		- [October 2016](#october-2016)
-		- [August 2016](#august-2016)
 	- [Other Rails Tools](#other-rails-tools)
 		- [Platforms](#platforms)
 		- [Generators](#generators)
@@ -72,7 +63,7 @@
 - [alonetone](https://github.com/sudara/alonetone) - an independent music platform, allowing musicians to host and distribute their music in a non-commercial, easy-to-use environment. [:earth_africa:](https://alonetone.com)
 - [AsakusaSatellite](https://github.com/codefirst/AsakusaSatellite) - A realtime chat application for developers [:earth_africa:](https://www.codefirst.org/AsakusaSatellite)
 - [askaway](https://github.com/askaway/askaway) - Ask New Zealand's political parties your questions this election
-- [Beatstream](https://github.com/Darep/Beatstream) -  App for streaming music from any computer running Ruby on Rails to anywhere  
+- [Beatstream](https://github.com/Darep/Beatstream) -  App for streaming music from any computer running Ruby on Rails to anywhere 
 - [bike_index](https://github.com/bikeindex/bike_index) -  An online bike registry [:earth_africa:](https://bikeindex.org)
 - [brimir](https://github.com/ivaldi/brimir) -  Email helpdesk built using Ruby on Rails and Zurb Foundation
 - [calagator](https://github.com/calagator/calagator) - An event aggregator based in Portland, OR
@@ -160,47 +151,21 @@
 
 ### Tutorials
 
-#### July 2018
-
 - [Protecting your users data from Rails application using cryptography](https://github.com/cossacklabs/acra/wiki/Using-Acra-to-Protect-Your-Rails-App)
-
-#### July 2017
-
 - [Ruby on Rails Code Audits: 8 Steps to Review Your App](http://blog.planetargon.com/entries/ruby-on-rails-code-audits-8-steps-to-review-your-app)
 - [nil?, empty?, blank? in Ruby on Rails - what's the difference actually?](http://blog.arkency.com/2017/07/nil-empty-blank-ruby-rails-difference/)
-
-#### June 2017
-
 - [The 3 Tenets of Service Objects in Ruby on Rails](https://hackernoon.com/the-3-tenets-of-service-objects-c936b891b3c2)
 - [Famous Web Apps Built with Ruby on Rails](https://railsware.com/blog/2017/06/23/famous-web-apps-built-with-ruby-on-rails/)
 - [Connecting to Snowflake with Ruby on Rails](http://eng.localytics.com/connecting-to-snowflake-with-ruby-on-rails/)
 - [Building a JSON API with Rails 5](https://blog.codeship.com/building-a-json-api-with-rails-5/)
-
-#### May 2017
-
 - [Building APIs with Ruby on Rails and GraphQL](https://www.sitepoint.com/building-apis-ruby-rails-graphql/)
 - [Five Practices for Robust Ruby on Rails Applications](https://blog.codeship.com/five-practices-for-robust-ruby-on-rails-applications/)
-
-#### March 2017
-
 - [8 Useful Ruby on Rails Gems We Couldn't Live Without](http://blog.planetargon.com/entries/8-useful-ruby-on-rails-gems-we-couldnt-live-without)
-
-#### February 2017
-
 - [File Upload in Rails with PaperClip](https://scotch.io/tutorials/file-upload-in-rails-with-paperclip)
-
-#### January 2017
-
 - [Integration Testing Ruby on Rails with Minitest and Capybara](https://semaphoreci.com/community/tutorials/integration-testing-ruby-on-rails-with-minitest-and-capybara)
 - [Build a RESTful JSON API With Rails 5](https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one)
 - [Crafting APIs With Rails](https://code.tutsplus.com/articles/crafting-apis-with-rails--cms-27695)
-
-#### October 2016
-
 - [10 Ruby on Rails Best Practices](https://www.sitepoint.com/10-ruby-on-rails-best-practices-3/)
-
-#### August 2016
-
 - [Build a Blog with Ruby on Rails](https://scotch.io/tutorials/build-a-blog-with-ruby-on-rails-part-1)
 
 ### Other Rails Tools
