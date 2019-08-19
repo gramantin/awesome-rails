@@ -63,8 +63,9 @@
 - [alonetone](https://github.com/sudara/alonetone) - an independent music platform, allowing musicians to host and distribute their music in a non-commercial, easy-to-use environment. [:earth_africa:](https://alonetone.com)
 - [AsakusaSatellite](https://github.com/codefirst/AsakusaSatellite) - A realtime chat application for developers [:earth_africa:](https://www.codefirst.org/AsakusaSatellite)
 - [askaway](https://github.com/askaway/askaway) - Ask New Zealand's political parties your questions this election
-- [Beatstream](https://github.com/Darep/Beatstream) -  App for streaming music from any computer running Ruby on Rails to anywhere 
-- [bike_index](https://github.com/bikeindex/bike_index) -  An online bike registry [:earth_africa:](https://bikeindex.org)
+- [Beatstream](https://github.com/Darep/Beatstream) -  App for streaming music from any computer running Ruby on Rails to anywhere  
+- [bike_index](https://github.com/bikeindex/bike_index) -  An online bike registry [Live](https://bikeindex.org)
+- [BlackCandy](https://github.com/aidewoode/black_candy) - A self hosted music streaming server
 - [brimir](https://github.com/ivaldi/brimir) -  Email helpdesk built using Ruby on Rails and Zurb Foundation
 - [calagator](https://github.com/calagator/calagator) - An event aggregator based in Portland, OR
 - [calcentral](https://github.com/ets-berkeley-edu/calcentral) - An online portal that provides a unified and personalized one-stop way to access email, calendars, shared documents and class collaboration spaces [:earth_africa:](https://calcentral.berkeley.edu)
