@@ -57,6 +57,7 @@
 
 ### Apps Made with Rails
 
+- [ActiveWorkflow](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents
 - [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) - A Ruby on Rails application that allows citizens to "adopt" civic infrastructure, such as fire hydrants
 - [AirCasting](https://github.com/HabitatMap/AirCasting) - A platform for recording, mapping, and sharing health and environmental data using your smartphone [:earth_africa:](http://aircasting.org)
 - [alaveteli](https://github.com/mysociety/alaveteli) - Provide a Freedom of Information request system for your jurisdiction  [:earth_africa:](http://alaveteli.org)
