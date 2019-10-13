@@ -13,7 +13,7 @@
 	- [External Resources](#external-resources)
 	- [Jobs](#jobs)
 	- [Community](#community)
-	- [Apps Made with Rails](#apps-made-with-rails)
+	- [Open Source Rails Apps](#open-source-rails-apps)
 	- [Tutorials](#tutorials)
 	- [Other Rails Tools](#other-rails-tools)
 		- [Platforms](#platforms)
@@ -63,7 +63,7 @@
 
 [^top](#table-of-contents)
 
-### Apps Made with Rails
+### Open Source Rails Apps
 
 - [ActiveWorkflow](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents
 - [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) - A Ruby on Rails application that allows citizens to "adopt" civic infrastructure, such as fire hydrants
