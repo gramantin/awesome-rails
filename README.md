@@ -9,10 +9,10 @@
 
 - [Table of Contents](#table-of-contents)
 - [Resources](#resources)
-  - [Official Resources](#official-resources)
-  - [External Resources](#external-resources)
-  - [Jobs](#jobs)
-  - [Community](#community)
+	- [Official Resources](#official-resources)
+	- [External Resources](#external-resources)
+	- [Jobs](#jobs)
+	- [Community](#community)
 	- [Apps Made with Rails](#apps-made-with-rails)
 	- [Tutorials](#tutorials)
 	- [Other Rails Tools](#other-rails-tools)
@@ -32,6 +32,8 @@
 - [Rails Source Code](https://github.com/rails/rails)
 - [Rails Official Blog](http://weblog.rubyonrails.org)
 
+[^top](#table-of-contents)
+
 ### External Resources
 
 - [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails)
@@ -45,15 +47,21 @@
 - [Programming Community Curated Resources For Learning Ruby on Rails](https://hackr.io/tutorials/learn-ruby-on-rails)
 - [Choosing ruby on rails for your next web development project (business guide)](https://ideamotive.co/ruby-on-rails-development-guide/)
 
+[^top](#table-of-contents)
+
 ### Jobs
 
 - [GitHub Jobs](https://jobs.github.com/positions?description=Rails)
 - [StackOverflow](http://careers.stackoverflow.com/jobs/tag/ruby-on-rails)
 
+[^top](#table-of-contents)
+
 ### Community
 
 - [rails on Twitter](https://twitter.com/rails)
 - [rails on Reddit](https://www.reddit.com/r/rails/)
+
+[^top](#table-of-contents)
 
 ### Apps Made with Rails
 
@@ -150,6 +158,8 @@
 - [WebsiteOne](https://github.com/AgileVentures/WebsiteOne) - A platform for online collaboration and crowdsourced project development [:earth_africa:](https://www.agileventures.org/)
 - [whitehall](https://github.com/alphagov/whitehall) - Inside Government: how the UK Government works, what it's doing, and how you can get involved  
 
+[^top](#table-of-contents)
+
 ### Tutorials
 
 - [Protecting your users data from Rails application using cryptography](https://github.com/cossacklabs/acra/wiki/Using-Acra-to-Protect-Your-Rails-App)
@@ -169,11 +179,15 @@
 - [10 Ruby on Rails Best Practices](https://www.sitepoint.com/10-ruby-on-rails-best-practices-3/)
 - [Build a Blog with Ruby on Rails](https://scotch.io/tutorials/build-a-blog-with-ruby-on-rails-part-1)
 
+[^top](#table-of-contents)
+
 ### Other Rails Tools
 
 #### Platforms
 
 - [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere [:earth_africa:](https://nanobox.io).
+  
+[^top](#table-of-contents)
 
 #### Generators
 
@@ -182,13 +196,18 @@
 | [Rails Composer](https://github.com/RailsApps/rails-composer)| yes, but Stripe needs to be configured | Example apps reaching a SaaS with Stripe. | yes | yes |
 | [Hobo](http://www.hobocentral.net) | Rails version problems, if using a late version | It seems according screencast, helps a lot with MVC boilerplate. | no | no |
 
+[^top](#table-of-contents)
+
 #### DevTools
 
 - [rails-dashboard](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
 
+[^top](#table-of-contents)
 
 ### Notable Awesome Stuffs
 
 - [jnv/lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub
 - [awesome-ruby](https://github.com/sdogruyol/awesome-ruby)
 - [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem)
+
+[^top](#table-of-contents)
