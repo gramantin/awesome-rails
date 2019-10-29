@@ -14,7 +14,7 @@
 	- [Jobs](#jobs)
 	- [Community](#community)
 	- [Open Source Rails Apps](#open-source-rails-apps)
-	- [Tutorials](#tutorials)
+	- [Articles](#articles)
 	- [Other Rails Tools](#other-rails-tools)
 		- [Platforms](#platforms)
 		- [Generators](#generators)
@@ -164,7 +164,7 @@
 
 [^top](#table-of-contents)
 
-### Tutorials
+### Articles
 
 - [Protecting your users data from Rails application using cryptography](https://github.com/cossacklabs/acra/wiki/Using-Acra-to-Protect-Your-Rails-App)
 - [Ruby on Rails Code Audits: 8 Steps to Review Your App](http://blog.planetargon.com/entries/ruby-on-rails-code-audits-8-steps-to-review-your-app)
@@ -182,6 +182,17 @@
 - [Crafting APIs With Rails](https://code.tutsplus.com/articles/crafting-apis-with-rails--cms-27695)
 - [10 Ruby on Rails Best Practices](https://www.sitepoint.com/10-ruby-on-rails-best-practices-3/)
 - [Build a Blog with Ruby on Rails](https://scotch.io/tutorials/build-a-blog-with-ruby-on-rails-part-1)
+- [Working with the SQL ‘time’ type in Ruby on Rails](https://engineering.ezcater.com/youre-not-in-the-zone)
+- [Upgrading Rails apps with dual boot](https://medium.com/oreilly-engineering/upgrading-rails-apps-with-dual-boot-e5c271e68a6e)
+- [What Are Rails Parameters & How to Use Them Correctly](https://www.rubyguides.com/2019/06/rails-params/)
+- [How to Remove Single Table Inheritance from Your Rails Monolith](https://medium.com/flatiron-labs/how-to-remove-single-table-inheritance-from-your-rails-monolith-c6009239defb)
+- [Build a Rails application with VueJS using JSX](https://nebulab.it/blog/build-rails-application-vuejs-using-jsx/)
+- [How To Add Stimulus to a Ruby on Rails Application](https://www.digitalocean.com/community/tutorials/how-to-add-stimulus-to-a-ruby-on-rails-application)
+- [How to Write Fast Code in Ruby on Rails](https://engineering.shopify.com/blogs/engineering/write-fast-code-ruby-rails)
+- [Efficient GraphQL queries in Ruby on Rails & Postgres](https://pganalyze.com/blog/efficient-graphql-queries-in-ruby-on-rails-and-postgres)
+- [Fetching millions of rows from PostgreSQL with Rails](https://blog.magrathealabs.com/fetching-millions-of-rows-from-postgresql-with-rails-70c0cec1b6f5)
+- [Implementing Multi-Table Full Text Search with Postgres in Rails](https://thoughtbot.com/blog/implementing-multi-table-full-text-search-with-postgres)
+- [Ruby on Rails ActiveRecord PostgreSQL Data Integrity and Validations](https://pawelurbanek.com/rails-postgresql-data-integrity)
 
 [^top](#table-of-contents)
 
