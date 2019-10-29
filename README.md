@@ -91,7 +91,7 @@
 - [crowdAI](https://github.com/crowdAI/crowdai) - Fighting for Open Science with Open Data, a machine learning challenges platform. [:earth_africa:](https://www.crowdai.org/)
 - [crowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) - Open source crowdfunding platform
 - [cyberdojo](https://github.com/cyber-dojo/cyber-dojo) -  Free in-browser coding-dojo [:earth_africa:](http://cyber-dojo.org)
-- [danbooru](https://github.com/r888888888/danbooru) - A taggable image board written in Rails 3 [:earth_africa:](http://testbooru.donmai.us)
+- [danbooru](https://github.com/r888888888/danbooru) - A taggable image board written in Rails 3
 - [dgi-db](https://github.com/griffithlab/dgi-db) -  Rails frontend to The Genome Institute's drug gene interaction database
 - [diaper](https://github.com/rubyforgood/diaper) - An inventory system for diaper banks - [:earth_africa:](https://diaper.app/)
 - [diaspora](https://github.com/diaspora/diaspora) - Distributed and contextual social networking [:earth_africa:](https://diasporafoundation.org)
@@ -209,7 +209,6 @@
 | Generator | Ready to run | Complex Apps | Sets git | Heroku |
 | --------- | ------------ | ------------ | -------- | ------ |
 | [Rails Composer](https://github.com/RailsApps/rails-composer)| yes, but Stripe needs to be configured | Example apps reaching a SaaS with Stripe. | yes | yes |
-| [Hobo](http://www.hobocentral.net) | Rails version problems, if using a late version | It seems according screencast, helps a lot with MVC boilerplate. | no | no |
 
 [^top](#table-of-contents)
 
