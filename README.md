@@ -5,23 +5,24 @@
 > A curated list of awesome things related to Ruby on Rails
 
 ## Table of Contents
-<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Table of Contents](#table-of-contents)
-- [Resources](#resources)
-	- [Official Resources](#official-resources)
-	- [External Resources](#external-resources)
-	- [Jobs](#jobs)
-	- [Community](#community)
-	- [Open Source Rails Apps](#open-source-rails-apps)
-	- [Articles](#articles)
-	- [Other Rails Tools](#other-rails-tools)
-		- [Platforms](#platforms)
-		- [Generators](#generators)
-		- [DevTools](#devtools)
-	- [Notable Awesome Stuffs](#notable-awesome-stuffs)
+<!-- vim-markdown-toc GFM -->
 
-<!-- /TOC -->
+* [Resources](#resources)
+  * [Official Resources](#official-resources)
+  * [External Resources](#external-resources)
+  * [Jobs](#jobs)
+  * [Community](#community)
+  * [Open Source Rails Apps](#open-source-rails-apps)
+  * [Articles](#articles)
+  * [Other Rails Tools](#other-rails-tools)
+    * [Platforms](#platforms)
+    * [Generators](#generators)
+    * [DevTools](#devtools)
+  * [Notable Awesome Stuffs](#notable-awesome-stuffs)
+
+<!-- vim-markdown-toc -->
+
 ## Resources
 
 ### Official Resources
@@ -73,19 +74,19 @@
 - [asakusaSatellite](https://github.com/codefirst/AsakusaSatellite) - A realtime chat application for developers [:earth_africa:](https://www.codefirst.org/AsakusaSatellite)
 - [askaway](https://github.com/askaway/askaway) - Ask New Zealand's political parties your questions this election
 - [autolab](https://github.com/autolab/Autolab) - A course management service - [:earth_africa:](http://www.autolabproject.com)
-- [beatstream](https://github.com/Darep/Beatstream) -  App for streaming music from any computer running Ruby on Rails to anywhere  
+- [beatstream](https://github.com/Darep/Beatstream) -  App for streaming music from any computer running Ruby on Rails to anywhere
 - [bike_index](https://github.com/bikeindex/bike_index) -  An online bike registry [:earth_africa:](https://bikeindex.org)
 - [blackCandy](https://github.com/aidewoode/black_candy) - A self hosted music streaming server
 - [brimir](https://github.com/ivaldi/brimir) -  Email helpdesk built using Ruby on Rails and Zurb Foundation
 - [calagator](https://github.com/calagator/calagator) - An event aggregator based in Portland, OR
 - [calcentral](https://github.com/ets-berkeley-edu/calcentral) - An online portal that provides a unified and personalized one-stop way to access email, calendars, shared documents and class collaboration spaces [:earth_africa:](https://calcentral.berkeley.edu)
 - [campo](https://github.com/chloerei/campo) - A lightweight forum application, base on Ruby on Rails  [:earth_africa:](http://codecampo.com)
-- [canvas-lms](https://github.com/instructure/canvas-lms) -  A new, open-source learning management system by Instructure Inc  
+- [canvas-lms](https://github.com/instructure/canvas-lms) -  A new, open-source learning management system by Instructure Inc
 - [catarse](https://github.com/catarse/catarse) - The first open source crowdfunding platform for creative projects in the world  [:earth_africa:](https://catarse.me/)
 - [coRM](https://github.com/SIGIRE/CoRM) - Easier than a CRM [:earth_africa:](http://www.corm.fr)
 - [coderwall](https://github.com/assemblymade/coderwall) - Professional network for software engineers  [:earth_africa:](https://coderwall.com)
 - [codetriage.com](https://github.com/codetriage/codetriage) -  Help out your favorite open source projects and become a better developer while doing it.  [:earth_africa:](https://www.codetriage.com/)
-- [coursemology2](https://github.com/Coursemology/coursemology2) - Rails 4 re-write of Coursemology  
+- [coursemology2](https://github.com/Coursemology/coursemology2) - Rails 4 re-write of Coursemology
 - [covoiturage-libre](https://github.com/covoiturage-libre/covoiturage-libre) - a Carpooling Open Source platform in Rails 5
 - [crabgrass-core](https://github.com/riseuplabs/crabgrass-core) - A web application designed for activist groups to be better able to collaborate online
 - [crowdAI](https://github.com/crowdAI/crowdai) - Fighting for Open Science with Open Data, a machine learning challenges platform. [:earth_africa:](https://www.crowdai.org/)
@@ -111,22 +112,22 @@
 - [helpy](https://github.com/scott/helpy) - Rails 4 Helpdesk. Includes Multilingual Knowledgebase, Email Tickets, Community [:earth_africa:](https://helpy.io/)
 - [hitobito](https://github.com/hitobito/hitobito) - A web application to manage complex group hierarchies with members, events and a lot more - [:earth_africa:](http://hitobito.com/en)
 - [hours](https://github.com/defactosoftware/hours) - A complete time registration app for teams [:earth_africa:](https://happyhours.io)
-- [houston](https://github.com/houston/houston-core) - Mission control for your projects and teammates  
+- [houston](https://github.com/houston/houston-core) - Mission control for your projects and teammates
 - [hummingbird](https://github.com/hummingbird-me/hummingbird) - A modern anime discovery platform that helps you track the anime you're watching, discover new anime and socialize with other fans
 - [inaturalist](https://github.com/inaturalist/inaturalist) -  Open source Rails app behind iNaturalist.org [:earth_africa:](http://www.inaturalist.org)
 - [intercityup.com](https://github.com/intercity/intercity-next) -  Control Panel for hosting Ruby on Rails
 - [kanban](https://github.com/somlor/kanban) - A Trello clone in Rails and Backbone.js  [:earth_africa:](http://kanban.seanomlor.com)
 - [lavish](https://github.com/mquan/lavish) - a rails app that generates Bootstrap color scheme from an image 
-- [leihs](https://github.com/leihs/leihs) - An easy inventory handling system  
+- [leihs](https://github.com/leihs/leihs) - An easy inventory handling system
 - [lifeToRemind](https://github.com/eduqg/LifeToRemind) - A website for career-oriented personal strategic planning - [:earth_africa:](http://lifetoremindhub.herokuapp.com)
 - [listenup](https://github.com/ooofinooo/listenup) -  An application that allows users to search for songs and add them to friends playlist  [:earth_africa:](http://listenup-songshare.herokuapp.com)
-- [lobsters](https://github.com/jcs/lobsters) -  Rails code running the lobste.rs link aggregation site  
+- [lobsters](https://github.com/jcs/lobsters) -  Rails code running the lobste.rs link aggregation site
 - [loomio](https://github.com/loomio/loomio) -  A collaborative decision-making tool that makes it easy for anyone [:earth_africa:](https://www.loomio.org)
 - [mastodon](https://github.com/tootsuite/mastodon) - GNU Social-compatible microblogging server [:earth_africa:](https://mastodon.social)
 - [mumuki-laboratory](https://github.com/mumuki/mumuki-laboratory) - Where students practice and receive automated and human feedback [:earth_africa:](http://mumuki.io)
 - [obtvse2](https://github.com/natew/obtvse2) - A clean and simple markdown blogging platform on Rails
 - [onebody](https://github.com/churchio/onebody) - A private member portal for churches built with Ruby on Rails [:earth_africa:](https://church.io)
-- [openFarm](https://github.com/openfarmcc/OpenFarm) -  A free and open database for farming and gardening knowledge  
+- [openFarm](https://github.com/openfarmcc/OpenFarm) -  A free and open database for farming and gardening knowledge
 - [opencongress](https://github.com/sunlightlabs/opencongress) - An open website for opening Congress
 - [openproject](https://github.com/opf/openproject) - A web based project management system built on Ruby on Rails  [:earth_africa:](https://www.openproject.org)
 - [openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website) - Mirror of the Rails application powering  [:earth_africa:](http://www.openstreetmap.org)
@@ -135,7 +136,7 @@
 - [passwordPusher](https://github.com/pglombardo/PasswordPusher) - A Ruby on Rails application to communicate passwords over the web  [:earth_africa:](https://pwpush.com)
 - [peatio](https://github.com/peatio/peatio) -  An open-source crypto currency exchange  [:earth_africa:](http://www.peatio.com)
 - [planningalerts-app](https://github.com/openaustralia/planningalerts) - Find out and have your say about what's being built and knocked down in your area
-- [popHealth](https://github.com/pophealth/popHealth) -  An Open Source Population Health Reporting Prototype  
+- [popHealth](https://github.com/pophealth/popHealth) -  An Open Source Population Health Reporting Prototype
 - [publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails
 - [quant](https://github.com/jdjkelly/quant) -  Quant is a prototype/experiment of a personal health tracker
 - [racing_on_rails](https://github.com/scottwillson/racing_on_rails) -  Manage a bike racing association: riders, teams, calendars, competitions, and results [:earth_africa:](http://racingonrails.rocketsurgeryllc.com)
@@ -147,7 +148,7 @@
 - [roRdit](https://github.com/mertbulan/RoRdit) - Link aggregation web app similar with Reddit in Ruby on Rails [:earth_africa:](https://rordit.herokuapp.com)
 - [rubygems.org](https://github.com/rubygems/rubygems.org) -  The Ruby community's gem hosting service  [:earth_africa:](https://rubygems.org)
 - [sanataro](https://github.com/kaznum/sanataro) - Simple Web Household Account Book. built with Ruby on Rails [:earth_africa:](http://sanataro.herokuapp.com)
-- [scholarsphere](https://github.com/psu-stewardship/scholarsphere) - A web application for ingest, curation, search, and display of digital assets  
+- [scholarsphere](https://github.com/psu-stewardship/scholarsphere) - A web application for ingest, curation, search, and display of digital assets
 - [selfstarter](https://github.com/lockitron/selfstarter) - Roll your own crowdfunding
 - [sharetribe](https://github.com/sharetribe/sharetribe) - A platform for setting up your own peer-to-peer marketplace online [:earth_africa:](https://www.sharetribe.com)
 - [socify](https://github.com/scaffeinate/socify) - an open source social networking platform written in Ruby on Rails
@@ -157,7 +158,7 @@
 - [teambox](https://github.com/teambox/teambox) - The award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter  [:earth_africa:](https://redbooth.com)
 - [theodinproject](https://github.com/TheOdinProject/theodinproject) -  A project that aims to teach web development for free  [:earth_africa:](https://www.theodinproject.com/)
 - [tracks](https://github.com/TracksApp/tracks) - A "Getting Things Done" application  [:earth_africa:](http://www.getontracks.org)
-- [trado](https://github.com/Jellyfishboy/trado) - lightweight, easy to use e-commerce platform designed for sole traders and SME businesses  
+- [trado](https://github.com/Jellyfishboy/trado) - lightweight, easy to use e-commerce platform designed for sole traders and SME businesses
 - [videoGameList](https://github.com/connorshea/VideoGameList) - A video game library tracking web app - [:earth_africa:](https://vglist.co/)
 - [websiteOne](https://github.com/AgileVentures/WebsiteOne) - A platform for online collaboration and crowdsourced project development [:earth_africa:](https://www.agileventures.org/)
 - [whitehall](https://github.com/alphagov/whitehall) - Inside Government: how the UK Government works, what it's doing, and how you can get involved
