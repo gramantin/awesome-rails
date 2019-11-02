@@ -83,9 +83,12 @@
 - [campo](https://github.com/chloerei/campo) - A lightweight forum application, base on Ruby on Rails  [:earth_africa:](http://codecampo.com)
 - [canvas-lms](https://github.com/instructure/canvas-lms) -  A new, open-source learning management system by Instructure Inc
 - [catarse](https://github.com/catarse/catarse) - The first open source crowdfunding platform for creative projects in the world  [:earth_africa:](https://catarse.me/)
+- [ciao](https://github.com/brotandgames/ciao) - URL status checking app - **using Rails 6**
 - [coRM](https://github.com/SIGIRE/CoRM) - Easier than a CRM [:earth_africa:](http://www.corm.fr)
 - [coderwall](https://github.com/assemblymade/coderwall) - Professional network for software engineers  [:earth_africa:](https://coderwall.com)
 - [codetriage.com](https://github.com/codetriage/codetriage) -  Help out your favorite open source projects and become a better developer while doing it.  [:earth_africa:](https://www.codetriage.com/)
+- [commudle](https://github.com/gdgnewdelhi/commudle) - Community management app - **using Rails 5.2**
+- [contribulator](https://github.com/24pullrequests/contribulator) - Open source project finder app - **using Rails 5.1**
 - [coursemology2](https://github.com/Coursemology/coursemology2) - Rails 4 re-write of Coursemology
 - [covoiturage-libre](https://github.com/covoiturage-libre/covoiturage-libre) - a Carpooling Open Source platform in Rails 5
 - [crabgrass-core](https://github.com/riseuplabs/crabgrass-core) - A web application designed for activist groups to be better able to collaborate online
@@ -93,6 +96,8 @@
 - [crowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) - Open source crowdfunding platform
 - [cyberdojo](https://github.com/cyber-dojo/cyber-dojo) -  Free in-browser coding-dojo [:earth_africa:](http://cyber-dojo.org)
 - [danbooru](https://github.com/r888888888/danbooru) - A taggable image board written in Rails 3
+- [dcaf_case_management](https://github.com/DCAFEngineering/dcaf_case_management) - Case management app - **using Rails 5.2**
+- [dev.to](https://github.com/thepracticaldev/dev.to) - Social platform app specialized for web development - **using Rails 5.2** - [:earth_africa:](https://dev.to)
 - [dgi-db](https://github.com/griffithlab/dgi-db) -  Rails frontend to The Genome Institute's drug gene interaction database
 - [diaper](https://github.com/rubyforgood/diaper) - An inventory system for diaper banks - [:earth_africa:](https://diaper.app/)
 - [diaspora](https://github.com/diaspora/diaspora) - Distributed and contextual social networking [:earth_africa:](https://diasporafoundation.org)
@@ -103,6 +108,7 @@
 - [expertiza](https://github.com/expertiza/expertiza) - web application where students can submit and peer-review learning objects (articles, code, web sites, etc). 
 - [fairnopoly](https://github.com/fairmondo/fairmondo) - A free market place in the hand of the users  [:earth_africa:](https://www.fairmondo.de)
 - [feedbin](https://github.com/feedbin/feedbin) -  A simple, fast and nice looking RSS reader [:earth_africa:](https://feedbin.com)
+- [feedi](https://github.com/davidesantangelo/feedi) - RSS feed converter (to API) app - **using Rails 5.2** - [:earth_africa:](https://search.feedi.me)
 - [follow-all](https://github.com/codeforamerica/follow-all) - Follow all the members of a Twitter list with a single click
 - [fromthepage](https://github.com/benwbrum/fromthepage) - A wiki-like application for crowdsourcing transcription of handwritten documents  [:earth_africa:](https://www.fromthepage.com/)
 - [gitlabhq](https://github.com/gitlabhq/gitlabhq) -  Open source software to collaborate on code  [:earth_africa:](https://gitlab.com/gitlab-org/gitlab-ce) -
@@ -159,7 +165,7 @@
 - [theodinproject](https://github.com/TheOdinProject/theodinproject) -  A project that aims to teach web development for free  [:earth_africa:](https://www.theodinproject.com/)
 - [tracks](https://github.com/TracksApp/tracks) - A "Getting Things Done" application  [:earth_africa:](http://www.getontracks.org)
 - [trado](https://github.com/Jellyfishboy/trado) - lightweight, easy to use e-commerce platform designed for sole traders and SME businesses
-- [videoGameList](https://github.com/connorshea/VideoGameList) - A video game library tracking web app - [:earth_africa:](https://vglist.co/)
+- [videoGameList](https://github.com/connorshea/VideoGameList) - A video game library tracking web app - **using Rails 6.0** - [:earth_africa:](https://vglist.co/)
 - [websiteOne](https://github.com/AgileVentures/WebsiteOne) - A platform for online collaboration and crowdsourced project development [:earth_africa:](https://www.agileventures.org/)
 - [whitehall](https://github.com/alphagov/whitehall) - Inside Government: how the UK Government works, what it's doing, and how you can get involved
 
