@@ -45,8 +45,6 @@
 - [GoRails](https://gorails.com)
 - [Drifting Ruby](https://www.driftingruby.com/)
 - [Ruby on Windows Guides](http://rubyonwindowsguides.github.io)
-- [Programming Community Curated Resources For Learning Ruby on Rails](https://hackr.io/tutorials/learn-ruby-on-rails)
-- [Choosing ruby on rails for your next web development project (business guide)](https://ideamotive.co/ruby-on-rails-development-guide/)
 
 [^top](#table-of-contents)
 
@@ -72,24 +70,24 @@
 - [alaveteli](https://github.com/mysociety/alaveteli) - Provide a Freedom of Information request system for your jurisdiction  [:earth_africa:](http://alaveteli.org)
 - [alonetone](https://github.com/sudara/alonetone) - an independent music platform, allowing musicians to host and distribute their music in a non-commercial, easy-to-use environment. [:earth_africa:](https://alonetone.com)
 - [asakusaSatellite](https://github.com/codefirst/AsakusaSatellite) - A realtime chat application for developers [:earth_africa:](https://www.codefirst.org/AsakusaSatellite)
-- [askaway](https://github.com/askaway/askaway) - Ask New Zealand's political parties your questions this election
+- [askaway](https://github.com/askaway/askaway) - Question & answer app specialized in politics - **using Rails 4.1**
 - [autolab](https://github.com/autolab/Autolab) - A course management service - [:earth_africa:](http://www.autolabproject.com)
 - [beatstream](https://github.com/Darep/Beatstream) -  App for streaming music from any computer running Ruby on Rails to anywhere
 - [bike_index](https://github.com/bikeindex/bike_index) -  An online bike registry [:earth_africa:](https://bikeindex.org)
-- [blackCandy](https://github.com/aidewoode/black_candy) - A self hosted music streaming server
+- [blackCandy](https://github.com/aidewoode/black_candy) - A self hosted music streaming server - **using Rails 6.0**
 - [brimir](https://github.com/ivaldi/brimir) -  Email helpdesk built using Ruby on Rails and Zurb Foundation
 - [calagator](https://github.com/calagator/calagator) - An event aggregator based in Portland, OR
 - [calcentral](https://github.com/ets-berkeley-edu/calcentral) - An online portal that provides a unified and personalized one-stop way to access email, calendars, shared documents and class collaboration spaces [:earth_africa:](https://calcentral.berkeley.edu)
 - [campo](https://github.com/chloerei/campo) - A lightweight forum application, base on Ruby on Rails  [:earth_africa:](http://codecampo.com)
 - [canvas-lms](https://github.com/instructure/canvas-lms) -  A new, open-source learning management system by Instructure Inc
 - [catarse](https://github.com/catarse/catarse) - The first open source crowdfunding platform for creative projects in the world  [:earth_africa:](https://catarse.me/)
-- [ciao](https://github.com/brotandgames/ciao) - URL status checking app - **using Rails 6**
-- [coRM](https://github.com/SIGIRE/CoRM) - Easier than a CRM [:earth_africa:](http://www.corm.fr)
+- [ciao](https://github.com/brotandgames/ciao) - URL status checking app - **using Rails 6.0**
+- [coRM](https://github.com/SIGIRE/CoRM) - Customer relationship management app - **using Rails 3.2** - [:earth_africa:](http://www.corm.fr)
 - [coderwall](https://github.com/assemblymade/coderwall) - Professional network for software engineers  [:earth_africa:](https://coderwall.com)
 - [codetriage.com](https://github.com/codetriage/codetriage) -  Help out your favorite open source projects and become a better developer while doing it.  [:earth_africa:](https://www.codetriage.com/)
 - [commudle](https://github.com/gdgnewdelhi/commudle) - Community management app - **using Rails 5.2**
 - [contribulator](https://github.com/24pullrequests/contribulator) - Open source project finder app - **using Rails 5.1**
-- [coursemology2](https://github.com/Coursemology/coursemology2) - Rails 4 re-write of Coursemology
+- [coursemology2](https://github.com/Coursemology/coursemology2) - Learning platform app - **using Rails 5.2**
 - [covoiturage-libre](https://github.com/covoiturage-libre/covoiturage-libre) - a Carpooling Open Source platform in Rails 5
 - [crabgrass-core](https://github.com/riseuplabs/crabgrass-core) - A web application designed for activist groups to be better able to collaborate online
 - [crowdAI](https://github.com/crowdAI/crowdai) - Fighting for Open Science with Open Data, a machine learning challenges platform. [:earth_africa:](https://www.crowdai.org/)
@@ -103,6 +101,7 @@
 - [diaspora](https://github.com/diaspora/diaspora) - Distributed and contextual social networking [:earth_africa:](https://diasporafoundation.org)
 - [discourse](https://github.com/discourse/discourse) -A platform for community discussion  [:earth_africa:](https://try.discourse.org/)
 - [ekylibre](https://github.com/ekylibre/ekylibre) - Simple agricultural ERP
+- [postal](https://github.com/atech/postal) - Mail delivery platform app - **using Rails 5.2**
 - [encrypt.to](https://github.com/encrypt-to/encrypt.to) - Send encrypted messages by one click
 - [eol](https://github.com/EOL/eol) - Encyclopedia of Life  [:earth_africa:](http://eol.org)
 - [expertiza](https://github.com/expertiza/expertiza) - web application where students can submit and peer-review learning objects (articles, code, web sites, etc). 
@@ -140,7 +139,7 @@
 - [ossfriday](https://github.com/ossfriday/ossfriday) - a movement to encourage companies, people and maintainers to contribute to open source every Friday
 - [otwarchive](https://github.com/otwcode/otwarchive) -  An open-source web application intended for hosting archives of fanworks, including fanfic, fanart, and fan vids  [:earth_africa:](http://archiveofourown.org)
 - [passwordPusher](https://github.com/pglombardo/PasswordPusher) - A Ruby on Rails application to communicate passwords over the web  [:earth_africa:](https://pwpush.com)
-- [peatio](https://github.com/peatio/peatio) -  An open-source crypto currency exchange  [:earth_africa:](http://www.peatio.com)
+- [peatio](https://github.com/peatio/peatio) - An open-source crypto currency exchange - **using Rails 4.0** - [:earth_africa:](http://www.peatio.com)
 - [planningalerts-app](https://github.com/openaustralia/planningalerts) - Find out and have your say about what's being built and knocked down in your area
 - [popHealth](https://github.com/pophealth/popHealth) -  An Open Source Population Health Reporting Prototype
 - [publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails
@@ -149,7 +148,7 @@
 - [rapidFTR](https://github.com/rapidftr/RapidFTR) -  An Android-based mobile application that lets aid workers collect, sort and share information about children in emergency situations
 - [redmine](https://github.com/edavis10/redmine) - A flexible project management web application written using Ruby on Rails  [:earth_africa:](http://demo.redmine.org)
 - [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) - A fully functional, deployable marketplace implementation using Balanced API for Rails
-- [reservations](https://github.com/YaleSTC/reservations) - Manages reservations for equipment (allows student reservations) [:earth_africa:](http://yalestc.github.io/reservations)
+- [reservations](https://github.com/YaleSTC/reservations) - Inventory management app - **using Rails 6.0** - [:earth_africa:](http://yalestc.github.io/reservations)
 - [rletters](https://github.com/rletters/rletters) - Web application designed to perform digital humanities research tasks on a database of journal articles [:earth_africa:](http://www.rletters.net)
 - [roRdit](https://github.com/mertbulan/RoRdit) - Link aggregation web app similar with Reddit in Ruby on Rails [:earth_africa:](https://rordit.herokuapp.com)
 - [rubygems.org](https://github.com/rubygems/rubygems.org) -  The Ruby community's gem hosting service  [:earth_africa:](https://rubygems.org)
@@ -200,6 +199,14 @@
 - [Fetching millions of rows from PostgreSQL with Rails](https://blog.magrathealabs.com/fetching-millions-of-rows-from-postgresql-with-rails-70c0cec1b6f5)
 - [Implementing Multi-Table Full Text Search with Postgres in Rails](https://thoughtbot.com/blog/implementing-multi-table-full-text-search-with-postgres)
 - [Ruby on Rails ActiveRecord PostgreSQL Data Integrity and Validations](https://pawelurbanek.com/rails-postgresql-data-integrity)
+- [Programming Community Curated Resources For Learning Ruby on Rails](https://hackr.io/tutorials/learn-ruby-on-rails)
+- [Choosing ruby on rails for your next web development project (business guide)](https://ideamotive.co/ruby-on-rails-development-guide/)
+- [Dockerizing Ruby and Rails development](https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development)
+- [Dockerizing a Rails application](https://iridakos.com/tutorials/2019/04/07/dockerizing-a-rails-application.html)
+- [How to painlessly set up your Ruby on Rails dev environment with Docker](https://www.freecodecamp.org/news/painless-rails-development-environment-setup-with-docker/)
+- [How I used Docker with Rails](https://medium.com/@admatbandara/how-i-used-docker-with-rails-45601c43ed8f)
+- [More than "Hello World" in Docker: Build Rails + Sidekiq web apps in Docker](https://dev.to/jamby1100/more-than-hello-world-in-docker-run-rails-sidekiq-web-apps-in-docker-1b37)
+- [Rails 6 Features: What's New and Why It Matters](https://www.toptal.com/ruby-on-rails/rails-6-features)
 
 [^top](#table-of-contents)
 
