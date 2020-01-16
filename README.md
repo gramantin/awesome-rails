@@ -34,7 +34,7 @@
 - [Rails Source Code](https://github.com/rails/rails)
 - [Rails Official Blog](http://weblog.rubyonrails.org)
 
-[^top](#table-of-contents)
+[Back to top](#table-of-contents)
 
 ### External Resources
 
@@ -47,7 +47,7 @@
 - [Drifting Ruby](https://www.driftingruby.com/)
 - [Ruby on Windows Guides](http://rubyonwindowsguides.github.io)
 
-[^top](#table-of-contents)
+[Back to top](#table-of-contents)
 
 ### Jobs
 
@@ -61,14 +61,14 @@
 
 > Tip: You can find list of remote job boards including Rails jobs on [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job#job-boards)
 
-[^top](#table-of-contents)
+[Back to top](#table-of-contents)
 
 ### Community
 
 - [rails on Twitter](https://twitter.com/rails)
 - [rails on Reddit](https://www.reddit.com/r/rails/)
 
-[^top](#table-of-contents)
+[Back to top](#table-of-contents)
 
 ### Articles
 
@@ -108,7 +108,7 @@
 - [More than "Hello World" in Docker: Build Rails + Sidekiq web apps in Docker](https://dev.to/jamby1100/more-than-hello-world-in-docker-run-rails-sidekiq-web-apps-in-docker-1b37)
 - [Rails 6 Features: What's New and Why It Matters](https://www.toptal.com/ruby-on-rails/rails-6-features)
 
-[^top](#table-of-contents)
+[Back to top](#table-of-contents)
 
 ## Open Source Rails Apps
 
@@ -214,7 +214,7 @@
 - [websiteOne](https://github.com/AgileVentures/WebsiteOne) - A project tracking app - **using Rails 5.2** - [:earth_africa:](https://www.agileventures.org/)
 - [whitehall](https://github.com/alphagov/whitehall) - A content management app used by UK government - **using Rails 5.1**
 
-[^top](#table-of-contents)
+[Back to top](#table-of-contents)
 
 
 ## Other Rails Tools
@@ -223,7 +223,7 @@
 
 - [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere [:earth_africa:](https://nanobox.io).
   
-[^top](#table-of-contents)
+[Back to top](#table-of-contents)
 
 ### Generators
 
@@ -231,13 +231,13 @@
 | --------- | ------------ | ------------ | -------- | ------ |
 | [Rails Composer](https://github.com/RailsApps/rails-composer)| yes, but Stripe needs to be configured | Example apps reaching a SaaS with Stripe. | yes | yes |
 
-[^top](#table-of-contents)
+[Back to top](#table-of-contents)
 
 ### DevTools
 
 - [rails-dashboard](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
 
-[^top](#table-of-contents)
+[Back to top](#table-of-contents)
 
 ### Notable Awesome Stuffs
 
@@ -245,4 +245,4 @@
 - [awesome-ruby](https://github.com/sdogruyol/awesome-ruby)
 - [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem)
 
-[^top](#table-of-contents)
+[Back to top](#table-of-contents)
