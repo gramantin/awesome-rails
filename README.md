@@ -53,6 +53,13 @@
 
 - [GitHub Jobs](https://jobs.github.com/positions?description=Rails)
 - [StackOverflow](http://careers.stackoverflow.com/jobs/tag/ruby-on-rails)
+- [railsjobs on Reddit](https://www.reddit.com/r/railsjobs/)
+- [rorjobs.com](https://www.rorjobs.com)
+- [rails jobs on indeed.com](https://www.indeed.com/q-Ruby-On-Rails-jobs.html)
+- [rails jobs on linkedin.com](https://www.linkedin.com/jobs/ruby-on-rails-jobs)
+- [rails jobs on glassdoor.com](https://www.glassdoor.com/Job/ruby-on-rails-developer-jobs-SRCH_KO0,23.htm)
+
+> Tip: You can find list of remote job boards including Rails jobs on [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job#job-boards)
 
 [^top](#table-of-contents)
 
@@ -104,6 +111,8 @@
 [^top](#table-of-contents)
 
 ## Open Source Rails Apps
+
+> Note: Rails versions of these apps are valid as the date of latest commit. They are defined in their Gemfile and/or Gemfile.lock and they might be outdated. If you find it outdated, don't forget to notfiy us by opening a pull request.
 
 - [activeWorkflow](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents - **using Rails 5.2**
 - [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) - A civic infrastructure detection app - **using Rails 4.2**
