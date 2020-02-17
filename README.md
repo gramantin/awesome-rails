@@ -158,7 +158,7 @@
 - [feedi](https://github.com/davidesantangelo/feedi) - A RSS feed conversion (to API) app - **using Rails 5.2** - [:earth_africa:](https://search.feedi.me)
 - [follow-all](https://github.com/codeforamerica/follow-all) - A Twitter account management app - **using Rails 4.2** - **archived**
 - [fromthepage](https://github.com/benwbrum/fromthepage) - A wiki-like app for crowdsourcing transcription of handwritten documents - **using Rails 4.1** - [:earth_africa:](https://www.fromthepage.com/)
-- [gitlabhq](https://github.com/gitlabhq/gitlabhq) -  A code collaboration app - **using Rails 5.2**
+- [gitlabhq](https://github.com/gitlabhq/gitlabhq) -  A code collaboration app - **using Rails 6.0**
 - [graff_mags](https://github.com/dankleiman/graff_mags) - A graffiti magazine sharing app - **using Rails 4.1** - [:earth_africa:](http://graffmags.herokuapp.com)
 - [growstuff](https://github.com/Growstuff/growstuff) -  A data management app for food gardeners - **using Rails 5.2** - [:earth_africa:](http://www.growstuff.org/)
 - [hashrobot](https://github.com/rysmith/hashrobot) - A social media management app - **using Rails 4.2** - [:earth_africa:](http://www.hashrobot.com)
