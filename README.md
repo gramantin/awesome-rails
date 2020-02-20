@@ -169,7 +169,7 @@
 - [kanban](https://github.com/seanomlor/kanban) - A Trello clone - **using Rails 4.2** - [:earth_africa:](http://kanban.seanomlor.com)
 - [kitsu-tools](https://github.com/hummingbird-me/kitsu-tools) - An anime discovery platform - **using Rails 4.1**
 - [lavish](https://github.com/mquan/lavish) - A color scheme generator - **using Rails 4.2**
-- [lifeToRemind](https://github.com/eduqg/LifeToRemind) - A career planning app - **using Rails 5.2** - [:earth_africa:](http://lifetoremindhub.herokuapp.com)
+- [lifeToRemind](https://github.com/eduqg/LifeToRemind) - A career planning app - **using Rails 5.2**
 - [listenup](https://github.com/ooofinooo/listenup) -  A song playlist management app - **using Rails 4.1** - [:earth_africa:](http://listenup-songshare.herokuapp.com)
 - [lobsters](https://github.com/lobsters/lobsters) - A link aggregation app - **using Rails 5.2** - [:earth_africa:](https://lobste.rs)
 - [loomio](https://github.com/loomio/loomio) -  A collaborative decision-making app - **using Rails 5.2** - [:earth_africa:](https://www.loomio.org)
