@@ -4,22 +4,22 @@
 
 > A curated list of awesome things related to Ruby on Rails
 
-## Table of Contents
+# Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [Resources](#resources)
-  - [Official Resources](#official-resources)
-  - [External Resources](#external-resources)
-  - [Jobs](#jobs)
-  - [Community](#community)
-  - [Articles](#articles)
-- [Open Source Rails Apps](#open-source-rails-apps)
-- [Gems](#gems)
-- [Other Rails Tools](#other-rails-tools)
-  - [Platforms](#platforms)
-  - [Generators](#generators)
-  - [DevTools](#devtools)
-  - [Notable Awesome Stuffs](#notable-awesome-stuffs)
+  - [Resources](#resources)
+    - [Official Resources](#official-resources)
+    - [External Resources](#external-resources)
+    - [Jobs](#jobs)
+    - [Community](#community)
+    - [Articles](#articles)
+  - [Open Source Rails Apps](#open-source-rails-apps)
+  - [Gems](#gems)
+  - [Other Rails Tools](#other-rails-tools)
+    - [Platforms](#platforms)
+    - [Generators](#generators)
+    - [DevTools](#devtools)
+    - [Notable Awesome Stuffs](#notable-awesome-stuffs)
 
 <!-- vim-markdown-toc -->
 
@@ -215,24 +215,24 @@
 
 ## Gems
 
-> Gems that can be used for app development with Rails.
-
 - **rails** - A full-stack web development framework - [rubygems](https://rubygems.org/gems/rails) - [source code](https://github.com/rails/rails/)
 
 > Direct dependencies of the "rails" gem:
 
-  - **actioncable** - A gem to integrate websocket with a Rails app - [rubygems](https://rubygems.org/gems/actioncable) - [source code](https://github.com/rails/rails/tree/master/actioncable) - [Action Cable Overview](https://guides.rubyonrails.org/action_cable_overview.html)
-  - **actionmailbox** - A gem to handle incoming emails within a Rails app - [rubygems](https://rubygems.org/gems/actionmailbox) - [source code](https://github.com/rails/rails/tree/master/actionmailbox) - [Action Mailbox Basics](https://guides.rubyonrails.org/action_mailbox_basics.html)
-  - **actionmailer** - A gem to compose, deliver & test emails within a Rails app - [rubygems](https://rubygems.org/gems/actionmailer) - [source code](https://github.com/rails/rails/tree/master/actionmailer) - [Action Mailer Basics](https://guides.rubyonrails.org/action_mailer_basics.html)
-  - **actionpack** - A gem to manage requests & responses within a Rails app - [rubygems](https://rubygems.org/gems/actionpack) - [source code](https://github.com/rails/rails/tree/master/actionpack)
-  - **actiontext** - A gem to integrate rich text editor into a Rails app - [rubygems](https://rubygems.org/gems/actiontext) - [source code](https://github.com/rails/rails/tree/master/actiontext) - [Action Text Overview](https://guides.rubyonrails.org/action_text_overview.html)
-  - **actionview** - A gem to handle view templates within a Rails app - [rubygems](https://rubygems.org/gems/actionview) - [source code](https://github.com/rails/rails/tree/master/actionview) - [Action View Overview](https://guides.rubyonrails.org/action_view_overview.html)
-  - **activejob** - A gem to handle background jobs within a Rails app - [rubygems](https://rubygems.org/gems/activejob) - [source code](https://github.com/rails/rails/tree/master/activejob) - [Active Job Basics](https://guides.rubyonrails.org/active_job_basics.html)
-  - **activemodel** - A gem to define a set of interfaces to use in model classes within a Rails app - [rubygems](https://rubygems.org/gems/activemodel) - [source code](https://github.com/rails/rails/tree/master/activemodel) - [Active Model Basics](https://guides.rubyonrails.org/active_model_basics.html)
-  - **activerecord** - A gem to connect model classes with relational databases within a Rails app - [rubygems](https://rubygems.org/gems/activerecord) - [source code](https://github.com/rails/rails/tree/master/activerecord) - [Active Record Basics](https://guides.rubyonrails.org/active_record_basics.html)
-  - **activestorage** - A gem to handle file uploads to cloud storage providers within a Rails app - [rubygems](https://rubygems.org/gems/activestorage) - [source code](https://github.com/rails/rails/tree/master/activestorage) - [Active Storage Overview](https://guides.rubyonrails.org/active_storage_overview.html)
-  - **activesupport** - A gem to provide some extensions to support a Rails app - [rubygems](https://rubygems.org/gems/activesupport) - [source code](https://github.com/rails/rails/tree/master/activesupport) - [Active Support Core Extensions](https://guides.rubyonrails.org/active_support_core_extensions.html)
-  - **railties** - A gem to handle gems & engines used in a Rails app to work together - [rubygems](https://rubygems.org/gems/railties) - [source code](https://github.com/rails/rails/tree/master/railties)
+- **actioncable** - A gem to integrate websocket with a Rails app - [rubygems](https://rubygems.org/gems/actioncable) - [source code](https://github.com/rails/rails/tree/master/actioncable) - [Action Cable Overview](https://guides.rubyonrails.org/action_cable_overview.html)
+- **actionmailbox** - A gem to handle incoming emails within a Rails app - [rubygems](https://rubygems.org/gems/actionmailbox) - [source code](https://github.com/rails/rails/tree/master/actionmailbox) - [Action Mailbox Basics](https://guides.rubyonrails.org/action_mailbox_basics.html)
+- **actionmailer** - A gem to compose, deliver & test emails within a Rails app - [rubygems](https://rubygems.org/gems/actionmailer) - [source code](https://github.com/rails/rails/tree/master/actionmailer) - [Action Mailer Basics](https://guides.rubyonrails.org/action_mailer_basics.html)
+- **actionpack** - A gem to manage requests & responses within a Rails app - [rubygems](https://rubygems.org/gems/actionpack) - [source code](https://github.com/rails/rails/tree/master/actionpack)
+- **actiontext** - A gem to integrate rich text editor into a Rails app - [rubygems](https://rubygems.org/gems/actiontext) - [source code](https://github.com/rails/rails/tree/master/actiontext) - [Action Text Overview](https://guides.rubyonrails.org/action_text_overview.html)
+- **actionview** - A gem to handle view templates within a Rails app - [rubygems](https://rubygems.org/gems/actionview) - [source code](https://github.com/rails/rails/tree/master/actionview) - [Action View Overview](https://guides.rubyonrails.org/action_view_overview.html)
+- **activejob** - A gem to handle background jobs within a Rails app - [rubygems](https://rubygems.org/gems/activejob) - [source code](https://github.com/rails/rails/tree/master/activejob) - [Active Job Basics](https://guides.rubyonrails.org/active_job_basics.html)
+- **activemodel** - A gem to define a set of interfaces to use in model classes within a Rails app - [rubygems](https://rubygems.org/gems/activemodel) - [source code](https://github.com/rails/rails/tree/master/activemodel) - [Active Model Basics](https://guides.rubyonrails.org/active_model_basics.html)
+- **activerecord** - A gem to connect model classes with relational databases within a Rails app - [rubygems](https://rubygems.org/gems/activerecord) - [source code](https://github.com/rails/rails/tree/master/activerecord) - [Active Record Basics](https://guides.rubyonrails.org/active_record_basics.html)
+- **activestorage** - A gem to handle file uploads to cloud storage providers within a Rails app - [rubygems](https://rubygems.org/gems/activestorage) - [source code](https://github.com/rails/rails/tree/master/activestorage) - [Active Storage Overview](https://guides.rubyonrails.org/active_storage_overview.html)
+- **activesupport** - A gem to provide some extensions to support a Rails app - [rubygems](https://rubygems.org/gems/activesupport) - [source code](https://github.com/rails/rails/tree/master/activesupport) - [Active Support Core Extensions](https://guides.rubyonrails.org/active_support_core_extensions.html)
+- **railties** - A gem to handle gems & engines used in a Rails app to work together - [rubygems](https://rubygems.org/gems/railties) - [source code](https://github.com/rails/rails/tree/master/railties)
+
+> Other gems that can be used with Rails
 
 - **anycable-rails** - A gem to handle websocket server - [rubygems](https://rubygems.org/gems/anycable-rails) - [source code](https://github.com/anycable/anycable-rails)
 - **autoprefixer-rails** - A gem to add vendor prefixes to stylesheets - [rubygems](https://rubygems.org/gems/autoprefixer-rails) - [source code](https://github.com/ai/autoprefixer-rails)
@@ -248,6 +248,15 @@
 - **sprockets** - A gem to compile & serve web assets - [rubygems](https://rubygems.org/gems/sprockets) - [source code](https://github.com/rails/sprockets)
 - **webpacker** - A gem to bundle web assets using webpack - [rubygems](https://rubygems.org/gems/webpacker) - [source code](https://github.com/rails/webpacker)
 - **zeitwerk** - A gem to handle thread-safe code loading - [rubygems](https://rubygems.org/gems/zeitwerk) - [source code](https://github.com/fxn/zeitwerk)
+- **active_decorator** - A gem to keep views & helpers object-oriented - [rubygems](https://rubygems.org/gems/active_decorator) - [source code](https://github.com/amatsuda/active_decorator)
+- **kaminari** - A gem to provide pagination - [rubygems](https://rubygems.org/gems/kaminari) - [source code](https://github.com/kaminari/kaminari)
+- **searchkick** - A gem to provide search ability - [rubygems](https://rubygems.org/gems/searchkick) - [source code](https://github.com/ankane/searchkick)
+- **counter_culture** - A gem to provide counter caches - [rubygems](https://rubygems.org/gems/counter_culture) - [source code](https://github.com/magnusvk/counter_culture)
+- **activity_notification** - A gem to integrate user activity notification - [rubygems](https://rubygems.org/gems/activity_notification) - [source code](https://github.com/simukappu/activity_notification)
+- **devise** - A gem to provide authentication - [rubygems](https://rubygems.org/gems/devise) - [source code](https://github.com/heartcombo/devise)
+- **simple_form** - A gem to handle forms - [rubygems](https://rubygems.org/gems/simple_form) - [source code](https://github.com/heartcombo/simple_form)
+- **activeadmin** - A gem to provide admin panel - [rubygems](https://rubygems.org/gems/activeadmin) - [source code](https://github.com/activeadmin/activeadmin)
+- **ransack** - A gem to provide search functionality - [rubygems](https://rubygems.org/gems/ransack) - [source code](https://github.com/activerecord-hackery/ransack)
 
 [Back to top](#table-of-contents)
 
