@@ -190,6 +190,7 @@
 - [quant](https://github.com/jdjkelly/quant) -  A personal health tracker - **using Rails 4.1**
 - [racing_on_rails](https://github.com/scottwillson/racing_on_rails) - A bike racing organization app - **using Rails 5.2** - [:earth_africa:](http://racingonrails.rocketsurgeryllc.com)
 - [rapidFTR](https://github.com/rapidftr/RapidFTR) -  An information provider app for aid workers - **using Rails 4.0**
+- [RedisWebManager](https://github.com/OpenGems/redis_web_manager) - Web interface that allows you to manage easily your Redis instance - **using Rails 5.2**
 - [redmine](https://github.com/edavis10/redmine) - A project management app - **using Rails 5.2** - [:earth_africa:](http://demo.redmine.org)
 - [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) - A marketplace app - - **using Rails 4.0**
 - [reservations](https://github.com/YaleSTC/reservations) - An inventory management app - **using Rails 6.0** - [:earth_africa:](http://yalestc.github.io/reservations)
