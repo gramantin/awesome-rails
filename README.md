@@ -154,7 +154,7 @@
 - [expertiza](https://github.com/expertiza/expertiza) - A learning material sharing app - **using Rails 4.2**
 - [fairmondo](https://github.com/fairmondo/fairmondo) - A marketplace app - **using Rails 4.2** - [:earth_africa:](https://www.fairmondo.de)
 - [feedbin](https://github.com/feedbin/feedbin) -  A RSS reader app - **using Rails 6.0** - [:earth_africa:](https://feedbin.com)
-- [feedi](https://github.com/davidesantangelo/feedi) - A RSS feed conversion (to API) app - **using Rails 5.2** - [:earth_africa:](https://search.feedi.me)
+- [feedi](https://github.com/davidesantangelo/feedi) - A RSS feed conversion (to API) app - **using Rails 5.2**
 - [follow-all](https://github.com/codeforamerica/follow-all) - A Twitter account management app - **using Rails 4.2** - **archived**
 - [fromthepage](https://github.com/benwbrum/fromthepage) - A wiki-like app for crowdsourcing transcription of handwritten documents - **using Rails 4.1** - [:earth_africa:](https://www.fromthepage.com/)
 - [gitlabhq](https://github.com/gitlabhq/gitlabhq) -  A code collaboration app - **using Rails 6.0**
@@ -234,30 +234,30 @@
 
 > Other gems that can be used with Rails
 
+- **active_decorator** - A gem to keep views & helpers object-oriented - [rubygems](https://rubygems.org/gems/active_decorator) - [source code](https://github.com/amatsuda/active_decorator)
+- **activeadmin** - A gem to provide admin panel - [rubygems](https://rubygems.org/gems/activeadmin) - [source code](https://github.com/activeadmin/activeadmin)
+- **activity_notification** - A gem to integrate user activity notification - [rubygems](https://rubygems.org/gems/activity_notification) - [source code](https://github.com/simukappu/activity_notification)
 - **anycable-rails** - A gem to handle websocket server - [rubygems](https://rubygems.org/gems/anycable-rails) - [source code](https://github.com/anycable/anycable-rails)
 - **autoprefixer-rails** - A gem to add vendor prefixes to stylesheets - [rubygems](https://rubygems.org/gems/autoprefixer-rails) - [source code](https://github.com/ai/autoprefixer-rails)
 - **brakeman** - A gem to scan code against security vulnerabilities - [rubygems](https://rubygems.org/gems/brakeman) - [source code](https://github.com/presidentbeef/brakeman)
 - **cancancan** - A gem to handle authorization - [rubygems](https://rubygems.org/gems/cancancan) - [source code](https://github.com/cancancommunity/cancancan)
+- **counter_culture** - A gem to provide counter caches - [rubygems](https://rubygems.org/gems/counter_culture) - [source code](https://github.com/magnusvk/counter_culture)
+- **devise** - A gem to provide authentication - [rubygems](https://rubygems.org/gems/devise) - [source code](https://github.com/heartcombo/devise)
 - **doorkeeper** - A gem to introduce oauth2 provider functionality - [rubygems](https://rubygems.org/gems/doorkeeper) - [source code](https://github.com/doorkeeper-gem/doorkeeper)
 - **draper** - A gem to add presentation logic - [rubygems](https://rubygems.org/gems/draper) - [source code](https://github.com/drapergem/draper)
+- **kaminari** - A gem to provide pagination - [rubygems](https://rubygems.org/gems/kaminari) - [source code](https://github.com/kaminari/kaminari)
 - **rails_admin** - A gem to create & manage admin panel for rails app - [rubygems](https://rubygems.org/gems/rails_admin) - [source code](https://github.com/sferik/rails_admin)
+- **ransack** - A gem to provide search functionality - [rubygems](https://rubygems.org/gems/ransack) - [source code](https://github.com/activerecord-hackery/ransack)
 - **react-rails** - A gem to integrate react.js with rails app - [rubygems](https://rubygems.org/gems/react-rails) - [source code](https://github.com/reactjs/react-rails)
+- **redisWebManager** - Web interface that allows you to manage easily your Redis instance - [rubygems](https://rubygems.org/gems/redis_web_manager) - [source code](https://github.com/OpenGems/redis_web_manager))
 - **rspec-rails** - A testing framework - [rubygems](https://rubygems.org/gems/rspec-rails) - [source code](https://github.com/rspec/rspec-rails)
 - **scenic** - A gem to manage database views - [rubygems](https://rubygems.org/gems/scenic) - [source code](https://github.com/scenic-views/scenic)
+- **searchkick** - A gem to provide search ability - [rubygems](https://rubygems.org/gems/searchkick) - [source code](https://github.com/ankane/searchkick)
+- **simple_form** - A gem to handle forms - [rubygems](https://rubygems.org/gems/simple_form) - [source code](https://github.com/heartcombo/simple_form)
 - **spring** - A gem to preload a Rails app - [rubygems](https://rubygems.org/gems/spring) - [source code](https://github.com/rails/spring)
 - **sprockets** - A gem to compile & serve web assets - [rubygems](https://rubygems.org/gems/sprockets) - [source code](https://github.com/rails/sprockets)
 - **webpacker** - A gem to bundle web assets using webpack - [rubygems](https://rubygems.org/gems/webpacker) - [source code](https://github.com/rails/webpacker)
 - **zeitwerk** - A gem to handle thread-safe code loading - [rubygems](https://rubygems.org/gems/zeitwerk) - [source code](https://github.com/fxn/zeitwerk)
-- **active_decorator** - A gem to keep views & helpers object-oriented - [rubygems](https://rubygems.org/gems/active_decorator) - [source code](https://github.com/amatsuda/active_decorator)
-- **kaminari** - A gem to provide pagination - [rubygems](https://rubygems.org/gems/kaminari) - [source code](https://github.com/kaminari/kaminari)
-- **searchkick** - A gem to provide search ability - [rubygems](https://rubygems.org/gems/searchkick) - [source code](https://github.com/ankane/searchkick)
-- **counter_culture** - A gem to provide counter caches - [rubygems](https://rubygems.org/gems/counter_culture) - [source code](https://github.com/magnusvk/counter_culture)
-- **activity_notification** - A gem to integrate user activity notification - [rubygems](https://rubygems.org/gems/activity_notification) - [source code](https://github.com/simukappu/activity_notification)
-- **devise** - A gem to provide authentication - [rubygems](https://rubygems.org/gems/devise) - [source code](https://github.com/heartcombo/devise)
-- **simple_form** - A gem to handle forms - [rubygems](https://rubygems.org/gems/simple_form) - [source code](https://github.com/heartcombo/simple_form)
-- **activeadmin** - A gem to provide admin panel - [rubygems](https://rubygems.org/gems/activeadmin) - [source code](https://github.com/activeadmin/activeadmin)
-- **ransack** - A gem to provide search functionality - [rubygems](https://rubygems.org/gems/ransack) - [source code](https://github.com/activerecord-hackery/ransack)
-- **RedisWebManager** - Web interface that allows you to manage easily your Redis instance - [rubygems](https://rubygems.org/gems/redis_web_manager) - [source code](https://github.com/OpenGems/redis_web_manager))
 
 [Back to top](#table-of-contents)
 
