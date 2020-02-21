@@ -257,6 +257,7 @@
 - **simple_form** - A gem to handle forms - [rubygems](https://rubygems.org/gems/simple_form) - [source code](https://github.com/heartcombo/simple_form)
 - **activeadmin** - A gem to provide admin panel - [rubygems](https://rubygems.org/gems/activeadmin) - [source code](https://github.com/activeadmin/activeadmin)
 - **ransack** - A gem to provide search functionality - [rubygems](https://rubygems.org/gems/ransack) - [source code](https://github.com/activerecord-hackery/ransack)
+- **RedisWebManager** - Web interface that allows you to manage easily your Redis instance - [rubygems](https://rubygems.org/gems/redis_web_manager) - [source code](https://github.com/OpenGems/redis_web_manager))
 
 [Back to top](#table-of-contents)
 
