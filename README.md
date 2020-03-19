@@ -104,6 +104,7 @@
 - [How I used Docker with Rails](https://medium.com/@admatbandara/how-i-used-docker-with-rails-45601c43ed8f)
 - [More than "Hello World" in Docker: Build Rails + Sidekiq web apps in Docker](https://dev.to/jamby1100/more-than-hello-world-in-docker-run-rails-sidekiq-web-apps-in-docker-1b37)
 - [Rails 6 Features: What's New and Why It Matters](https://www.toptal.com/ruby-on-rails/rails-6-features)
+- [Ruby on Rails configuration tutorials](https://hixonrails.com/ruby-on-rails-tutorials/)
 
 [Back to top](#table-of-contents)
 
@@ -290,6 +291,7 @@
 | Generator | Ready to run | Complex Apps | Sets git | Heroku |
 | --------- | ------------ | ------------ | -------- | ------ |
 | [Rails Composer](https://github.com/RailsApps/rails-composer)| yes, but Stripe needs to be configured | Example apps reaching a SaaS with Stripe. | yes | yes |
+| [Hix on Rails](https://hixonrails.com)| yes | Monitoring, Redis Sentinel, Sidekiq. | yes | no |
 
 [Back to top](#table-of-contents)
 
