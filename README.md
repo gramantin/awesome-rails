@@ -290,6 +290,7 @@
 | Generator | Ready to run | Complex Apps | Sets git | Heroku |
 | --------- | ------------ | ------------ | -------- | ------ |
 | [Rails Composer](https://github.com/RailsApps/rails-composer)| yes, but Stripe needs to be configured | Example apps reaching a SaaS with Stripe. | yes | yes |
+| [Hix on Rails](https://hixonrails.com)| yes | Monitoring, Redis Sentinel, Sidekiq. | yes | no |
 
 [Back to top](#table-of-contents)
 
