@@ -272,6 +272,7 @@
 - **scenic** - A gem to manage database views - [rubygems](https://rubygems.org/gems/scenic) - [source code](https://github.com/scenic-views/scenic)
 - **searchkick** - A gem to provide search ability - [rubygems](https://rubygems.org/gems/searchkick) - [source code](https://github.com/ankane/searchkick)
 - **simple_form** - A gem to handle forms - [rubygems](https://rubygems.org/gems/simple_form) - [source code](https://github.com/heartcombo/simple_form)
+- **spree** - Spree is an open source E-commerce platform - [rubygems](https://rubygems.org/gems/spree) - [source code](https://github.com/spree/spree)
 - **spring** - A gem to preload a Rails app - [rubygems](https://rubygems.org/gems/spring) - [source code](https://github.com/rails/spring)
 - **sprockets** - A gem to compile & serve web assets - [rubygems](https://rubygems.org/gems/sprockets) - [source code](https://github.com/rails/sprockets)
 - **tinymce-rails** - A gem to integrate tinymce into Rails asset pipeline - [rubygems](https://rubygems.org/gems/tinymce-rails) - [source code](https://github.com/spohlenz/tinymce-rails)
