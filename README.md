@@ -301,6 +301,7 @@
 ### DevTools
 
 - [rails-dashboard](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
+- [Optic](https://github.com/opticdev/optic) - Optic automatically documents and tests your APIs
 
 [Back to top](#table-of-contents)
 
