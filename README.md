@@ -15,7 +15,7 @@
     - [Articles](#articles)
   - [Open Source Rails Apps](#open-source-rails-apps)
   - [Gems](#gems)
-  - [Starters/Boilerplates](#boilerplates)
+  - [Starters/Boilerplates](#startersboilerplates)
   - [Other Rails Tools](#other-rails-tools)
     - [Platforms](#platforms)
     - [Generators](#generators)
