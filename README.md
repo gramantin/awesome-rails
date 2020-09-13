@@ -15,6 +15,7 @@
     - [Articles](#articles)
   - [Open Source Rails Apps](#open-source-rails-apps)
   - [Gems](#gems)
+  - [Starters/Boilerplates](#startersboilerplates)
   - [Other Rails Tools](#other-rails-tools)
     - [Platforms](#platforms)
     - [Generators](#generators)
@@ -280,6 +281,11 @@
 - **zeitwerk** - A gem to handle thread-safe code loading - [rubygems](https://rubygems.org/gems/zeitwerk) - [source code](https://github.com/fxn/zeitwerk)
 
 [Back to top](#table-of-contents)
+
+## Starters/Boilerplates
+- [Rails Devise GraphQL](https://github.com/zauberware/rails-devise-graphql) - A Rails 6 boilerplate to create your next Saas product. Preloaded with graphQL, devise, JWT, CanCanCan, RailsAdmin, Rubocop, Rspec, and more.
+- [Rails Template](https://github.com/mattbrictson/rails-template) - Application template for Rails 6 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
+
 
 ## Other Rails Tools
 
