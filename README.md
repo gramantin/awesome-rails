@@ -250,6 +250,7 @@
 - **anycable-rails** - A gem to handle websocket server - [rubygems](https://rubygems.org/gems/anycable-rails) - [source code](https://github.com/anycable/anycable-rails)
 - **apipie-rails** - A REST API documentation tool - [rubygems](https://rubygems.org/gems/apipie-rails) - [source code](https://github.com/apipie/apipie-rails)
 - **autoprefixer-rails** - A gem to add vendor prefixes to stylesheets - [rubygems](https://rubygems.org/gems/autoprefixer-rails) - [source code](https://github.com/ai/autoprefixer-rails)
+- **avo** - Configuration-based, no-maintenance, extendable Ruby on Rails admin [rubygems](https://rubygems.org/gems/avo) - [source code](https://github.com/avo-hq/avo) - [AvoHQ](https://avohq.io)
 - **brakeman** - A gem to scan code against security vulnerabilities - [rubygems](https://rubygems.org/gems/brakeman) - [source code](https://github.com/presidentbeef/brakeman)
 - **breadcrumbs_on_rails** - A gem to create & manage breadcrumbs-style navigation - [rubygems](https://rubygems.org/gems/breadcrumbs_on_rails) - [source code](https://github.com/weppos/breadcrumbs_on_rails)
 - **cancancan** - A gem to handle authorization - [rubygems](https://rubygems.org/gems/cancancan) - [source code](https://github.com/cancancommunity/cancancan)
