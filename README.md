@@ -125,7 +125,6 @@
 - [autolab](https://github.com/autolab/Autolab) - A course management app - **using Rails 4.2** - [:earth_africa:](http://www.autolabproject.com)
 - [beatstream](https://github.com/Darep/Beatstream) -  A music streaming app - **using Rails 3.2**
 - [bike_index](https://github.com/bikeindex/bike_index) - A bike registry tracking app - **using Rails 4.2** - [:earth_africa:](https://bikeindex.org)
-- [hackershare](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers - **using Rails 6.0** - [:earth_africa:](https://hackershare.dev)
 - [blackCandy](https://github.com/aidewoode/black_candy) - A music streaming app - **using Rails 6.0**
 - [brimir](https://github.com/ivaldi/brimir) - An email helpdesk app - **using Rails 5.2** - **archived**
 - [calagator](https://github.com/calagator/calagator) - A community calendaring app - **using Rails 4.2**
@@ -166,6 +165,7 @@
 - [gitlabhq](https://github.com/gitlabhq/gitlabhq) -  A code collaboration app - **using Rails 6.0**
 - [graff_mags](https://github.com/dankleiman/graff_mags) - A graffiti magazine sharing app - **using Rails 4.1** - [:earth_africa:](http://graffmags.herokuapp.com)
 - [growstuff](https://github.com/Growstuff/growstuff) -  A data management app for food gardeners - **using Rails 5.2** - [:earth_africa:](http://www.growstuff.org/)
+- [hackershare](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers - **using Rails 6.0** - [:earth_africa:](https://hackershare.dev)
 - [hashrobot](https://github.com/rysmith/hashrobot) - A social media management app - **using Rails 4.2** - [:earth_africa:](http://www.hashrobot.com)
 - [helpy](https://github.com/helpyio/helpy) - A customer support app - **using Rails 4.2** - [:earth_africa:](https://helpy.io/)
 - [hitobito](https://github.com/hitobito/hitobito) - An event organization app - **using Rails 4.2** - [:earth_africa:](http://hitobito.com/en)
@@ -176,12 +176,11 @@
 - [kitsu-tools](https://github.com/hummingbird-me/kitsu-tools) - An anime discovery platform - **using Rails 4.1**
 - [lavish](https://github.com/mquan/lavish) - A color scheme generator - **using Rails 4.2**
 - [lifeToRemind](https://github.com/eduqg/LifeToRemind) - A career planning app - **using Rails 5.2**
-- [listenup](https://github.com/ooofinooo/listenup) -  A song playlist management app - **using Rails 4.1** - [:earth_africa:](http://listenup-songshare.herokuapp.com)
 - [lobsters](https://github.com/lobsters/lobsters) - A link aggregation app - **using Rails 5.2** - [:earth_africa:](https://lobste.rs)
 - [loomio](https://github.com/loomio/loomio) -  A collaborative decision-making app - **using Rails 5.2** - [:earth_africa:](https://www.loomio.org)
 - [mastodon](https://github.com/tootsuite/mastodon) - A microblogging app - **using Rails 5.2** - [:earth_africa:](https://mastodon.social)
 - [obtvse2](https://github.com/natew/obtvse2) - A blogging app - **using Rails 4.0**
-- [onebody](https://github.com/seven1m/onebody) - A social networking app for churches - **using Rails 5.1** - [:earth_africa:](https://church.io)
+- [onebody](https://github.com/seven1m/onebody) - A social networking app for churches - **using Rails 5.1**
 - [openFarm](https://github.com/openfarmcc/OpenFarm) -  A database for information about farming and gardening - **using Rails 5.2** -
 - [opencongress](https://github.com/sunlightlabs/opencongress) - A website for getting information about US Congress - **using Rails 3.0** - **archived**
 - [openproject](https://github.com/opf/openproject) - A project management app - **using Rails 6.0** - [:earth_africa:](https://www.openproject.org)
