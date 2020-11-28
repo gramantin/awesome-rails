@@ -125,6 +125,7 @@
 - [autolab](https://github.com/autolab/Autolab) - A course management app - **using Rails 4.2** - [:earth_africa:](http://www.autolabproject.com)
 - [beatstream](https://github.com/Darep/Beatstream) -  A music streaming app - **using Rails 3.2**
 - [bike_index](https://github.com/bikeindex/bike_index) - A bike registry tracking app - **using Rails 4.2** - [:earth_africa:](https://bikeindex.org)
+- [hackershare](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers - **using Rails 6.0** - [:earth_africa:](https://hackershare.dev)
 - [blackCandy](https://github.com/aidewoode/black_candy) - A music streaming app - **using Rails 6.0**
 - [brimir](https://github.com/ivaldi/brimir) - An email helpdesk app - **using Rails 5.2** - **archived**
 - [calagator](https://github.com/calagator/calagator) - A community calendaring app - **using Rails 4.2**
