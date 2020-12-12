@@ -145,6 +145,7 @@
 - [crabgrass-core](https://0xacab.org/riseuplabs/crabgrass) - A collaboration platform for activist groups - **using Rails 4.2**
 - [crowdAI](https://github.com/crowdAI/crowdai) - An app for data science challenges - **using Rails 5.2** - [:earth_africa:](https://www.crowdai.org/)
 - [crowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) - A crowdfunding platform - **using Rails 3.2**
+- [cw-ovp](https://github.com/x1wins/CW-OVP) - video packaging to *.m3u8 for HLS (HTTP Live Streaming) with FFMPEG on website - **using Rails 6.0**
 - [danbooru](https://github.com/danbooru/danbooru) - A taggable image board app - **using Rails 6.0**
 - [dcaf_case_management](https://github.com/DCAFEngineering/dcaf_case_management) - A case management app - **using Rails 5.2**
 - [dev.to](https://github.com/thepracticaldev/dev.to) - Social platform app specialized for web development - **using Rails 5.2** - [:earth_africa:](https://dev.to)
