@@ -194,7 +194,7 @@
 - [popHealth](https://github.com/pophealth/popHealth) -  A population health reporting app - **using Rails 4.1**
 - [publify](https://github.com/publify/publify) - A blogging app - **using Rails 5.2**
 - [quant](https://github.com/jdjkelly/quant) -  A personal health tracker - **using Rails 4.1**
-- [racing_on_rails](https://github.com/scottwillson/racing_on_rails) - A bike racing organization app - **using Rails 5.2** - [:earth_africa:](http://racingonrails.rocketsurgeryllc.com)
+- [racing_on_rails](https://github.com/scottwillson/racing_on_rails) - A bike racing organization app - **using Rails 5.2**
 - [rapidFTR](https://github.com/rapidftr/RapidFTR) -  An information provider app for aid workers - **using Rails 4.0**
 - [redmine](https://github.com/edavis10/redmine) - A project management app - **using Rails 5.2** - [:earth_africa:](http://demo.redmine.org)
 - [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) - A marketplace app - - **using Rails 4.0**
