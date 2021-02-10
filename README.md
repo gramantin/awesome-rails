@@ -128,7 +128,6 @@
 - [blackCandy](https://github.com/aidewoode/black_candy) - A music streaming app - **using Rails 6.0**
 - [brimir](https://github.com/ivaldi/brimir) - An email helpdesk app - **using Rails 5.2** - **archived**
 - [calagator](https://github.com/calagator/calagator) - A community calendaring app - **using Rails 4.2**
-- [calcentral](https://github.com/ets-berkeley-edu/calcentral) - An email, calendars, shared documents and class collaboration spaces management app - **using Rails 4.2** - [:earth_africa:](https://calcentral.berkeley.edu)
 - [campo](https://github.com/chloerei/campo) - A forum app - **using Rails 4.2** - [:earth_africa:](http://codecampo.com)
 - [canvas-lms](https://github.com/instructure/canvas-lms) - A learning management app - **using Rails 5.2**
 - [catarse](https://github.com/catarse/catarse) - A crowdfunding platform for creative projects - **using Rails 4.2** - [:earth_africa:](https://catarse.me/)
@@ -208,7 +207,7 @@
 - [sharetribe](https://github.com/sharetribe/sharetribe) - A peer-to-peer marketplace platform - **using Rails 5.2** - [:earth_africa:](https://www.sharetribe.com)
 - [socify](https://github.com/scaffeinate/socify) - A social networking platform - **using Rails 5.0**
 - [splits-io](https://github.com/glacials/splits-io) - A speedrun data store and analysis engine. - **using Rails 6.0** - [:earth_africa:](https://splits.io)
-- [spokenvote](https://github.com/Spokenvote/spokenvote) - A social voting app - **using Rails 4.2** -  [:earth_africa:](http://www.spokenvote.org)
+- [spokenvote](https://github.com/Spokenvote/spokenvote) - A social voting app - **using Rails 4.2**
 - [stackneveroverflow](https://github.com/liaoziyang/stackneveroverflow) - A question asking & answering platform - **using Rails 5.0**
 - [teambox](https://github.com/redbooth/teambox) - A collaboration app - **using Rails 3.0** - [:earth_africa:](https://redbooth.com) - **archived**
 - [theodinproject](https://github.com/TheOdinProject/theodinproject) - A teaching & learning platform - **using Rails 5.2** - [:earth_africa:](https://www.theodinproject.com/)
