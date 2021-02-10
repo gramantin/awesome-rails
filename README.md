@@ -159,6 +159,7 @@
 - [eol](https://github.com/EOL/eol) - An encyclopedia app - **using Rails 3.2** - [:earth_africa:](http://eol.org)
 - [expertiza](https://github.com/expertiza/expertiza) - A learning material sharing app - **using Rails 4.2**
 - [fairmondo](https://github.com/fairmondo/fairmondo) - A marketplace app - **using Rails 4.2** - [:earth_africa:](https://www.fairmondo.de)
+- [fat-free-crm](https://github.com/fatfreecrm/fat_free_crm) - An open source, Ruby on Rails customer relationship management platform (CRM) - **using Rails 5.2** - [:earth_africa:](http://www.fatfreecrm.com/)
 - [feedbin](https://github.com/feedbin/feedbin) -  A RSS reader app - **using Rails 6.0** - [:earth_africa:](https://feedbin.com)
 - [feedi](https://github.com/davidesantangelo/feedi) - A RSS feed conversion (to API) app - **using Rails 5.2**
 - [follow-all](https://github.com/codeforamerica/follow-all) - A Twitter account management app - **using Rails 4.2** - **archived**
