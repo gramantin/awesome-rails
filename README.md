@@ -240,7 +240,6 @@
 - [diaper](https://github.com/rubyforgood/diaper) - An inventory management app for diaper banks - **using Rails 6.0** - [:earth_africa:](https://diaper.app/)
 - [diaspora](https://github.com/diaspora/diaspora) - A social networking app - **using Rails 5.1** - [:earth_africa:](https://diasporafoundation.org)
 - [discourse](https://github.com/discourse/discourse) - A platform for community discussion - **using Rails 6.0** - [:earth_africa:](https://try.discourse.org/)
-- [dollarjobs](https://github.com/mittaltiger/dollarjobs) - A job board creation app - **using Rails 6.0** - [:redwebtigers](https://www.redwebtigers.com/products/dollarjobs/)
 - [ekylibre](https://github.com/ekylibre/ekylibre) - A farm management app - **using Rails 4.2**
 - [postal](https://github.com/postalhq/postal) - A mail delivery platform - **using Rails 5.2**
 - [encrypt.to](https://github.com/encrypt-to/encrypt.to) - A messaging app with encryption support - **using Rails 4.2**
