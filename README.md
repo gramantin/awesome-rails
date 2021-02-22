@@ -1,12 +1,12 @@
-# Awesome Rails [![Awesome](https://cdn.combinatronics.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Rails
 
-> A curated list of awesome things related to Ruby on Rails
+> A curated list of awesome things related to Ruby on Rails [![Awesome](https://cdn.combinatronics.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ![awesome-rails](./.github/awesome-rails.png)
 
 ## Table of Contents
 
-- [Awesome Rails ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-rails-)
+- [Awesome Rails](#awesome-rails)
   - [Table of Contents](#table-of-contents)
   - [Resources](#resources)
     - [Official Resources](#official-resources)
