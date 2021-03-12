@@ -284,7 +284,7 @@
 - [redmine](https://github.com/edavis10/redmine) - A project management app (using Rails 5.2). - [:earth_africa:](http://demo.redmine.org)
 - [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) - A marketplace app - (using Rails 4.0).
 - [reservations](https://github.com/YaleSTC/reservations) - An inventory management app (using Rails 6.0). - [:earth_africa:](http://yalestc.github.io/reservations)
-- [rletters](https://github.com/rletters/rletters) - A frontend for database of journal articles for researchers (using Rails 6.0). - [:earth_africa:](http://www.rletters.net)
+- [rletters](https://github.com/rletters/rletters) - A frontend for database of journal articles for researchers (using Rails 6.0). (moved). - [:earth_africa:](http://www.rletters.net)
 - [rubygems.org](https://github.com/rubygems/rubygems.org) - A gem hosting platform (using Rails 6.0). - [:earth_africa:](https://rubygems.org)
 - [sanataro](https://github.com/kaznum/sanataro) - An account tracker (using Rails 4.2). - [:earth_africa:](http://sanataro.herokuapp.com)
 - [scholarsphere](https://github.com/psu-stewardship/scholarsphere) - A digital assets management app - using Rails 5.1
