@@ -2,25 +2,11 @@
 
 > A curated list of awesome things related to Ruby on Rails [![Awesome](https://cdn.combinatronics.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-![awesome-rails](./.github/awesome-rails.png)
+![awesome-rails](./.github/assets/awesome-rails.png)
 
 ## Table of Contents
 
-- [Awesome Rails](#awesome-rails)
-  - [Table of Contents](#table-of-contents)
-  - [Resources](#resources)
-    - [Official Resources](#official-resources)
-    - [External Resources](#external-resources)
-    - [Jobs](#jobs)
-    - [Community](#community)
-    - [Articles](#articles)
-  - [Open Source Rails Apps](#open-source-rails-apps)
-  - [Gems](#gems)
-  - [Starters/Boilerplates](#startersboilerplates)
-  - [Other Rails Tools](#other-rails-tools)
-    - [Platforms](#platforms)
-    - [Generators](#generators)
-    - [DevTools](#devtools)
+Use the "Table on Contents" menu on the top-left corner to explore the list.
 
 ## Resources
 
@@ -37,12 +23,36 @@
 
 ### External Resources
 
-- [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails)
+#### Books
+
 - [Ruby on Rails Tutorial Book](https://www.railstutorial.org/book)
+- [Agile Web Development with Rails 6](https://pragprog.com/titles/rails6/agile-web-development-with-rails-6/)
+- [Docker for Rails Developers](https://pragprog.com/titles/ridocker/docker-for-rails-developers/)
+- [Rails 5 Test Prescriptions](https://pragprog.com/titles/nrtest3/rails-5-test-prescriptions/)
+- [Rails, Angular, Postgres, and Bootstrap, Second Edition](https://pragprog.com/titles/dcbang2/rails-angular-postgres-and-bootstrap-second-edition/)
+- [Growing Rails Applications in Practice](https://pragprog.com/titles/d-kegrap/growing-rails-applications-in-practice/)
+- [Crafting Rails 4 Applications](https://pragprog.com/titles/jvrails2/crafting-rails-4-applications/)
+- [The Rails 6 Way](https://leanpub.com/therails6way)
+
+
+#### Video tutorials
+
+- [RailsCasts](http://railscasts.com) *(inactive since 2013)
+- [GoRails](https://gorails.com) *(freemium)
+- [Drifting Ruby](https://www.driftingruby.com/) *(freemium)
+
+#### Youtube channels
+
+- [DriftingRuby](https://www.youtube.com/c/DriftingRuby/videos)
+- [Gorails](https://www.youtube.com/c/GorailsTV/videos)
+- [TechmakerTV](https://www.youtube.com/c/TechmakerTV/videos)
+- [Deanin](https://www.youtube.com/c/Deanin/videos)
+- [Webcrunch](https://www.youtube.com/c/Webcrunch/videos)
+
+#### Other external resources
+
+- [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails)
 - [Learn Ruby on Rails (thoughtbot)](https://thoughtbot.com/upcase/rails)
-- [RailsCasts](http://railscasts.com) (last video content was added in 2013)
-- [GoRails](https://gorails.com)
-- [Drifting Ruby](https://www.driftingruby.com/)
 - [Ruby on Windows Guides](http://rubyonwindowsguides.github.io)
 
 [Back to top][link_toc]
@@ -63,6 +73,8 @@
 
 - [rails on Twitter](https://twitter.com/rails)
 - [rails on Reddit](https://www.reddit.com/r/rails/)
+- [Ruby on Rails Discussions](https://discuss.rubyonrails.org/)
+- [Gorails forum](https://gorails.com/forum)
 
 [Back to top][link_toc]
 
@@ -92,6 +104,12 @@
 - [Building an Event Sourcing System in Rails, Part 1: What is Event Sourcing?](https://dev.to/isalevine/building-an-event-sourcing-system-in-rails-part-1-what-is-event-sourcing-46db) - [Part 2](https://dev.to/isalevine/building-an-event-sourcing-pattern-in-rails-from-scratch-355h)
 - [Real Time Notification System with Sidekiq, Redis and Devise in Rails 6](https://dev.to/matiascarpintini/real-time-notification-system-with-sidekiq-redis-and-devise-in-rails-6-33l9)
 - [Deploying Your Rails 6 App](https://dev.to/render/deploying-your-rails-6-app-4an4)
+- [What's Cooking in Rails 7?](https://dev.to/hint/what-s-cooking-in-rails-7-a42)
+- [Using Hotwire Turbo in Rails with legacy JavaScript](https://dev.to/nejremeslnici/using-hotwire-turbo-in-rails-with-legacy-javascript-17g1)
+- [From Rails scaffold listing to Hotwire infinite scroll](https://dev.to/andrzejkrzywda/from-rails-scaffold-listing-to-hotwire-infinite-scroll-3273)
+- [Building a Component Library in Rails With Storybook](https://dev.to/orbit/building-a-component-library-in-rails-with-storybook-49m4)
+- [How to Speed Up Load Times In A Rails App - What I Wish I Knew Four Months Ago](https://dev.to/nicklevenson/how-to-speed-up-load-times-in-a-rails-app-what-i-wish-i-knew-four-months-ago-28g0)
+- [Endless Scroll / Infinite Loading with Turbo Streams & Stimulus](https://dev.to/zealot128/endless-scroll-infinite-loading-with-turbo-streams-stimulus-5d89)
 
 > from shopify.engineering:
 
@@ -117,6 +135,8 @@
 - [Comparison of approaches to multitenancy in Rails apps](https://blog.arkency.com/comparison-of-approaches-to-multitenancy-in-rails-apps/)
 - [Managing Rails Event Store Subscriptions — How To](https://blog.arkency.com/managing-rails-event-store-subscriptions-how-to/)
 - [Rails connections, pools and handlers](https://blog.arkency.com/rails-connections-pools-and-handlers/)
+- [How to balance the public APIs of an open-source library — practical examples from RailsEventStore](https://blog.arkency.com/how-to-balance-the-public-apis-of-open-source-library-practical-examples-from-railseventstore/)
+- [Rack apps mounted in Rails — how to protect access to them?](https://blog.arkency.com/common-authentication-for-mounted-rack-apps-in-rails/)
 
 > from scotch.io:
 
@@ -147,6 +167,7 @@
 - [Full Text Search in Milliseconds with Rails and PostgreSQL](https://pganalyze.com/blog/full-text-search-ruby-rails-postgres)
 - [Advanced Active Record: Using Subqueries in Rails](https://pganalyze.com/blog/active-record-subqueries-rails)
 - [PostGIS vs. Geocoder in Rails](https://pganalyze.com/blog/postgis-rails-geocoder)
+- [Creating Custom Postgres Data Types in Rails](https://pganalyze.com/blog/custom-postgres-data-types-ruby-rails)
 
 > from semaphoreci.com:
 
@@ -195,6 +216,9 @@
 - [How I used Docker with Rails](https://admatbandara.medium.com/how-i-used-docker-with-rails-45601c43ed8f)
 - [Rails 6 Features: What's New and Why It Matters](https://www.toptal.com/ruby-on-rails/rails-6-features)
 - [Ruby on Rails configuration tutorials](https://hixonrails.com/ruby-on-rails-tutorials/)
+- [Containerizing Ruby on Rails Applications](https://technology.doximity.com/articles/containerizing-ruby-on-rails-applications)
+- [Behind The Scenes: Rails UJS](https://www.ombulabs.com/blog/learning/javascript/behind-the-scenes-rails-ujs.html)
+- 
 
 [Back to top][link_toc]
 
