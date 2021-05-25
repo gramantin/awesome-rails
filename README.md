@@ -467,6 +467,8 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [rails_new](https://github.com/lockstep/rails_new) - A thoughtfully designed template for building modern Rails apps. Get started in minutes instead of hours. railsnew.io has a generator listed in the [generators](#generators) section.
 - [suspenders](https://github.com/thoughtbot/suspenders) - A Rails template with our standard defaults, ready to deploy to Heroku.
 - [vuejs-rails-starterkit](https://github.com/jetthoughts/vuejs-rails-starterkit) - Vue.js + Rails Starting Kit GitHub Template to develop Hybrid Mobile Application.
+- [rails_api_base](https://github.com/rootstrap/rails_api_base) - Rails 6 boilerplate project for JSON RESTful APIs.
+- [rails_hotwire_base](https://github.com/rootstrap/rails_hotwire_base) - Rails 6 boilerplate project with Hotwire for full-stack applications with a modern SPA-like experience.
 
 ## Other Rails Tools
 
