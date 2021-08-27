@@ -59,7 +59,6 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 
 ### Jobs
 
-- [GitHub Jobs](https://jobs.github.com/positions?description=Rails)
 - [Stack Overflow](https://stackoverflow.com/jobs/developer-jobs-using-ruby-on-rails)
 - [railsjobs on Reddit](https://www.reddit.com/r/railsjobs/)
 - [rails jobs on indeed.com](https://www.indeed.com/q-Ruby-On-Rails-jobs.html)
