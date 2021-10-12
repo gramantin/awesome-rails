@@ -270,6 +270,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [encrypt.to](https://github.com/encrypt-to/encrypt.to) - A messaging app with encryption support (using Rails 4.2).
 - [eol](https://github.com/EOL/eol) - An encyclopedia app - using Rails 3.2 - [:earth_africa:](https://eol.org/)
 - [expertiza](https://github.com/expertiza/expertiza) - A learning material sharing app (using Rails 4.2).
+- [FAE](https://github.com/wearefine/fae/) - A modern CMS deveveloped by FINE (using Rails 5.2)
 - [fairmondo](https://github.com/fairmondo/fairmondo) - A marketplace app (using Rails 4.2). - [:earth_africa:](https://www.fairmondo.de)
 - [fat-free-crm](https://github.com/fatfreecrm/fat_free_crm) - An open source, Ruby on Rails customer relationship management platform (CRM) (using Rails 5.2). - [:earth_africa:](http://www.fatfreecrm.com/)
 - [feedbin](https://github.com/feedbin/feedbin) -  A RSS reader app (using Rails 6.0). - [:earth_africa:](https://feedbin.com)
