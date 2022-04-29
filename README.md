@@ -475,7 +475,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [rails-templates(lewagon)](https://github.com/lewagon/rails-templates) - Jump start your Rails development with Le Wagon best practices.
 - [rails-templates(nimblehq)](https://github.com/nimblehq/rails-templates) - Our optimized Rails templates used in our projects.
 - [rails-vue-template](https://github.com/scottrobertson/rails-vue-template) - An example of how to use VueJS as a single page application inside Rails using Webpacker.
-- [rails_new](https://github.com/lockstep/rails_new) - A thoughtfully designed template for building modern Rails apps. Get started in minutes instead of hours. railsnew.io has a generator listed in the [generators](#generators) section.
+- [rails_new](https://github.com/lockstep/rails_new) - A thoughtfully designed template for building modern Rails apps. Get started in minutes instead of hours.
 - [suspenders](https://github.com/thoughtbot/suspenders) - A Rails template with our standard defaults, ready to deploy to Heroku.
 - [vuejs-rails-starterkit](https://github.com/jetthoughts/vuejs-rails-starterkit) - Vue.js + Rails Starting Kit GitHub Template to develop Hybrid Mobile Application.
 - [rails_api_base](https://github.com/rootstrap/rails_api_base) - Rails 6 boilerplate project for JSON RESTful APIs.
@@ -493,7 +493,6 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 
 | Generator | Ready to run | Complex Apps | Sets git | Heroku config |
 | --------- | ------------ | ------------ | -------- | ------------- |
-| [railsnew.io](https://railsnew.io) | A web app where you pick some options from a limited menu, and it generates a template for you to clone. It also has instructions to quickly verify that everything is happy after setup. | yes | yes | yes | no
 | [Rails Composer](https://github.com/RailsApps/rails-composer)| yes, but Stripe needs to be configured | Example apps reaching a SaaS with Stripe. | yes | yes |
 | [Hix on Rails](https://hixonrails.com)| yes | Monitoring, Redis Sentinel, Sidekiq. | yes | no |
 
