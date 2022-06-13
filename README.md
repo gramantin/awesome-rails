@@ -248,6 +248,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [beatstream](https://github.com/Darep/Beatstream) -  A music streaming app - using Rails 3.2
 - [bike_index](https://github.com/bikeindex/bike_index) - A bike registry tracking app (using Rails 4.2). - [:earth_africa:](https://bikeindex.org)
 - [blackCandy](https://github.com/aidewoode/black_candy) - A music streaming app (using Rails 6.0).
+- [brickdoc](https://github.com/brickdoc/brickdoc) - notion-like all-in-one workspace (using Rails 7.0).
 - [brimir](https://github.com/ivaldi/brimir) - An email helpdesk app (using Rails 5.2). (archived).
 - [calagator](https://github.com/calagator/calagator) - A community calendaring app (using Rails 4.2).
 - [campo](https://github.com/chloerei/campo) - A forum app (using Rails 4.2). - [:earth_africa:](https://codecampo.com/)
