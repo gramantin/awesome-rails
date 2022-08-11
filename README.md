@@ -54,6 +54,8 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails)
 - [Learn Ruby on Rails (thoughtbot)](https://thoughtbot.com/upcase/rails)
 - [Ruby on Windows Guides](http://rubyonwindowsguides.github.io)
+- [Explore Ruby] (https://kandi.openweaver.com/explore/ruby) - Discover & find a curated list of popular & new Ruby libraries across all languages, top authors, trending project kits, discussions, tutorials & learning resources. 
+
 
 [Back to top][link_toc]
 
