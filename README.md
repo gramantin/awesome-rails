@@ -232,7 +232,8 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [Ruby on Rails configuration tutorials](https://hixonrails.com/ruby-on-rails-tutorials/)
 - [Containerizing Ruby on Rails Applications](https://technology.doximity.com/articles/containerizing-ruby-on-rails-applications)
 - [Behind The Scenes: Rails UJS](https://www.ombulabs.com/blog/learning/javascript/behind-the-scenes-rails-ujs.html)
-- 
+- [Implement SSR with React + Rails](https://github.com/shakacode/react_on_rails_demo_ssr_hmr)
+-
 
 [Back to top][link_toc]
 
@@ -433,6 +434,8 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [ranked-model](https://github.com/mixonic/ranked-model) - A gem to handle sorting for rows. [:red_circle:](https://rubygems.org/gems/ranked-model)
 - [ransack](https://github.com/activerecord-hackery/ransack) - A gem to provide search functionality. [:red_circle:](https://rubygems.org/gems/ransack)
 - [react-rails](https://github.com/reactjs/react-rails) - A gem to integrate React.js with Rails app. [:red_circle:](https://rubygems.org/gems/react-rails)
+- [react_on_rails](https://github.com/shakacode/react_on_rails) - A gem to integrate React.js with Rails app with SSR. [:red_circle:](https://rubygems.org/gems/react_on_rails)
+- [cypress_on_rails](https://github.com/shakacode/cypress-on-rails) - A gem to use cypress.io with your rails application. [:red_circle:](https://rubygems.org/gems/cypress_on_rails)
 - [redisWebManager](https://github.com/OpenGems/redis_web_manager) - Web interface that allows you to manage easily your Redis instance. [:red_circle:](https://rubygems.org/gems/redis_web_manager)
 - [reform-rails](https://github.com/trailblazer/reform-rails) - A gem to wrap Reform gem, a form validation tool, with Rails app. [:red_circle:](https://rubygems.org/gems/reform-rails)
 - [rgeo-activerecord](https://github.com/rgeo/rgeo-activerecord) - A gem to provide common tools used by RGeo-based spatial adapters. [:red_circle:](https://rubygems.org/gems/rgeo-activerecord)
@@ -458,6 +461,8 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [turbo-rails](https://github.com/hotwired/turbo-rails) - A gem to integrate Turbo.js in Rails apps. [:red_circle:](https://rubygems.org/gems/turbo-rails)
 - [view_component](https://github.com/github/view_component) - A gem to introduce view components. [:red_circle:](https://rubygems.org/gems/view_component)
 - [webpacker](https://github.com/rails/webpacker) - A gem to bundle web assets using Webpack. [:red_circle:](https://rubygems.org/gems/webpacker)
+- [shakapacker](https://github.com/shakacode/shakapacker) - A gem to use webpack to manage app-like JavaScript modules in Rails. [:red_circle:](https://rubygems.org/gems/shakapacker)
+- [webpacker](https://github.com/shakacode/shakapacker) - A gem to use webpack to manage app-like JavaScript modules in Rails. [:red_circle:](https://rubygems.org/gems/shakapacker)
 - [zeitwerk](https://github.com/fxn/zeitwerk) - A gem to handle thread-safe code loading. [:red_circle:](https://rubygems.org/gems/zeitwerk)
 
 [Back to top][link_toc]
