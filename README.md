@@ -462,7 +462,6 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [view_component](https://github.com/github/view_component) - A gem to introduce view components. [:red_circle:](https://rubygems.org/gems/view_component)
 - [webpacker](https://github.com/rails/webpacker) - A gem to bundle web assets using Webpack. [:red_circle:](https://rubygems.org/gems/webpacker)
 - [shakapacker](https://github.com/shakacode/shakapacker) - A gem to use webpack to manage app-like JavaScript modules in Rails. [:red_circle:](https://rubygems.org/gems/shakapacker)
-- [webpacker](https://github.com/shakacode/shakapacker) - A gem to use webpack to manage app-like JavaScript modules in Rails. [:red_circle:](https://rubygems.org/gems/shakapacker)
 - [zeitwerk](https://github.com/fxn/zeitwerk) - A gem to handle thread-safe code loading. [:red_circle:](https://rubygems.org/gems/zeitwerk)
 
 [Back to top][link_toc]
