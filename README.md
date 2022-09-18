@@ -40,6 +40,8 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [RailsCasts](http://railscasts.com) *(inactive since 2013)
 - [GoRails](https://gorails.com) *(freemium)
 - [Drifting Ruby](https://www.driftingruby.com/) *(freemium)
+- [A curated list of Ruby on Rails courses](https://skillcombo.com/topic/ruby-on-rails/)
+
 
 #### Youtube channels
 
