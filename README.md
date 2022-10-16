@@ -429,6 +429,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [premailer-rails](https://github.com/fphilipe/premailer-rails) - A gem to handle email styling. [:red_circle:](https://rubygems.org/gems/premailer-rails)
 - [prerender_rails](https://github.com/prerender/prerender_rails) - A gem to prerender JavaScript-rendered pages. [:red_circle:](https://rubygems.org/gems/prerender_rails)
 - [rails-erd](https://github.com/voormedia/rails-erd) - A gem to generate entity-relationship diagram. [:red_circle:](https://rubygems.org/gems/rails-erd)
+- [rails-mermaid_erd](https://github.com/koedame/rails-mermaid_erd) - A gem to interactively generate entity-relationship diagram in image or Markdown format. [:red_circle:](https://rubygems.org/gems/rails-mermaid_erd)
 - [rails-settings-cached](https://github.com/huacnlee/rails-settings-cached) - A gem to manage global settings as key-value pairs. [:red_circle:](https://rubygems.org/gems/rails-settings-cached)
 - [rails_admin](https://github.com/sferik/rails_admin) - A gem to create & manage admin panel for Rails app. [:red_circle:](https://rubygems.org/gems/rails_admin)
 - [rails_event_store](https://github.com/RailsEventStore/rails_event_store) - A gem to implement event store in Rails [:red_circle:](https://rubygems.org/gems/rails_event_store)
