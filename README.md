@@ -63,7 +63,6 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 
 ### Jobs
 
-- [Stack Overflow](https://stackoverflow.com/jobs/developer-jobs-using-ruby-on-rails)
 - [railsjobs on Reddit](https://www.reddit.com/r/railsjobs/)
 - [rails jobs on indeed.com](https://www.indeed.com/q-Ruby-On-Rails-jobs.html)
 - [rails jobs on glassdoor.com](https://www.glassdoor.com/Job/ruby-on-rails-developer-jobs-SRCH_KO0,23.htm)
@@ -73,6 +72,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [reverse job board for rails devs - railsdevs.com](https://railsdevs.com)
 - [rails jobs on remoteok.io](https://remoteok.io/remote-ruby-on-rails-jobs)
 - [rails jobs on web3.career](https://web3.career/ruby-jobs)
+- [rails jobs on rubyonremote.com](https://rubyonremote.com/)
 
 > Tip: You can find list of remote job boards including Rails jobs on [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job#job-boards)
 
