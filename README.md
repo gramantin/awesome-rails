@@ -277,7 +277,6 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [danbooru](https://github.com/danbooru/danbooru) - A taggable image board app (using Rails 7.0).
 - [dcaf_case_management](https://github.com/DCAFEngineering/dcaf_case_management) - A case management app (using Rails 7.0).
 - [dgidb](https://github.com/dgidb/dgidb) - A drug gene interaction platform - using Rails 6.0
-- [diaper](https://github.com/rubyforgood/diaper) - An inventory management app for diaper banks (using Rails 7.0). - [:earth_africa:](https://diaper.app/)
 - [diaspora](https://github.com/diaspora/diaspora) - A social networking app - using Rails 6.1 - [:earth_africa:](https://diasporafoundation.org)
 - [discourse](https://github.com/discourse/discourse) - A platform for community discussion (using Rails 7.0). - [:earth_africa:](https://try.discourse.org/)
 - [ekylibre](https://github.com/ekylibre/ekylibre) - A farm management app (using Rails 5.0).
@@ -300,6 +299,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [helpy](https://github.com/helpyio/helpy) - A customer support app (using Rails 4.2). - [:earth_africa:](https://helpy.io/)
 - [hitobito](https://github.com/hitobito/hitobito) - An event organization app (using Rails 6.1). - [:earth_africa:](https://hitobito.com/en)
 - [hours](https://github.com/defactosoftware/hours) - A time tracking app (using Rails 4.2). - [:earth_africa:](https://happyhours.io)
+- [human-essentials](https://github.com/rubyforgood/human-essentials) - An inventory management system for essentials banks (using Rails 7.0). - [:earth_africa:](https://humanessentials.app/)
 - [inaturalist](https://github.com/inaturalist/inaturalist) - A community app for nature and related stuff (using Rails 6.1). - [:earth_africa:](https://www.inaturalist.org)
 - [intercityup.com](https://github.com/intercity/intercity-next) - A control panel app for app deployment (using Rails 4.1).
 - [kanban](https://github.com/seanomlor/kanban) - A Trello clone (using Rails 4.2).
