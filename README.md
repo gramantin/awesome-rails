@@ -1,6 +1,6 @@
 # Awesome Rails
 
-> A curated list of awesome things related to Ruby on Rails [![Awesome](https://cdn.combinatronics.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+> A curated list of awesome things related to Ruby on Rails [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![awesome-rails](./.github/assets/awesome-rails.png)
 
@@ -50,6 +50,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [TechmakerTV](https://www.youtube.com/c/TechmakerTV/videos)
 - [Deanin](https://www.youtube.com/c/Deanin/videos)
 - [Webcrunch](https://www.youtube.com/c/Webcrunch/videos)
+- [CJ Avilla](https://www.youtube.com/playlist?list=PLS6F722u-R6KiuOupokyl8Xnqrot9ukc7)
 
 #### Other external resources
 
@@ -73,6 +74,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [rails jobs on remoteok.io](https://remoteok.io/remote-ruby-on-rails-jobs)
 - [rails jobs on web3.career](https://web3.career/ruby-jobs)
 - [rails jobs on rubyonremote.com](https://rubyonremote.com/)
+- [rails jobs on Startup Jobs](https://startup.jobs/ruby-jobs)
 
 > Tip: You can find list of remote job boards including Rails jobs on [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job#job-boards)
 
@@ -84,6 +86,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [rails on Reddit](https://www.reddit.com/r/rails/)
 - [Ruby on Rails Discussions](https://discuss.rubyonrails.org/)
 - [Gorails forum](https://gorails.com/forum)
+- [WIP Ruby (Telegram group)](https://t.me/wipruby)
 
 [Back to top][link_toc]
 
