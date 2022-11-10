@@ -1,6 +1,6 @@
 # Awesome Rails
 
-> A curated list of awesome things related to Ruby on Rails [![Awesome](https://cdn.combinatronics.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+> A curated list of awesome things related to Ruby on Rails [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![awesome-rails](./.github/assets/awesome-rails.png)
 
