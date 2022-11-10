@@ -50,6 +50,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [TechmakerTV](https://www.youtube.com/c/TechmakerTV/videos)
 - [Deanin](https://www.youtube.com/c/Deanin/videos)
 - [Webcrunch](https://www.youtube.com/c/Webcrunch/videos)
+- [CJ Avilla](https://www.youtube.com/playlist?list=PLS6F722u-R6KiuOupokyl8Xnqrot9ukc7)
 
 #### Other external resources
 
