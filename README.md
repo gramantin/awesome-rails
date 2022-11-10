@@ -73,6 +73,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [rails jobs on remoteok.io](https://remoteok.io/remote-ruby-on-rails-jobs)
 - [rails jobs on web3.career](https://web3.career/ruby-jobs)
 - [rails jobs on rubyonremote.com](https://rubyonremote.com/)
+- [rails jobs on Startup Jobs](https://startup.jobs/ruby-jobs)
 
 > Tip: You can find list of remote job boards including Rails jobs on [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job#job-boards)
 
