@@ -85,6 +85,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [rails on Reddit](https://www.reddit.com/r/rails/)
 - [Ruby on Rails Discussions](https://discuss.rubyonrails.org/)
 - [Gorails forum](https://gorails.com/forum)
+- [WIP Ruby (Telegram group)](https://t.me/wipruby)
 
 [Back to top][link_toc]
 
