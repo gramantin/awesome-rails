@@ -51,6 +51,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [Deanin](https://www.youtube.com/c/Deanin/videos)
 - [Webcrunch](https://www.youtube.com/c/Webcrunch/videos)
 - [CJ Avilla](https://www.youtube.com/playlist?list=PLS6F722u-R6KiuOupokyl8Xnqrot9ukc7)
+- [SupeRails](https://www.youtube.com/c/SupeRails/videos)
 
 #### Other external resources
 
