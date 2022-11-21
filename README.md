@@ -52,6 +52,11 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [Webcrunch](https://www.youtube.com/c/Webcrunch/videos)
 - [CJ Avilla](https://www.youtube.com/playlist?list=PLS6F722u-R6KiuOupokyl8Xnqrot9ukc7)
 - [SupeRails](https://www.youtube.com/c/SupeRails/videos)
+- [TypeFast](https://www.youtube.com/@typefastco/videos)
+- [APPSIMPACT Academy](https://www.youtube.com/@APPSIMPACTAcademy/videos)
+- [Mix & Go](https://www.youtube.com/@mixandgo/videos)
+- [Phil Smy](https://www.youtube.com/@PhilSmy/videos)
+- [David Battersby](https://www.youtube.com/@davidbattersby/videos)
 
 #### Other external resources
 
