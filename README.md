@@ -339,6 +339,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [redmine](https://github.com/edavis10/redmine) - A project management app (using Rails 6.1). - [:earth_africa:](http://demo.redmine.org)
 - [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) - A marketplace app - (using Rails 4.0).
 - [reservations](https://github.com/YaleSTC/reservations) - An inventory management app (using Rails 6.0). - [:earth_africa:](http://yalestc.github.io/reservations/)
+- [retrospring](https://github.com/retrospring/retrospring) - A social network following the Q/A (question and answer) principle - [:earth_africa:](https://retrospring.net)
 - [rletters](https://codeberg.org/rletters/rletters) - A frontend for database of journal articles for researchers (using Rails 6.0). - [:earth_africa:](https://www.rletters.net)
 - [rubygems.org](https://github.com/rubygems/rubygems.org) - A gem hosting platform (using Rails 7.0). - [:earth_africa:](https://rubygems.org)
 - [sanataro](https://github.com/kaznum/sanataro) - An account tracker (using Rails 4.2).
