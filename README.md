@@ -517,6 +517,7 @@
 
 ### DevTools
 
+- [Bencher](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
 - [rails-dashboard](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
 - [Optic](https://github.com/opticdev/optic) - Optic automatically documents and tests your APIs.
 
