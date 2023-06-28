@@ -251,7 +251,7 @@
 
 > Note: Rails versions of these apps are valid as the date of latest commit. They are defined in their Gemfile and/or Gemfile.lock and they might be outdated. If you find it outdated, don't forget to notfiy us by opening a pull request.
 
-- [FAE](https://github.com/wearefine/fae/) - A modern CMS deveveloped by FINE (using Rails 5.2)
+- [FAE](https://github.com/wearefine/fae/) - A modern CMS developed by FINE (using Rails 5.2)
 - [activeWorkflow](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents (using Rails 6.0).
 - [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) - A civic infrastructure detection app (using Rails 4.2).
 - [airCasting](https://github.com/HabitatMap/AirCasting) - A platform for recording, mapping, and sharing health and environmental data using your smartphone (using Rails 6.1). - [:earth_africa:](https://www.habitatmap.org/aircasting)
