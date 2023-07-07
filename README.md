@@ -327,6 +327,7 @@
 - [passwordPusher](https://github.com/pglombardo/PasswordPusher) - A password delivery app (using Rails 6.1). - [:earth_africa:](https://pwpush.com)
 - [peatio](https://github.com/peatio/peatio) - A crypto currency exchange app (using Rails 4.0).
 - [planningalerts-app](https://github.com/openaustralia/planningalerts) - A planned applications tracking app (using Rails 6.1). - [:earth_africa:](https://www.planningalerts.org.au)
+- [podiscover](https://github.com/enderahmetyurt/podiscover) - An open source social media platform to discover new podcasts. (using Rails 7.0) - [:earth_africa:](https://www.podiscover.me)
 - [popHealth](https://github.com/pophealth/popHealth) - A population health reporting app (using Rails 4.1).
 - [postal](https://github.com/postalserver/postal) - A mail delivery platform (using Rails 5.2).
 - [publify](https://github.com/publify/publify) - A blogging app (using Rails 6.1).
