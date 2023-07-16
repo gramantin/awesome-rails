@@ -288,6 +288,7 @@
 - [dgidb](https://github.com/dgidb/dgidb) - A drug gene interaction platform - using Rails 6.0
 - [diaspora](https://github.com/diaspora/diaspora) - A social networking app - using Rails 6.1 - [:earth_africa:](https://diasporafoundation.org)
 - [discourse](https://github.com/discourse/discourse) - A platform for community discussion (using Rails 7.0). - [:earth_africa:](https://try.discourse.org/)
+- [docuseal](https://github.com/docusealco/docuseal) - A platform to fill and sign digital documents (using Rails 7.0). - [:earth_africa:](https://www.docuseal.co/)
 - [ekylibre](https://github.com/ekylibre/ekylibre) - A farm management app (using Rails 5.0).
 - [encrypt.to](https://github.com/encrypt-to/encrypt.to) - A messaging app with encryption support (using Rails 4.2).
 - [eol](https://github.com/EOL/deprecated_eol) - An encyclopedia app - using Rails 3.2 - [:earth_africa:](https://eol.org/)
