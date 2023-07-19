@@ -77,6 +77,7 @@
 - [Learn Ruby on Rails (thoughtbot)](https://thoughtbot.com/upcase/rails)
 - [Ruby on Windows Guides](http://rubyonwindowsguides.github.io)
 - [Explore Ruby](https://kandi.openweaver.com/explore/ruby) - Discover & find a curated list of popular & new Ruby libraries across all languages, top authors, trending project kits, discussions, tutorials & learning resources. 
+- [RailsNotes Blog](https://railsnotes.xyz) — The Ruby on Rails guides you wished you had!
 
 [Back to top][link_toc]
 
