@@ -142,6 +142,11 @@
 - [Building a Component Library in Rails With Storybook](https://dev.to/orbit/building-a-component-library-in-rails-with-storybook-49m4)
 - [How to Speed Up Load Times In A Rails App - What I Wish I Knew Four Months Ago](https://dev.to/nicklevenson/how-to-speed-up-load-times-in-a-rails-app-what-i-wish-i-knew-four-months-ago-28g0)
 - [Endless Scroll / Infinite Loading with Turbo Streams & Stimulus](https://dev.to/zealot128/endless-scroll-infinite-loading-with-turbo-streams-stimulus-5d89)
+- [Ruby/Rails Machine Setup Guide](https://dev.to/hasanadeem/ruby-rails-machine-setup-guide-3l5a)
+-[How many Heroku dynos do you need, and which size—An opinionated guide](https://dev.to/adamlogic/how-many-heroku-dynos-do-you-need-and-which-size-an-opinionated-guide-4fec)
+-[Rails Environment Variables Using Credentials](https://dev.to/dalezak/rails-environment-variables-using-credentials-mh7)
+-[Email Subscription Workflow - Ruby on Rails](https://dev.to/justalever/email-subscription-workflow-ruby-on-rails-406n)
+-[Mastering Low Level Caching in Rails](https://dev.to/honeybadger/mastering-low-level-caching-in-rails-15ce)
 
 > from shopify.engineering:
 
