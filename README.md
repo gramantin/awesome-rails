@@ -307,6 +307,7 @@
 - [fromthepage](https://github.com/benwbrum/fromthepage) - A wiki-like app for crowdsourcing transcription of handwritten documents (using Rails 6.0). - [:earth_africa:](https://www.fromthepage.com/)
 - [gitlabhq](https://github.com/gitlabhq/gitlabhq) - A code collaboration app (using Rails 6.1).
 - [graff_mags](https://github.com/dankleiman/graff_mags) - A graffiti magazine sharing app (using Rails 4.1).
+- [granny](https://github.com/roberthopman/granny) - An OpenAI chat app (Rails 7.0)
 - [growstuff](https://github.com/Growstuff/growstuff) - A data management app for food gardeners (using Rails 6.1). - [:earth_africa:](https://www.growstuff.org/)
 - [hackershare](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers (using Rails 7.0). - [:earth_africa:](https://hackershare.dev/en)
 - [hashrobot](https://github.com/rysmith/hashrobot) - A social media management app (using Rails 4.2).
