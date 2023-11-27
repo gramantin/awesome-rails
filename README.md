@@ -76,7 +76,7 @@
 
 - [Learn Ruby on Rails (thoughtbot)](https://thoughtbot.com/upcase/rails)
 - [Ruby on Windows Guides](http://rubyonwindowsguides.github.io)
-- [Explore Ruby](https://kandi.openweaver.com/explore/ruby) - Discover & find a curated list of popular & new Ruby libraries across all languages, top authors, trending project kits, discussions, tutorials & learning resources. 
+- [Explore Ruby](https://kandi.openweaver.com/explore/ruby) - Discover & find a curated list of popular & new Ruby libraries across all languages, top authors, trending project kits, discussions, tutorials & learning resources.
 - [RailsNotes Blog](https://railsnotes.xyz) — The Ruby on Rails guides you wished you had!
 
 [Back to top][link_toc]
@@ -353,6 +353,7 @@
 - [selfstarter](https://github.com/apigy/selfstarter) - A crowdfunding app (using Rails 4.0).
 - [sharetribe](https://github.com/sharetribe/sharetribe) - A peer-to-peer marketplace platform (using Rails 5.2). - [:earth_africa:](https://www.sharetribe.com)
 - [socify](https://github.com/scaffeinate/socify) - A social networking platform - using Rails 5.0
+- [somleng](https://github.com/somleng/somleng) - An Open Source Communications-Platform-as-a-Service (CPaaS) and Telco-as-a-service (TaaS). (using Rails 7.1). - [:earth_africa:](https://www.somleng.org)
 - [splits-io](https://github.com/glacials/splits-io) - A speedrun data store and analysis engine. (using Rails 6.0). - [:earth_africa:](https://splits.io)
 - [spokenvote](https://github.com/Spokenvote/spokenvote) - A social voting app (using Rails 4.2).
 - [stackneveroverflow](https://github.com/liaoziyang/stackneveroverflow) - A question asking & answering platform - using Rails 5.0
@@ -513,7 +514,7 @@
 ### Platforms
 
 - [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere
-  
+
 [Back to top][link_toc]
 
 ### Generators
