@@ -276,6 +276,7 @@
 - [canvas-lms](https://github.com/instructure/canvas-lms) - A learning management app (using Rails 5.2).
 - [catarse](https://github.com/catarse/catarse) - A crowdfunding platform for creative projects (using Rails 4.2). - [:earth_africa:](https://www.catarse.me/)
 - [chatwoot](https://github.com/chatwoot/chatwoot) - A simple and elegant live chat software (using Rails 6.1).
+- [chronlife](https://github.com/maciejb2k/chronlife) - A social platform for people with chronic diseases (using Rails 7.0).
 - [ciao](https://github.com/brotandgames/ciao) - A URL status checking app (using Rails 6.0).
 - [coRM](https://github.com/SIGIRE/CoRM) - A customer relationship management app - using Rails 3.2 - [:earth_africa:](http://www.corm.fr)
 - [coderwall (legacy)](https://github.com/coderwall/coderwall-legacy) - A social network app for software engineers - using Rails 3.2
