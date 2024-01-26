@@ -472,6 +472,7 @@
 - [sequel-activerecord_connection](https://github.com/janko/sequel-activerecord_connection) - A gem to allow Sequel to reuse an ActiveRecord connection. [:red_circle:](https://rubygems.org/gems/sequel-activerecord_connection)
 - [shakapacker](https://github.com/shakacode/shakapacker) - A gem to use webpack to manage app-like JavaScript modules in Rails. [:red_circle:](https://rubygems.org/gems/shakapacker)
 - [simple_form](https://github.com/heartcombo/simple_form) - A gem to handle forms. [:red_circle:](https://rubygems.org/gems/simple_form)
+- [solid_queue](https://github.com/basecamp/solid_queue) - A gem to Database-backed Active Job backend [:red_circle:](https://rubygems.org/gems/solid_queue)
 - [solidus](https://github.com/solidusio/solidus) - A fork of Spree gem, an open source e-commerce platform. [:red_circle:](https://rubygems.org/gems/solidus)
 - [sorbet-rails](https://github.com/chanzuckerberg/sorbet-rails) - A gem to integrate Sorbet gem in Rails apps. [:red_circle:](https://rubygems.org/gems/sorbet-rails)
 - [spree](https://github.com/spree/spree) - An open source e-commerce platform. [:red_circle:](https://rubygems.org/gems/spree)
