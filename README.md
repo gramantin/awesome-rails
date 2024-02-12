@@ -406,6 +406,7 @@
 - [activity_notification](https://github.com/simukappu/activity_notification) - A gem to integrate user activity notification. [:red_circle:](https://rubygems.org/gems/activity_notification)
 - [aggregate_root](https://github.com/RailsEventStore/rails_event_store/tree/master/aggregate_root) - A gem to handle event sourcing. [:red_circle:](https://rubygems.org/gems/aggregate_root)
 - [ahoy_email](https://github.com/ankane/ahoy_email) - A tool to provide mail analytics. [:red_circle:](https://rubygems.org/gems/ahoy_email)
+- [alba](https://github.com/okuramasafumi/alba) - A JSON serializer for Ruby, JRuby, and TruffleRuby. [:red_circle:](https://rubygems.org/gems/alba)
 - [algoliasearch-rails](https://github.com/algolia/algoliasearch-rails) - A gem to integrate Algolia search. [:red_circle:](https://rubygems.org/gems/algoliasearch-rails)
 - [annotate](https://github.com/ctran/annotate_models) - A gem to annotate rails classes with schema & routes info. [:red_circle:](https://rubygems.org/gems/annotate)
 - [anycable-rails](https://github.com/anycable/anycable-rails) - A gem to handle websocket server. [:red_circle:](https://rubygems.org/gems/anycable-rails)
