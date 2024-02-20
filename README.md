@@ -325,6 +325,7 @@
 - [lobsters](https://github.com/lobsters/lobsters) - A link aggregation app (using Rails 7.0). - [:earth_africa:](https://lobste.rs)
 - [loomio](https://github.com/loomio/loomio) - A collaborative decision-making app (using Rails 6.1). - [:earth_africa:](https://www.loomio.com/)
 - [mastodon](https://github.com/mastodon/mastodon) - A microblogging app (using Rails 6.1). - [:earth_africa:](https://mastodon.social/about)
+- [multiwoven](https://github.com/Multiwoven/multiwoven)- The open-source reverse ETL, data activation platform for modern data teams. (using Rails 7.1.1) - [🌍](https://www.multiwoven.com/)
 - [obl.ong](https://github.com/obl-ong/admin) - A multi-tenant subdomain control panel (using Rails 7.1) - [🌍](https://obl.ong)
 - [obtvse2](https://github.com/natew/obtvse2) - A blogging app (using Rails 4.0).
 - [onebody](https://github.com/seven1m/onebody) - A social networking app for churches - using Rails 5.1
