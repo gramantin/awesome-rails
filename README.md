@@ -273,7 +273,7 @@
 - [brimir](https://github.com/ivaldi/brimir) - An email helpdesk app (using Rails 5.2). (archived).
 - [calagator](https://github.com/calagator/calagator) - A community calendaring app (using Rails 5.2).
 - [campo](https://github.com/chloerei/campo) - A forum app (using Rails 4.1).
-- [canvas-lms](https://github.com/instructure/canvas-lms) - A learning management app (using Rails 5.2).
+- [canvas-lms](https://github.com/instructure/canvas-lms) - A learning management app.
 - [catarse](https://github.com/catarse/catarse) - A crowdfunding platform for creative projects (using Rails 4.2). - [:earth_africa:](https://www.catarse.me/)
 - [chatwoot](https://github.com/chatwoot/chatwoot) - A simple and elegant live chat software (using Rails 6.1).
 - [chronlife](https://github.com/maciejb2k/chronlife) - A social platform for people with chronic diseases (using Rails 7.0).
