@@ -364,6 +364,7 @@
 - [theodinproject](https://github.com/TheOdinProject/theodinproject) - A teaching & learning platform (using Rails 6.1). - [:earth_africa:](https://www.theodinproject.com/)
 - [tracks](https://github.com/TracksApp/tracks) - A goal tracking app (using Rails 6.0). - [:earth_africa:](https://www.getontracks.org)
 - [trado](https://github.com/Jellyfishboy/trado) - An e-commerce platform (using Rails 4.2).
+- [united](https://codeberg.org/reesericci/united) - A free and open membership directory for collective organizations (using Rails main). - [🌍](https://united.obl.ong)
 - [vglist](https://github.com/connorshea/vglist) - A video game library tracking web app (using Rails 7.0). - [:earth_africa:](https://vglist.co/)
 - [websiteOne](https://github.com/AgileVentures/WebsiteOne) - A project tracking app (using Rails 6.1).
 - [whitehall](https://github.com/alphagov/whitehall) - A content management app used by UK government - using Rails 7.0
