@@ -50,6 +50,9 @@
 - [Crafting Rails 4 Applications](https://pragprog.com/titles/jvrails2/crafting-rails-4-applications/)
 - [The Rails 7 Way](https://leanpub.com/therails7way)
 
+#### Video courses
+- [Full Stack Rails Mastery](https://learnetto.com/users/hrishio/courses/full-stack-rails-mastery)
+
 #### Video tutorials
 
 - [RailsCasts](http://railscasts.com) *(inactive since 2013)
