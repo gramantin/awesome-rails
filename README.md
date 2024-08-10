@@ -395,6 +395,7 @@
 
 - [ace-rails-ap](https://github.com/codykrieger/ace-rails-ap) - A gem to integrate ajax.org cloud9 editor into Rails asset pipeline. [:red_circle:](https://rubygems.org/gems/ace-rails-ap)
 - [action_policy](https://github.com/palkan/action_policy) - A tool to handle authorization. [:red_circle:](https://rubygems.org/gems/action_policy)
+- [actionview-svelte-handler](https://codeberg.org/reesericci/actionview-svelte-handler) - An Action View template handler to seamlessly integrate Svelte views. [:red_circle:](https://rubygems.org/gems/actionview-svelte-handler)
 - [active_decorator](https://github.com/amatsuda/active_decorator) - A gem to keep views & helpers object-oriented. [:red_circle:](https://rubygems.org/gems/active_decorator)
 - [active_enum](https://github.com/adzap/active_enum) - A gem to provide enum classes [:red_circle:](https://rubygems.org/gems/active_enum)
 - [activeadmin](https://github.com/activeadmin/activeadmin) - A gem to provide admin panel. [:red_circle:](https://rubygems.org/gems/activeadmin)
