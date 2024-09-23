@@ -420,6 +420,7 @@
 - [auther](https://github.com/bkuhlmann/auther) - A gem to provide simple, form-based authentication. [:red_circle:](https://rubygems.org/gems/auther)
 - [autoprefixer-rails](https://github.com/ai/autoprefixer-rails) - A gem to add vendor prefixes to stylesheets. [:red_circle:](https://rubygems.org/gems/autoprefixer-rails)
 - [avo](https://github.com/avo-hq/avo) - Configuration-based, no-maintenance, extendable Ruby on Rails admin panel. [rubygems](https://rubygems.org/gems/avo)
+- [bemi-rails](https://github.com/BemiHQ/bemi-rails) - A robust data change tracking and audit trail for Rails. [:red_circle:](https://rubygems.org/gems/bemi-rails)
 - [better_errors](https://github.com/BetterErrors/better_errors) - A tool to provide better error page. [:red_circle:](https://rubygems.org/gems/better_errors)
 - [brakeman](https://github.com/presidentbeef/brakeman) - A gem to scan code against security vulnerabilities. [:red_circle:](https://rubygems.org/gems/brakeman)
 - [breadcrumbs_on_rails](https://github.com/weppos/breadcrumbs_on_rails) - A gem to create & manage breadcrumbs-style navigation. [:red_circle:](https://rubygems.org/gems/breadcrumbs_on_rails)
