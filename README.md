@@ -308,6 +308,7 @@
 - [feedbin](https://github.com/feedbin/feedbin) - A RSS reader app (using Rails 7.0). - [:earth_africa:](https://feedbin.com)
 - [follow-all](https://github.com/codeforamerica/follow-all) - A Twitter account management app (using Rails 4.2). (archived).
 - [forem](https://github.com/forem/forem) - Social platform app specialized for web development (using Rails 7.0). - [:earth_africa:](https://www.forem.com)
+- [freeATS](https://github.com/freeats/freeats/) - An open source applicant tracking system with self-hosting capabilities (using Rails 7.1). - [:earth_africa:](https://www.freeats.com/)
 - [fromthepage](https://github.com/benwbrum/fromthepage) - A wiki-like app for crowdsourcing transcription of handwritten documents (using Rails 6.0). - [:earth_africa:](https://www.fromthepage.com/)
 - [gitlabhq](https://github.com/gitlabhq/gitlabhq) - A code collaboration app (using Rails 6.1).
 - [graff_mags](https://github.com/dankleiman/graff_mags) - A graffiti magazine sharing app (using Rails 4.1).
