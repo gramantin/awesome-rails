@@ -446,6 +446,7 @@
 - [image_optim_rails](https://github.com/toy/image_optim_rails) - A gem to handle image optimization. [:red_circle:](https://rubygems.org/gems/image_optim_rails)
 - [js-routes](https://github.com/railsware/js-routes) - A tool to generate all Rails routes as JavaScript helpers. [:red_circle:](https://rubygems.org/gems/js-routes)
 - [kaminari](https://github.com/kaminari/kaminari) - A gem to provide pagination. [:red_circle:](https://rubygems.org/gems/kaminari)
+- [kreds](https://github.com/enjaku4/kreds) - A shorthand for Rails credentials access. [:red_circle:](https://rubygems.org/gems/kreds)
 - [kt-paperclip](https://github.com/kreeti/kt-paperclip) - A gem to handle file uploads. [:red_circle:](https://rubygems.org/gems/kt-paperclip)
 - [lockbox](https://github.com/ankane/lockbox) - A gem to deal with encryption. [:red_circle:](https://rubygems.org/gems/lockbox)
 - [lograge](https://github.com/roidrage/lograge) - A gem to customize logger in Rails apps. [:red_circle:](https://rubygems.org/gems/lograge)
