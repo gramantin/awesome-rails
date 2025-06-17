@@ -430,6 +430,7 @@
 - [carrierwave](https://github.com/carrierwaveuploader/carrierwave) - A gem to handle file uploads. [:red_circle:](https://rubygems.org/gems/carrierwave)
 - [caxlsx_rails](https://github.com/caxlsx/caxlsx_rails) - A gem to generate entity-relationship diagram. [:red_circle:](https://rubygems.org/gems/caxlsx_rails)
 - [counter_culture](https://github.com/magnusvk/counter_culture) - A gem to provide counter caches. [:red_circle:](https://rubygems.org/gems/counter_culture)
+- [db_validator](https://github.com/krzysztoff1/db-validator) - A gem to find records in your database that do not meet model validation requirements. [:red_circle:](https://rubygems.org/gems/db_validator)
 - [devise](https://github.com/heartcombo/devise) - A gem to provide authentication. [:red_circle:](https://rubygems.org/gems/devise)
 - [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) - A gem to introduce OAuth2 provider functionality. [:red_circle:](https://rubygems.org/gems/doorkeeper)
 - [draper](https://github.com/drapergem/draper) - A gem to add presentation logic. [:red_circle:](https://rubygems.org/gems/draper)
