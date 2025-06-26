@@ -326,6 +326,7 @@
 - [kitsu-tools](https://github.com/hummingbird-me/kitsu-tools) - An anime discovery platform (using Rails 4.1).
 - [lavish](https://github.com/mquan/lavish) - A color scheme generator (using Rails 4.2).
 - [lifeToRemind](https://github.com/eduqg/LifeToRemind) - A career planning app (using Rails 5.2).
+- [Listopia](https://github.com/spaquet/listopia) - A modern list / task management app (using Rails 8). - [:earth_africa:](https://listopia-dhv.pages.dev)
 - [lobsters](https://github.com/lobsters/lobsters) - A link aggregation app (using Rails 7.0). - [:earth_africa:](https://lobste.rs)
 - [loomio](https://github.com/loomio/loomio) - A collaborative decision-making app (using Rails 6.1). - [:earth_africa:](https://www.loomio.com/)
 - [mastodon](https://github.com/mastodon/mastodon) - A microblogging app (using Rails 6.1). - [:earth_africa:](https://mastodon.social/about)
