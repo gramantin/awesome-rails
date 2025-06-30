@@ -497,6 +497,7 @@
 - [transloadit-rails](https://github.com/transloadit/rails-sdk) - A gem to integrate Transloadit's file uploading and encoding service. [:red_circle:](https://rubygems.org/gems/transloadit-rails)
 - [trove](https://github.com/ankane/trove) - A gem to handle machine learning models deployment. [:red_circle:](https://rubygems.org/gems/trove)
 - [turbo-rails](https://github.com/hotwired/turbo-rails) - A gem to integrate Turbo.js in Rails apps. [:red_circle:](https://rubygems.org/gems/turbo-rails)
+- [veri](https://github.com/brownboxdev/veri) - A gem for cookie-based authentication with fine-grained session control and management. [:red_circle:](https://rubygems.org/gems/veri)
 - [view_component](https://github.com/ViewComponent/view_component) - A gem to introduce view components. [:red_circle:](https://rubygems.org/gems/view_component)
 - [webpacker](https://github.com/rails/webpacker) - A gem to bundle web assets using Webpack. [:red_circle:](https://rubygems.org/gems/webpacker)
 - [zeitwerk](https://github.com/fxn/zeitwerk) - A gem to handle thread-safe code loading. [:red_circle:](https://rubygems.org/gems/zeitwerk)
