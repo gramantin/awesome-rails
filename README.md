@@ -551,6 +551,7 @@
 - [rails-dashboard](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
 - [Optic](https://github.com/opticdev/optic) - Optic automatically documents and tests your APIs.
 - [Liam ERD](https://liambx.com/) - Generate Beautiful ER-Diagrams from your schema.rb. Using ruby/prism WASM with Node.js.
+- [Dash](https://kapeli.com/dash) - Offline API documentation browser for macOS with instant search for Rails docs and 200+ other frameworks.
 
 [Back to top][link_toc]
 
