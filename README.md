@@ -494,6 +494,7 @@
 - [spring](https://github.com/rails/spring) - A gem to preload Rails app. [:red_circle:](https://rubygems.org/gems/spring)
 - [sprockets](https://github.com/rails/sprockets) - A gem to compile & serve web assets. [:red_circle:](https://rubygems.org/gems/sprockets)
 - [stimulus-rails](https://github.com/hotwired/stimulus-rails) - A gem to integrate Stimulus.js in Rails apps. [:red_circle:](https://rubygems.org/gems/stimulus-rails)
+- [subflag-rails](https://github.com/subflag/sdk/tree/main/packages/subflag-rails) - A gem for feature flags and dynamic config that uses ActiveRecord. [🔴](https://rubygems.org/gems/subflag-rails)
 - [tinymce-rails](https://github.com/spohlenz/tinymce-rails) - A gem to integrate Tinymce in Rails apps. [:red_circle:](https://rubygems.org/gems/tinymce-rails)
 - [transloadit-rails](https://github.com/transloadit/rails-sdk) - A gem to integrate Transloadit's file uploading and encoding service. [:red_circle:](https://rubygems.org/gems/transloadit-rails)
 - [trove](https://github.com/ankane/trove) - A gem to handle machine learning models deployment. [:red_circle:](https://rubygems.org/gems/trove)
