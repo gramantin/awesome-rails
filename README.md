@@ -102,6 +102,12 @@
 
 [Back to top][link_toc]
 
+### APIs
+
+- [Vedika](https://vedika.io) - REST API for Rails - Vedic astrology calculations with AI chatbot. 108+ endpoints, 22 languages, 97% accuracy. Ruby SDK available.
+
+[Back to top][link_toc]
+
 ### Community
 
 - [rails on Twitter](https://twitter.com/rails)
