@@ -486,6 +486,7 @@
 - [select2-rails](https://github.com/argerim/select2-rails) - A gem to integrate Select2 library in Rails apps. [:red_circle:](https://rubygems.org/gems/select2-rails)
 - [sequel-activerecord_connection](https://github.com/janko/sequel-activerecord_connection) - A gem to allow Sequel to reuse an ActiveRecord connection. [:red_circle:](https://rubygems.org/gems/sequel-activerecord_connection)
 - [shakapacker](https://github.com/shakacode/shakapacker) - A gem to use webpack to manage app-like JavaScript modules in Rails. [:red_circle:](https://rubygems.org/gems/shakapacker)
+- [sidemail](https://github.com/sidemail/sidemail-sdk-ruby) – A gem for sending and managing application emails. [:red_circle:](https://rubygems.org/gems/sidemail)
 - [simple_form](https://github.com/heartcombo/simple_form) - A gem to handle forms. [:red_circle:](https://rubygems.org/gems/simple_form)
 - [solid_queue](https://github.com/basecamp/solid_queue) - A gem to Database-backed Active Job backend [:red_circle:](https://rubygems.org/gems/solid_queue)
 - [solidus](https://github.com/solidusio/solidus) - A fork of Spree gem, an open source e-commerce platform. [:red_circle:](https://rubygems.org/gems/solidus)
