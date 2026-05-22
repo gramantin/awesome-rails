@@ -59,6 +59,7 @@
 - [GoRails](https://gorails.com) *(freemium)
 - [Drifting Ruby](https://www.driftingruby.com/) *(freemium)
 - [A curated list of Ruby on Rails courses](https://skillcombo.com/topic/ruby-on-rails/)
+- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 #### Youtube channels
 
