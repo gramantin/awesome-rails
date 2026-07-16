@@ -404,6 +404,7 @@
 - [ace-rails-ap](https://github.com/codykrieger/ace-rails-ap) - A gem to integrate ajax.org cloud9 editor into Rails asset pipeline. [:red_circle:](https://rubygems.org/gems/ace-rails-ap)
 - [action_policy](https://github.com/palkan/action_policy) - A tool to handle authorization. [:red_circle:](https://rubygems.org/gems/action_policy)
 - [actionview-svelte-handler](https://codeberg.org/reesericci/actionview-svelte-handler) - An Action View template handler to seamlessly integrate Svelte views. [:red_circle:](https://rubygems.org/gems/actionview-svelte-handler)
+- [active_admin_prism](https://github.com/ramlaxmanyadav/active_admin_prism) - An ActiveAdmin theme that replaces the default top navigation with a collapsible left sidebar, restyling panels, tables & Formtastic forms into a modern card-based look. [:red_circle:](https://rubygems.org/gems/active_admin_prism)
 - [active_decorator](https://github.com/amatsuda/active_decorator) - A gem to keep views & helpers object-oriented. [:red_circle:](https://rubygems.org/gems/active_decorator)
 - [active_enum](https://github.com/adzap/active_enum) - A gem to provide enum classes [:red_circle:](https://rubygems.org/gems/active_enum)
 - [activeadmin](https://github.com/activeadmin/activeadmin) - A gem to provide admin panel. [:red_circle:](https://rubygems.org/gems/activeadmin)
@@ -519,6 +520,7 @@
 - [jumpstart(thomasvanholder)](https://github.com/thomasvanholder/jumpstart) - Template for set-up of Rails 6, Tailwind 2.0 and Devise.
 - [kickoff_tailwind](https://github.com/justalever/kickoff_tailwind) - A rapid Rails 6 application template for personal use bundled with Tailwind CSS.
 - [nativeapptemplateapi](https://github.com/nativeapptemplate/nativeapptemplateapi) - A Rails 8.1 multi-tenant API backend for native iOS (Swift/SwiftUI) and Android (Kotlin/Compose) apps. Uses acts_as_tenant, devise_token_auth, Pundit, Solid Queue/Cache/Cable, and PostgreSQL (using Rails 8.1).
+- [prism_demo](https://github.com/ramlaxmanyadav/prism_demo) - Sample app for testing and previewing the Prism ActiveAdmin theme; a minimal Rails app pre-wired with active_admin_prism and seeded with dummy data.
 - [Rails Blocks](https://railsblocks.com/) - A collection of Ruby on Rails UI components using Tailwind CSS and Stimulus controllers.
 - [rails-devise-graphql](https://github.com/zauberware/rails-devise-graphql) - A Rails 6 boilerplate to create your next Saas product. Preloaded with graphQL, devise, JWT, CanCanCan, RailsAdmin, Rubocop, Rspec, and more.
 - [rails-template(mattbrictson)](https://github.com/mattbrictson/rails-template) - Application template for Rails 6 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
