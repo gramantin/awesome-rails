@@ -524,6 +524,7 @@
 - [prism_demo](https://github.com/ramlaxmanyadav/prism_demo) - Sample app for testing and previewing the Prism ActiveAdmin theme; a minimal Rails app pre-wired with active_admin_prism and seeded with dummy data.
 - [Rails Blocks](https://railsblocks.com/) - A collection of Ruby on Rails UI components using Tailwind CSS and Stimulus controllers.
 - [rails-devise-graphql](https://github.com/zauberware/rails-devise-graphql) - A Rails 6 boilerplate to create your next Saas product. Preloaded with graphQL, devise, JWT, CanCanCan, RailsAdmin, Rubocop, Rspec, and more.
+- [rails-rocket-sheep](https://github.com/PositiveControl/rails-rocket-sheep) - Application template for building with AI coding agents (Claude Code, Cursor, Codex); generates a CLAUDE.md and AGENTS.md, one-convention-per-file rules, workflow commands, and CI gates (using Rails 8.0).
 - [rails-template(mattbrictson)](https://github.com/mattbrictson/rails-template) - Application template for Rails 6 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
 - [rails-template(TristanToye)](https://github.com/TristanToye/rails-template) - MVP Ready Rails - A Template for Your Next Rails App
 - [rails-template(ackama)](https://github.com/ackama/rails-template) - Application template for Rails 6.1 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
