@@ -558,6 +558,7 @@
 ### DevTools
 
 - [Bencher](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
+- [ERB Snippets + View Audit for Rails](https://getreadystack.com/tools/erb-rails-view-snippets-audit) - Paste or open one .html.erb view and see every raw, html_safe, params and CSRF finding a Rails security review sends back — 26 rules, 36 snippets, offline in.
 - [rails-dashboard](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
 - [Optic](https://github.com/opticdev/optic) - Optic automatically documents and tests your APIs.
 - [Liam ERD](https://liambx.com/) - Generate Beautiful ER-Diagrams from your schema.rb. Using ruby/prism WASM with Node.js.
