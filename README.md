@@ -389,6 +389,7 @@
 - [activerecord-pg_enum](https://github.com/alassek/activerecord-pg_enum) - A gem to integrate PostgreSQL's enumerated types with the Rails enum feature. [:red_circle:](https://rubygems.org/gems/activerecord-pg_enum)
 - [activerecord-postgis-adapter](https://github.com/rgeo/activerecord-postgis-adapter) - ActiveRecord connection adapter for PostGIS. [:red_circle:](https://rubygems.org/gems/activerecord-postgis-adapter)
 - [activerecord-postgres_enum](https://github.com/bibendi/activerecord-postgres_enum) - A gem to adds migration and schema.rb support to PostgreSQL enum data types. [:red_circle:](https://rubygems.org/gems/activerecord-postgres_enum)
+- [activerecord-postgresql-branched](https://github.com/carldaws/activerecord-postgresql-branched) - Database adapter that gives each git branch its own PostgreSQL schema. [:red_circle:](https://rubygems.org/gems/activerecord-postgresql-branched)
 - [activerecord-sqlserver-adapter](https://github.com/rails-sqlserver/activerecord-sqlserver-adapter) - ActiveRecord connection adapter for the SQL Server. [:red_circle:](https://rubygems.org/gems/activerecord-sqlserver-adapter)
 - [activerecord-typedstore](https://github.com/byroot/activerecord-typedstore) - A gem to implement `ActiveRecord::Store` with type definition. [:red_circle:](https://rubygems.org/gems/activerecord-typedstore)
 - [activity_notification](https://github.com/simukappu/activity_notification) - A gem to integrate user activity notification. [:red_circle:](https://rubygems.org/gems/activity_notification)
