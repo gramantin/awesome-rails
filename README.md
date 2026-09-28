@@ -479,6 +479,7 @@
 - [subflag-rails](https://github.com/subflag/sdk/tree/main/packages/subflag-rails) - A gem for feature flags and dynamic config that uses ActiveRecord. [🔴](https://rubygems.org/gems/subflag-rails)
 - [tidewave](https://github.com/tidewave-ai/tidewave_rails) - MCP server for agentic Rails development, runtime-level tools for your agent to talk to your running app. [:red_circle:](https://rubygems.org/gems/tidewave)
 - [tinymce-rails](https://github.com/spohlenz/tinymce-rails) - A gem to integrate Tinymce in Rails apps. [:red_circle:](https://rubygems.org/gems/tinymce-rails)
+- [transaction_guard](https://github.com/yashika279/transaction_guard) - A gem to detect HTTP, email, and job side effects inside ActiveRecord transactions. [:red_circle:](https://rubygems.org/gems/transaction_guard)
 - [transloadit-rails](https://github.com/transloadit/rails-sdk) - A gem to integrate Transloadit's file uploading and encoding service. [:red_circle:](https://rubygems.org/gems/transloadit-rails)
 - [trove](https://github.com/ankane/trove) - A gem to handle machine learning models deployment. [:red_circle:](https://rubygems.org/gems/trove)
 - [turbo-rails](https://github.com/hotwired/turbo-rails) - A gem to integrate Turbo.js in Rails apps. [:red_circle:](https://rubygems.org/gems/turbo-rails)
