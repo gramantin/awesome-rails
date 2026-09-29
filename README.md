@@ -333,6 +333,7 @@
 - [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) - A marketplace app - (using Rails 4.0).
 - [reservations](https://github.com/YaleSTC/reservations) - An inventory management app (using Rails 6.0). - [:earth_africa:](http://yalestc.github.io/reservations/)
 - [retrospring](https://github.com/retrospring/retrospring) - A social network following the Q/A (question and answer) principle - [:earth_africa:](https://retrospring.net)
+- [RexOne](https://github.com/rex-9/rexone-core) - Sovereign full-stack application foundation spanning Rails 8 API, React 19, and Flutter mobile (using Rails 8.1). - [:earth_africa:](https://rexone.rex9.me)
 - [rletters](https://codeberg.org/rletters/rletters) - A frontend for database of journal articles for researchers (using Rails 6.0).
 - [rubygems.org](https://github.com/rubygems/rubygems.org) - A gem hosting platform (using Rails 7.0). - [:earth_africa:](https://rubygems.org)
 - [sanataro](https://github.com/kaznum/sanataro) - An account tracker (using Rails 4.2).
