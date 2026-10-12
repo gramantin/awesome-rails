@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/gramantin-awesome-rails-badge.png)](https://mseep.ai/app/gramantin-awesome-rails)
+
 # Awesome Rails
 
 > A curated list of awesome things related to Ruby on Rails [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
