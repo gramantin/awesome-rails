@@ -449,6 +449,7 @@
 - [rails-settings-cached](https://github.com/huacnlee/rails-settings-cached) - A gem to manage global settings as key-value pairs. [:red_circle:](https://rubygems.org/gems/rails-settings-cached)
 - [rails_admin](https://github.com/railsadminteam/rails_admin) - A gem to create & manage admin panel for Rails app. [:red_circle:](https://rubygems.org/gems/rails_admin)
 - [rails_event_store](https://github.com/RailsEventStore/rails_event_store) - A gem to implement event store in Rails [:red_circle:](https://rubygems.org/gems/rails_event_store)
+- [rails_preflight](https://github.com/aslam/rails-preflight) - A gem to report what blocks upgrading a Rails app to a target version, before you change any code. [:red_circle:](https://rubygems.org/gems/rails_preflight)
 - [rails_semantic_logger](https://github.com/reidmorrison/rails_semantic_logger) - A gem to provide alternative logging approach for Rails app. [:red_circle:](https://rubygems.org/gems/rails_semantic_logger)
 - [ranked-model](https://github.com/brendon/ranked-model) - A gem to handle sorting for rows. [:red_circle:](https://rubygems.org/gems/ranked-model)
 - [ransack](https://github.com/activerecord-hackery/ransack) - A gem to provide search functionality. [:red_circle:](https://rubygems.org/gems/ransack)
