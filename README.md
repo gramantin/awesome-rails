@@ -525,6 +525,7 @@
 ### Platforms
 
 - [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere
+- [Light Cloud](https://light-cloud.com) - PaaS that deploys Rails apps from GitHub, GitLab, Bitbucket or a Dockerfile, with scale to zero and managed Postgres/MySQL on paid plans
 
 [Back to top][link_toc]
 
