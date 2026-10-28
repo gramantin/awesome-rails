@@ -433,6 +433,7 @@
 - [kreds](https://github.com/enjaku4/kreds) - A shorthand for Rails credentials access. [:red_circle:](https://rubygems.org/gems/kreds)
 - [kt-paperclip](https://github.com/kreeti/kt-paperclip) - A gem to handle file uploads. [:red_circle:](https://rubygems.org/gems/kt-paperclip)
 - [lockbox](https://github.com/ankane/lockbox) - A gem to deal with encryption. [:red_circle:](https://rubygems.org/gems/lockbox)
+- [logbrew-sdk](https://github.com/LogBrewCo/sdk/tree/main/ruby/logbrew-ruby) - A gem to capture Rails errors, request traces, and ActiveJob failures and send them to LogBrew. [:red_circle:](https://rubygems.org/gems/logbrew-sdk)
 - [lograge](https://github.com/roidrage/lograge) - A gem to customize logger in Rails apps. [:red_circle:](https://rubygems.org/gems/lograge)
 - [mailkick](https://github.com/ankane/mailkick) - A tool to handle mail unsubscriptions. [:red_circle:](https://rubygems.org/gems/mailkick)
 - [marginalia](https://github.com/basecamp/marginalia) - A gem to attach comments to ActiveRecord's SQL queries. [:red_circle:](https://rubygems.org/gems/marginalia)
