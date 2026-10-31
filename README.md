@@ -243,6 +243,7 @@
 - [activeWorkflow](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents (using Rails 6.0).
 - [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) - A civic infrastructure detection app (using Rails 4.2).
 - [airCasting](https://github.com/HabitatMap/AirCasting) - A platform for recording, mapping, and sharing health and environmental data using your smartphone (using Rails 6.1). - [:earth_africa:](https://www.habitatmap.org/aircasting)
+- [Aixle Flow](https://github.com/AixleHQ/flow) - A Kanban board that runs AI coding agents (Claude Code, Codex, Gemini CLI and others) in isolated containers, one durable workflow per card (using Rails 8.1). - [:earth_africa:](https://aixle.com/labs/flow)
 - [alaveteli](https://github.com/mysociety/alaveteli) - A platform for making public freedom of information requests - using Rails 7.0 - [:earth_africa:](https://alaveteli.org)
 - [alonetone](https://github.com/sudara/alonetone) - A music hosting, management & distribution app (using Rails 7.0). - [:earth_africa:](https://alonetone.com)
 - [api.rss](https://github.com/davidesantangelo/api.rss) - A RSS feed conversion (to API) app (using Rails 6.0).
