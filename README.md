@@ -440,6 +440,7 @@
 - [marginalia](https://github.com/basecamp/marginalia) - A gem to attach comments to ActiveRecord's SQL queries. [:red_circle:](https://rubygems.org/gems/marginalia)
 - [metka](https://github.com/jetrockets/metka) - A gem to manage tags using Postgresql array columns. [:red_circle:](https://rubygems.org/gems/metka)
 - [money-rails](https://github.com/RubyMoney/money-rails) - A gem to integrate Money gem in Rails apps. [:red_circle:](https://rubygems.org/gems/money-rails)
+- [openreceive-rails](https://github.com/OpenReceive/openreceive/tree/master/packages/ruby/openreceive-rails) - A gem to accept Bitcoin Lightning payments in Rails apps, paid straight into your own wallet. [:red_circle:](https://rubygems.org/gems/openreceive-rails)
 - [paloma](https://github.com/gnclmorais/paloma) - A gem to manage page-specific JavaScript in Rails apps. [:red_circle:](https://rubygems.org/gems/paloma)
 - [passive_columns](https://github.com/headmandev/passive_columns) - A gem that extends Active Record to retrieve specific columns from DB on demand. [:red_circle:](https://rubygems.org/gems/passive_columns)
 - [pgcli-rails](https://github.com/mattbrictson/pgcli-rails) - A replacement of `rails:dbconsole` command to manage Postgresql. [:red_circle:](https://rubygems.org/gems/pgcli-rails)
